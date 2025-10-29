@@ -1,103 +1,275 @@
-import Image from "next/image";
+import { Navigation } from "@/components/navigation"
+import { Button } from "@/components/ui/button"
+import { Card, CardContent } from "@/components/ui/card"
+import Link from "next/link"
+import { Heart, Brain, Users, Sparkles, Phone, Globe } from "lucide-react"
 
-export default function Home() {
+export default function HomePage() {
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+    <div className="min-h-screen">
+      <Navigation />
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+      {/* Hero Section */}
+      <section className="relative py-20 md:py-32 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-accent/20 to-background">
+        <div className="max-w-4xl mx-auto text-center">
+          <h1 className="text-4xl md:text-6xl font-serif font-bold text-foreground mb-6 text-balance">
+            Heal, Restore and Thrive
+          </h1>
+          <p className="text-xl md:text-2xl text-muted-foreground mb-4 text-pretty">
+            We remodel your boundaries and success
+          </p>
+          <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto text-pretty">
+            Professional psychological services, cognitive assessments, diagnosis, and counseling in a warm, open, and
+            non-judgmental environment.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+            <Link href="/contact">
+              <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
+                Book a Consultation
+              </Button>
+            </Link>
+            <Link href="/disorders/anxiety">
+              <Button size="lg" variant="outline">
+                Explore Disorders
+              </Button>
+            </Link>
+          </div>
+
+          {/* Languages */}
+          <div className="mt-8 flex items-center justify-center gap-2 text-sm text-muted-foreground">
+            <Globe className="h-4 w-4" />
+            <span>Available in English, German & Romanian</span>
+          </div>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
+      </section>
+
+      {/* Philosophy Section */}
+      <section className="py-16 px-4 sm:px-6 lg:px-8 bg-card">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-3xl md:text-4xl font-serif font-bold text-center mb-6 text-card-foreground">
+            I Believe Your Mental Health Matters
+          </h2>
+          <p className="text-lg text-muted-foreground text-center mb-12 text-pretty leading-relaxed">
+            Often, our lives are complicated, and the same goes for our problems. Psychotherapy is the process of
+            identifying and defining the problem you are experiencing and finding new ways to approach it.
+          </p>
+
+          <div className="grid md:grid-cols-2 gap-8">
+            <Card className="border-none shadow-sm">
+              <CardContent className="p-6">
+                <Heart className="h-10 w-10 text-primary mb-4" />
+                <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">Compassionate Care</h3>
+                <p className="text-muted-foreground leading-relaxed">
+                  Fresh approaches to mental health care in a warm, open and non-judgmental environment, to help reduce
+                  emotional suffering and behavioral concerns.
+                </p>
+              </CardContent>
+            </Card>
+
+            <Card className="border-none shadow-sm">
+              <CardContent className="p-6">
+                <Brain className="h-10 w-10 text-primary mb-4" />
+                <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">Evidence-Based Methods</h3>
+                <p className="text-muted-foreground leading-relaxed">
+                  Utilizing well-researched evidence-based and talk-based psychological techniques including CBT, DBT,
+                  ACT, EMDR, and more.
+                </p>
+              </CardContent>
+            </Card>
+
+            <Card className="border-none shadow-sm">
+              <CardContent className="p-6">
+                <Users className="h-10 w-10 text-primary mb-4" />
+                <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">Personalized Approach</h3>
+                <p className="text-muted-foreground leading-relaxed">
+                  Clients receive a personalized service tailored to their specific needs, in a collaborative manner
+                  that respects your unique journey.
+                </p>
+              </CardContent>
+            </Card>
+
+            <Card className="border-none shadow-sm">
+              <CardContent className="p-6">
+                <Sparkles className="h-10 w-10 text-primary mb-4" />
+                <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">Holistic Wellbeing</h3>
+                <p className="text-muted-foreground leading-relaxed">
+                  Looking at eight distinct forms of intelligence and addressing physical, mental, emotional, and social
+                  health factors.
+                </p>
+              </CardContent>
+            </Card>
+          </div>
+        </div>
+      </section>
+
+      {/* Disorders Section */}
+      <section className="py-16 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-6xl mx-auto">
+          <h2 className="text-3xl md:text-4xl font-serif font-bold text-center mb-4">Disorders We Treat</h2>
+          <p className="text-lg text-muted-foreground text-center mb-12 max-w-3xl mx-auto text-pretty">
+            Comprehensive treatment for a wide range of mental health concerns
+          </p>
+
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            {[
+              { name: "Anxiety", href: "/disorders/anxiety" },
+              { name: "Depression", href: "/disorders/depression" },
+              { name: "Trauma & PTSD", href: "/disorders/trauma-ptsd" },
+              { name: "Stress", href: "/disorders/stress" },
+              { name: "Relationships", href: "/disorders/relationships" },
+              { name: "Grief & Loss", href: "/disorders/grief-loss" },
+              { name: "Addiction", href: "/disorders/addiction" },
+              { name: "ADHD", href: "/disorders/adhd" },
+              { name: "Personality Disorders", href: "/disorders/personality-disorders" },
+              { name: "Eating Disorders", href: "/disorders/eating-disorders" },
+              { name: "Bipolar Disorder", href: "/disorders/bipolar" },
+              { name: "Self-Esteem", href: "/disorders/self-esteem" },
+            ].map((disorder) => (
+              <Link key={disorder.href} href={disorder.href}>
+                <Card className="hover:shadow-md transition-shadow cursor-pointer h-full">
+                  <CardContent className="p-6">
+                    <h3 className="font-medium text-card-foreground">{disorder.name}</h3>
+                  </CardContent>
+                </Card>
+              </Link>
+            ))}
+          </div>
+
+          <div className="text-center mt-8">
+            <Link href="/disorders/anxiety">
+              <Button variant="outline" size="lg">
+                View All Disorders
+              </Button>
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Therapies Section */}
+      <section className="py-16 px-4 sm:px-6 lg:px-8 bg-card">
+        <div className="max-w-6xl mx-auto">
+          <h2 className="text-3xl md:text-4xl font-serif font-bold text-center mb-4 text-card-foreground">
+            Evidence-Based Therapies
+          </h2>
+          <p className="text-lg text-muted-foreground text-center mb-12 max-w-3xl mx-auto text-pretty">
+            We use the techniques of CBT, DBT, ACT, ST, SFT, PPT, ITP, NLP, and EMDR for therapies
+          </p>
+
+          <div className="grid md:grid-cols-3 gap-6">
+            {[
+              {
+                name: "Cognitive Behavioural Therapy (CBT)",
+                description:
+                  "Combat present-time issues through problem-solving and identifying unhelpful thought patterns.",
+                href: "/therapies/cbt",
+              },
+              {
+                name: "Dialectical Behavioural Therapy (DBT)",
+                description:
+                  "A modified version of CBT that brings together acceptance and change for optimal results.",
+                href: "/therapies/dbt",
+              },
+              {
+                name: "Acceptance & Commitment Therapy (ACT)",
+                description:
+                  "Mindfulness-based approach that teaches acceptance of emotions while committing to positive action.",
+                href: "/therapies/act",
+              },
+              {
+                name: "EMDR Therapy",
+                description:
+                  "Eye Movement Desensitization Reprocessing for healing from trauma and emotional distress.",
+                href: "/therapies/emdr",
+              },
+              {
+                name: "Schema Therapy",
+                description: "Unified approach combining cognitive, behavioral, and gestalt therapy methods.",
+                href: "/therapies/schema-therapy",
+              },
+              {
+                name: "Mindfulness",
+                description: "Practices to become aware of thoughts and emotions without judgment or distraction.",
+                href: "/therapies/mindfulness",
+              },
+            ].map((therapy) => (
+              <Link key={therapy.href} href={therapy.href}>
+                <Card className="hover:shadow-md transition-shadow cursor-pointer h-full">
+                  <CardContent className="p-6">
+                    <h3 className="text-lg font-serif font-semibold mb-3 text-card-foreground">{therapy.name}</h3>
+                    <p className="text-sm text-muted-foreground leading-relaxed">{therapy.description}</p>
+                  </CardContent>
+                </Card>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* CTA Section */}
+      <section className="py-16 px-4 sm:px-6 lg:px-8 bg-primary text-primary-foreground">
+        <div className="max-w-4xl mx-auto text-center">
+          <h2 className="text-3xl md:text-4xl font-serif font-bold mb-6">Ready to Begin Your Journey?</h2>
+          <p className="text-lg mb-8 opacity-90 text-pretty">
+            Take the first step towards emotional growth and meaningful change. Contact us today for a consultation.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+            <Link href="/contact">
+              <Button size="lg" variant="secondary">
+                Get in Touch
+              </Button>
+            </Link>
+            <a href="tel:+12122555511" className="flex items-center gap-2 text-lg">
+              <Phone className="h-5 w-5" />
+              +1 (212) 255-5511
+            </a>
+          </div>
+        </div>
+      </section>
+
+      {/* Footer */}
+      <footer className="py-12 px-4 sm:px-6 lg:px-8 bg-card border-t border-border">
+        <div className="max-w-6xl mx-auto">
+          <div className="grid md:grid-cols-3 gap-8">
+            <div>
+              <h3 className="text-lg font-serif font-semibold mb-4 text-card-foreground">Raluca Diana Tocoian</h3>
+              <p className="text-sm text-muted-foreground leading-relaxed">
+                Psychologie, Psychotherapie Coaching & Mentoring
+              </p>
+            </div>
+
+            <div>
+              <h4 className="text-sm font-semibold mb-4 text-card-foreground">Quick Links</h4>
+              <div className="flex flex-col gap-2">
+                <Link href="/disorders/anxiety" className="text-sm text-muted-foreground hover:text-foreground">
+                  Disorders
+                </Link>
+                <Link href="/therapies/cbt" className="text-sm text-muted-foreground hover:text-foreground">
+                  Therapies
+                </Link>
+                <Link href="/group-programs" className="text-sm text-muted-foreground hover:text-foreground">
+                  Group Programs
+                </Link>
+                <Link href="/contact" className="text-sm text-muted-foreground hover:text-foreground">
+                  Contact
+                </Link>
+              </div>
+            </div>
+
+            <div>
+              <h4 className="text-sm font-semibold mb-4 text-card-foreground">Contact</h4>
+              <div className="flex flex-col gap-2 text-sm text-muted-foreground">
+                <p>Phone: +1 (212) 255-5511</p>
+                <p>Response within 24-48 hours</p>
+                <p className="mt-2">Languages: English, German, Romanian</p>
+              </div>
+            </div>
+          </div>
+
+          <div className="mt-8 pt-8 border-t border-border text-center text-sm text-muted-foreground">
+            <p>&copy; 2025 Raluca Diana Tocoian. All rights reserved.</p>
+          </div>
+        </div>
       </footer>
     </div>
-  );
+  )
 }
