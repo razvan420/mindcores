@@ -14,7 +14,7 @@ export function getTranslations(locale: Locale = 'en') {
   return translations[locale] || translations.en
 }
 
-export const locales: Locale[] = ['en', 'de', 'ro']
+export const locales = ['en', 'de', 'ro'] as const satisfies readonly Locale[]
 
 export const localeNames: Record<Locale, string> = {
   en: 'English',
