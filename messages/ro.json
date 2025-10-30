@@ -1,0 +1,1805 @@
+{
+  "_comment": "TRADUCERE COMPLETĂ ÎN LIMBA ROMÂNĂ - TOATE CELE 25+ PAGINI",
+  "_version": "1.0.0",
+  "_lastUpdated": "2025-01-29",
+  "Navigation": {
+    "brandName": "Raluca Diana Tocoian",
+    "home": "Acasă",
+    "disorders": "Tulburări",
+    "therapies": "Terapii",
+    "groupPrograms": "Programe de Grup",
+    "contact": "Contact"
+  },
+  "DisordersList": {
+    "anxiety": "Anxietate",
+    "depression": "Depresie",
+    "trauma": "Traumă și PTSD",
+    "stress": "Stres",
+    "relationships": "Relații",
+    "perinatalMood": "Tulburări de Dispoziție Perinatale",
+    "selfEsteem": "Stimă de Sine",
+    "grief": "Doliu și Pierdere",
+    "addiction": "Dependență",
+    "adhd": "ADHD",
+    "personality": "Tulburări de Personalitate",
+    "sexualDysfunctions": "Disfuncții Sexuale",
+    "eating": "Tulburări Alimentare",
+    "bipolar": "Tulburare Bipolară",
+    "mensMentalHealth": "Sănătatea Mentală a Bărbaților",
+    "attachmentDisorder": "Tulburare de Atașament"
+  },
+  "TherapiesList": {
+    "cbt": "TCC",
+    "dbt": "TCD",
+    "act": "ACT",
+    "schemaTherapy": "Terapie prin Scheme",
+    "emdr": "EMDR",
+    "mindfulness": "Mindfulness"
+  },
+  "Common": {
+    "phone": "+1 (212) 255-5511",
+    "bookConsultation": "Rezervă o Consultație",
+    "scheduleConsultation": "Programează Consultație",
+    "contactUs": "Contactează-ne",
+    "learnMore": "Află Mai Multe",
+    "getStarted": "Începe Acum",
+    "getInTouch": "Intră în Legătură",
+    "sendMessage": "Trimite Mesaj",
+    "viewAll": "Vezi Toate",
+    "readMore": "Citește mai mult"
+  },
+  "HomePage": {
+    "hero": {
+      "title": "Vindecă, Restaurează și Prosperă",
+      "subtitle": "Redefinim limitele și succesul tău",
+      "description": "Servicii psihologice profesionale, evaluări cognitive, diagnostic și consiliere într-un mediu căldуros, deschis și fără judecată.",
+      "bookConsultation": "Rezervă o Consultație",
+      "exploreDisorders": "Explorează Tulburările",
+      "languagesAvailable": "Disponibil în Engleză, Germană și Română"
+    },
+    "philosophy": {
+      "title": "Cred că Sănătatea Ta Mentală Contează",
+      "description": "Adesea, viețile noastre sunt complicate, la fel și problemele noastre. Psihoterapia este procesul de identificare și definire a problemei pe care o experimentezi și de găsire a unor noi modalități de a o aborda.",
+      "compassionate": {
+        "title": "Îngrijire Compasivă",
+        "description": "Abordări noi în îngrijirea sănătății mentale într-un mediu căldуros, deschis și fără judecată, pentru a ajuta la reducerea suferinței emocionale și a problemelor comportamentale."
+      },
+      "evidenceBased": {
+        "title": "Metode Bazate pe Dovezi",
+        "description": "Utilizarea tehnicilor psihologice bine documentate, bazate pe dovezi și pe conversație, inclusiv TCC, TCD, ACT, EMDR și altele."
+      },
+      "personalized": {
+        "title": "Abordare Personalizată",
+        "description": "Clienții primesc un serviciu personalizat, adaptat nevoilor lor specifice, într-o manieră colaborativă care respectă parcursul unic al fiecăruia."
+      },
+      "holistic": {
+        "title": "Bunăstare Holistică",
+        "description": "Analizăm opt forme distincte de inteligență și abordăm factorii de sănătate fizică, mentală, emocională și socială."
+      }
+    },
+    "disorders": {
+      "title": "Tulburări pe Care le Tratăm",
+      "subtitle": "Tratament cuprinzător pentru o gamă largă de probleme de sănătate mentală",
+      "viewAll": "Vezi Toate Tulburările"
+    },
+    "therapies": {
+      "title": "Terapii Bazate pe Dovezi",
+      "subtitle": "Folosim tehnicile TCC, TCD, ACT, TS, TSF, PPT, ITP, NLP și EMDR pentru terapii",
+      "cbt": {
+        "title": "Terapie Cognitiv-Comportamentală (TCC)",
+        "description": "Combate problemele actuale prin rezolvarea problemelor și identificarea tiparelor de gândire neajutătoare."
+      },
+      "dbt": {
+        "title": "Terapie Dialectică Comportamentală (TCD)",
+        "description": "O versiune modificată a TCC care reunește acceptarea și schimbarea pentru rezultate optime."
+      },
+      "act": {
+        "title": "Terapia Acceptării și Angajamentului (ACT)",
+        "description": "Abordare bazată pe mindfulness care învață acceptarea emoțiilor în timp ce te angajezi în acțiuni pozitive."
+      },
+      "emdr": {
+        "title": "Terapie EMDR",
+        "description": "Desensibilizare și Reprocesare prin Mișcări Oculare pentru vindecare de traumă și suferință emotională."
+      },
+      "schema": {
+        "title": "Terapie prin Scheme",
+        "description": "Abordare unificată care combină metode cognitive, comportamentale și gestalt."
+      },
+      "mindfulness": {
+        "title": "Mindfulness",
+        "description": "Practici pentru a deveni conștient de gânduri și emoții fără judecată sau distragere."
+      }
+    },
+    "cta": {
+      "title": "Pregătit să Începi Călătoria Ta?",
+      "description": "Fă primul pas către creșterea emoțională și schimbarea semnificativă. Contactează-ne astăzi pentru o consultație.",
+      "button": "Intră în Legătură"
+    },
+    "footer": {
+      "description": "Psihologie, Psihoterapie, Coaching & Mentorat",
+      "quickLinks": "Link-uri Rapide",
+      "contact": "Contact",
+      "phone": "Telefon: +1 (212) 255-5511",
+      "responseTime": "Răspuns în 24-48 ore",
+      "languages": "Limbi: Engleză, Germană, Română",
+      "copyright": "© 2025 Raluca Diana Tocoian. Toate drepturile rezervate."
+    }
+  },
+  "ContactPage": {
+    "hero": {
+      "title": "Intră în Legătură",
+      "subtitle": "Pregătit să faci primul pas? Contactează-ne pentru a programa o consultație sau pentru a pune orice întrebări ai putea avea."
+    },
+    "info": {
+      "title": "Informații de Contact",
+      "phone": "Telefon",
+      "phoneValue": "+1 (212) 255-5511",
+      "email": "Email",
+      "responseTime": "Timp de Răspuns",
+      "responseTimeValue": "În 24-48 ore",
+      "languages": "Limbi",
+      "languagesValue": "Engleză, Germană, Română",
+      "availability": "Disponibilitate",
+      "availabilityValue": "Luni - Vineri, 9:00 - 18:00"
+    },
+    "form": {
+      "title": "Trimite un Mesaj",
+      "fullName": "Nume Complet",
+      "fullNamePlaceholder": "Numele tău",
+      "email": "Adresă de Email",
+      "emailPlaceholder": "email.tau@exemplu.com",
+      "phone": "Număr de Telefon",
+      "phonePlaceholder": "+40 (755) 123-4567",
+      "service": "Serviciu de Interes",
+      "servicePlaceholder": "Selectează un serviciu",
+      "serviceOptions": {
+        "individual": "Terapie Individuală",
+        "couples": "Terapie de Cuplu",
+        "group": "Programe de Grup",
+        "assessment": "Evaluare Psihologică",
+        "other": "Altele"
+      },
+      "message": "Mesaj",
+      "messagePlaceholder": "Spune-ne ce te aduce aici și cum te putem ajuta...",
+      "privacy": "Înțeleg că acest formular nu este pentru urgențe. Dacă ești în criză, te rog sună la 112 sau mergi la cea mai apropiată cameră de urgență.",
+      "submit": "Trimite Mesaj",
+      "responseNote": "Vom răspunde solicitării tale în 24-48 ore",
+      "required": "*"
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "q1": {
+        "question": "Cum programez o întâlnire?",
+        "answer": "Poți programa o întâlnire sunând la +1 (212) 255-5511, trimițând un email sau completând formularul de contact de mai sus. Vom răspunde în 24-48 ore pentru a discuta disponibilitatea și pentru a răspunde la orice întrebări."
+      },
+      "q2": {
+        "question": "Oferiți terapie online?",
+        "answer": "Da, oferim sesiuni de terapie online securizate prin videoconferință. Acest lucru oferă flexibilitate și comoditate, menținând aceeași calitate a îngrijirii ca în sesiunile față în față."
+      },
+      "q3": {
+        "question": "Ce ar trebui să mă aștept în prima sesiune?",
+        "answer": "Prima sesiune este o oportunitate de a ne cunoaște reciproc, de a discuta ce te aduce la terapie, de a revizui istoricul tău și de a dezvolta colaborativ obiective de tratament. Este un spațiu sigur pentru a pune întrebări și pentru a determina dacă suntem potriviți."
+      }
+    }
+  },
+  "GroupProgramsPage": {
+    "hero": {
+      "title": "Programe de Terapie de Grup",
+      "subtitle": "Sesiuni structurate de grup și ateliere pentru probleme specifice de sănătate mentală",
+      "description": "Alătură-te altora într-o călătorie de vindecare și creștere. Programele noastre de grup oferă sprijin, învățare de la semeni și abilități practice."
+    },
+    "benefits": {
+      "title": "Beneficiile Terapiei de Grup",
+      "support": {
+        "title": "Sprijin de la Semeni",
+        "description": "Conectează-te cu alții care înțeleg provocările tale și împărtășesc experiențe similare."
+      },
+      "learning": {
+        "title": "Învățare Împărtășită",
+        "description": "Învață din perspectivele și strategiile de coping ale celorlalți membri ai grupului."
+      },
+      "skills": {
+        "title": "Practică de Abilități",
+        "description": "Exersează noi abilități într-un mediu sigur și primește feedback de la semeni și facilitatori."
+      },
+      "costEffective": {
+        "title": "Eficient din Punct de Vedere al Costurilor",
+        "description": "Primește asistență profesională la un preț mai accesibil decât terapia individuală."
+      }
+    },
+    "programs": {
+      "title": "Programele Noastre de Grup",
+      "dbtSkills": {
+        "title": "Antrenament în Abilități TCD",
+        "description": "Învață abilități esențiale de reglare emoțională, toleranță la suferință, eficacitate interpersonală și mindfulness.",
+        "duration": "12 săptămâni",
+        "format": "Sesiuni săptămânale de 2 ore"
+      },
+      "mindfulness": {
+        "title": "Mindfulness și Reducerea Stresului",
+        "description": "Dezvoltă practici de mindfulness pentru a reduce stresul, îmbunătăți concentrarea și crește bunăstarea.",
+        "duration": "8 săptămâni",
+        "format": "Sesiuni săptămânale de 90 minute"
+      },
+      "anxiety": {
+        "title": "Grup pentru Gestionarea Anxietății",
+        "description": "Învață tehnici TCC pentru a gestiona anxietatea, gândirea catastrofală și atacurile de panică.",
+        "duration": "10 săptămâni",
+        "format": "Sesiuni săptămânale de 90 minute"
+      },
+      "grief": {
+        "title": "Sprijin pentru Doliu și Pierdere",
+        "description": "Procesează pierderea într-un mediu empatic cu alții care înțeleg durerea ta.",
+        "duration": "8 săptămâni",
+        "format": "Sesiuni săptămânale de 90 minute"
+      },
+      "social": {
+        "title": "Grup de Abilități Sociale",
+        "description": "Îmbunătățește abilitățile de comunicare, asertivitatea și construiește relații mai sănătoase.",
+        "duration": "12 săptămâni",
+        "format": "Sesiuni săptămânale de 2 ore"
+      },
+      "selfCompassion": {
+        "title": "Atelier de Autocompasiune",
+        "description": "Cultivă autocompasiunea și învață să fii mai amabil cu tine însuți.",
+        "duration": "6 săptămâni",
+        "format": "Sesiuni săptămânale de 2 ore"
+      }
+    },
+    "process": {
+      "title": "Procesul de Înscriere",
+      "consultation": {
+        "title": "Consultație Inițială",
+        "description": "Programează o consultație scurtă pentru a discuta nevoile tale și pentru a vedea dacă terapia de grup este potrivită pentru tine."
+      },
+      "assessment": {
+        "title": "Evaluare",
+        "description": "Completează o evaluare scurtă pentru a ajuta la stabilirea celui mai bun grup pentru nevoile tale specifice."
+      },
+      "enrollment": {
+        "title": "Înscrierea în Grup",
+        "description": "Alătură-te grupului tău și începe să lucrezi spre obiectivele tale împreună cu semenii și facilitatorii."
+      }
+    },
+    "cta": {
+      "title": "Alătură-te unui Program de Grup",
+      "description": "Experimentează puterea vindecării în comunitate. Contactează-ne astăzi pentru a afla mai multe despre programele noastre de grup."
+    }
+  },
+  "AnxietyPage": {
+    "title": "Tulburări de Anxietate",
+    "subtitle": "Anxietatea este cea mai comună problemă de sănătate mentală. Tratamentul te poate ajuta să recapeți controlul și să trăiești o viață mai liniștită.",
+    "what": {
+      "title": "Ce este Anxietatea?",
+      "description": "Anxietatea este răspunsul natural al corpului la stres - o senzație de teamă sau aprehensiune despre ce urmează. În timp ce anxietatea ocazională este normală, tulburările de anxietate implică îngrijorare excesivă care interferează cu activitățile zilnice."
+    },
+    "types": {
+      "title": "Tipuri de Tulburări de Anxietate",
+      "gad": {
+        "title": "Tulburare de Anxietate Generalizată (TAG)",
+        "description": "Îngrijorare cronică și exagerată despre situații și activități de zi cu zi, chiar și atunci când există puțin sau deloc de ce să-ți faci griji."
+      },
+      "panic": {
+        "title": "Tulburare de Panică",
+        "description": "Episoade recurente și neașteptate de teamă intensă însoțite de simptome fizice precum bătăi rapide ale inimii, transpirație și amețeli."
+      },
+      "social": {
+        "title": "Tulburare de Anxietate Socială",
+        "description": "Teamă intensă de situații sociale și de a fi judecat sau examinat de alții, ducând la evitarea interacțiunilor sociale."
+      },
+      "phobias": {
+        "title": "Fobii Specifice",
+        "description": "Teamă intensă și irațională de obiecte, situații sau activități specifice care nu prezintă pericol real."
+      }
+    },
+    "symptoms": {
+      "title": "Simptome Comune",
+      "list": [
+        "Îngrijorare excesivă",
+        "Neliniște sau senzație de tensiune",
+        "Oboseală ușoară",
+        "Dificultate de concentrare",
+        "Iritabilitate",
+        "Tensiune musculară",
+        "Probleme de somn",
+        "Bătăi rapide ale inimii",
+        "Transpirație",
+        "Tremurături",
+        "Evitarea situațiilor"
+      ]
+    },
+    "treatment": {
+      "title": "Opțiuni de Tratament",
+      "description": "Abordarea noastră integrată pentru tratarea anxietății include:",
+      "cbt": {
+        "title": "Terapie Cognitiv-Comportamentală",
+        "description": "Identifică și modifică tiparele de gândire și comportamentele care contribuie la anxietate."
+      },
+      "exposure": {
+        "title": "Terapie de Expunere",
+        "description": "Expunere treptată la situațiile temute pentru a reduce sensibilitatea și a construi încredere."
+      },
+      "mindfulness": {
+        "title": "Tehnici de Mindfulness",
+        "description": "Învață să rămâi prezent și să observi anxietatea fără a fi copleșit de ea."
+      },
+      "relaxation": {
+        "title": "Antrenament de Relaxare",
+        "description": "Dezvoltă abilități pentru a calma corpul și mintea în timpul anxietății."
+      }
+    },
+    "cta": {
+      "title": "Recapătă Controlul asupra Anxietății",
+      "description": "Nu lăsa anxietatea să îți controleze viața. Contactează-ne astăzi pentru a începe călătoria către o viață mai calmă și mai liniștită."
+    }
+  },
+  "DepressionPage": {
+    "title": "Depresie",
+    "subtitle": "Depresia este mai mult decât simplă tristețe - este o afecțiune medicală tratabilă care afectează modul în care te simți, gândești și funcționezi.",
+    "what": {
+      "title": "Ce este Depresia?",
+      "description": "Depresia (tulburare depresivă majoră) este o afecțiune medicală comună și gravă care afectează negativ modul în care te simți, modul în care gândești și modul în care acționezi. Provoacă sentimente persistente de tristețe și pierderea interesului în activități de care te bucurai cândva."
+    },
+    "symptoms": {
+      "title": "Simptome Comune",
+      "list": [
+        "Dispoziție tristă, anxioasă sau 'goală' persistentă",
+        "Sentimente de lipsă de speranță sau pesimism",
+        "Iritabilitate",
+        "Sentimente de vinovăție, lipsă de valoare sau neajutorare",
+        "Pierderea interesului sau plăcerii în hobby-uri și activități",
+        "Energie scăzută sau oboseală",
+        "Mișcare sau vorbire mai lentă",
+        "Agitație sau neliniște",
+        "Dificultate de concentrare, memorare sau luare a deciziilor",
+        "Probleme de somn sau somn excesiv",
+        "Schimbări de apetit sau greutate",
+        "Gânduri de moarte sau sinucidere"
+      ]
+    },
+    "types": {
+      "title": "Tipuri de Depresie",
+      "major": {
+        "title": "Tulburare Depresivă Majoră",
+        "description": "Simptome severe care interferează cu capacitatea de a munci, dormi, studia și de a te bucura de viață."
+      },
+      "persistent": {
+        "title": "Tulburare Depresivă Persistentă",
+        "description": "Dispoziție deprimată care durează cel puțin doi ani, dar poate să nu fie la fel de severă ca depresia majoră."
+      },
+      "perinatal": {
+        "title": "Depresie Perinatală",
+        "description": "Depresie care apare în timpul sarcinii sau după naștere (depresie postpartum)."
+      },
+      "seasonal": {
+        "title": "Tulburare Afectivă Sezonieră",
+        "description": "Depresie care vine și pleacă odată cu anotimpurile, apărând de obicei iarna."
+      }
+    },
+    "treatment": {
+      "title": "Opțiuni de Tratament",
+      "description": "Abordarea noastră cuprinzătoare pentru tratarea depresiei include:",
+      "cbt": {
+        "title": "Terapie Cognitiv-Comportamentală",
+        "description": "Identifică și schimbă tiparele de gândire negative și comportamentele care contribuie la depresie."
+      },
+      "ipt": {
+        "title": "Terapie Interpersonală",
+        "description": "Se concentrează pe îmbunătățirea relațiilor și a abilităților de comunicare pentru a reduce simptomele depresiei."
+      },
+      "behavioral": {
+        "title": "Activare Comportamentală",
+        "description": "Crește participarea în activități plăcute și semnificative pentru a îmbunătăți dispoziția."
+      },
+      "mindfulness": {
+        "title": "Mindfulness și Meditație",
+        "description": "Dezvoltă conștientizare și acceptare a gândurilor și emoțiilor pentru a preveni recăderile."
+      }
+    },
+    "cta": {
+      "title": "Există Speranță și Ajutor Disponibil",
+      "description": "Depresia este tratabilă, iar cu suportul potrivit, poți te poți simți din nou bine. Contactează-ne astăzi pentru a începe drumul spre recuperare."
+    }
+  },
+  "TraumaPage": {
+    "title": "Traumă și PTSD",
+    "subtitle": "Trauma poate avea un impact profund asupra vieții tale. Terapia specializată te poate ajuta să procesezi experiențele traumatice și să recapeți siguranța.",
+    "what": {
+      "title": "Ce este Trauma?",
+      "description": "Trauma este răspunsul emoțional la un eveniment teribil precum un accident, viol, dezastru natural sau asalt. Imediat după eveniment, șocul și negația sunt tipice. Pe termen lung, reacțiile pot include emoții imprevizibile, flashback-uri, relații tensionate și chiar simptome fizice.",
+      "ptsd": "Tulburarea de Stres Post-Traumatic (PTSD) se poate dezvolta după expunerea la un eveniment traumatic. Implică simptome care persistă mai mult de o lună și afectează semnificativ funcționarea zilnică."
+    },
+    "symptoms": {
+      "title": "Simptome de PTSD",
+      "intrusion": {
+        "title": "Simptome de Intruziune",
+        "description": "Amintiri recurente și involuntare, coșmaruri, flashback-uri și suferință intensă la memento-uri ale traumei."
+      },
+      "avoidance": {
+        "title": "Evitare",
+        "description": "Evitarea gândurilor, sentimentelor, oamenilor, locurilor sau activităților care amintesc de traumă."
+      },
+      "cognition": {
+        "title": "Schimbări Negative în Gândire și Dispoziție",
+        "description": "Credințe negative despre sine sau lume, emoții negative persistente, incapacitatea de a experimenta emoții pozitive."
+      },
+      "arousal": {
+        "title": "Schimbări în Arousal și Reactivitate",
+        "description": "Iritabilitate, comportament imprudent, hipervigilență, răspuns exagerat de spaimă, probleme de concentrare și somn."
+      }
+    },
+    "types": {
+      "title": "Tipuri de Traumă",
+      "list": [
+        "Traumă unică (un eveniment)",
+        "Traumă complexă (evenimente multiple sau pe termen lung)",
+        "Traumă din copilărie",
+        "Violență interpersonală",
+        "Traume legate de război sau combat",
+        "Dezastre naturale",
+        "Accidente",
+        "Pierdere traumatică"
+      ]
+    },
+    "treatment": {
+      "title": "Tratamente Specializate",
+      "description": "Oferim tratamente bazate pe dovezi specifice pentru traumă:",
+      "emdr": {
+        "title": "Terapie EMDR",
+        "description": "Ajută creierul să proceseze amintirile traumatice și să reducă impactul lor emoțional."
+      },
+      "cpt": {
+        "title": "Terapie de Procesare Cognitivă",
+        "description": "Se concentrează pe modificarea credințelor negative legate de traumă."
+      },
+      "pe": {
+        "title": "Terapie de Expunere Prelungită",
+        "description": "Expunere treptată la amintirile și situațiile legate de traumă pentru a reduce evitarea."
+      },
+      "stabilization": {
+        "title": "Lucru de Stabilizare",
+        "description": "Dezvoltă abilități de coping și siguranță înainte de a aborda amintirile traumatice."
+      }
+    },
+    "cta": {
+      "title": "Vindecarea din Traumă este Posibilă",
+      "description": "Nu trebuie să trăiești cu povara traumei pentru totdeauna. Contactează-ne astăzi pentru a începe călătoria ta de vindecare."
+    }
+  },
+  "StressPage": {
+    "title": "Gestionarea Stresului",
+    "subtitle": "Stresul cronic poate afecta sănătatea ta fizică și mentală. Învață tehnici eficiente de coping pentru a gestiona stresul și a îmbunătăți bunăstarea.",
+    "what": {
+      "title": "Ce este Stresul?",
+      "description": "Stresul este răspunsul corpului tău la orice cerință sau provocare. În timp ce un pic de stres poate fi motivant, stresul cronic sau copleșitor poate duce la probleme semnificative de sănătate, afectând sistemele imune, cardiovasculare și ale memoriei.",
+      "chronic": "Stresul cronic apare atunci când corpul experimentează factori de stres frecvenți sau constanți, fără suficient timp de recuperare. Poate duce la anxietate, depresie și diverse probleme de sănătate fizică."
+    },
+    "symptoms": {
+      "title": "Semne de Stres Cronic",
+      "physical": {
+        "title": "Simptome Fizice",
+        "list": [
+          "Dureri de cap",
+          "Tensiune sau durere musculară",
+          "Oboseală",
+          "Probleme de somn",
+          "Probleme de stomac",
+          "Bătăi rapide ale inimii",
+          "Tensiune arterială crescută"
+        ]
+      },
+      "emotional": {
+        "title": "Simptome Emoționale",
+        "list": [
+          "Anxietate sau iritabilitate",
+          "Depresie sau tristețe",
+          "Copleșire",
+          "Lipsă de motivație",
+          "Dificultate de concentrare",
+          "Gânduri în buclă"
+        ]
+      },
+      "behavioral": {
+        "title": "Simptome Comportamentale",
+        "list": [
+          "Supraconsum sau subconsum alimentar",
+          "Evitarea responsabilităților",
+          "Abuz de alcool sau droguri",
+          "Comportamente nervoase",
+          "Reducerea activității fizice",
+          "Izolare socială"
+        ]
+      }
+    },
+    "treatment": {
+      "title": "Strategii de Gestionare a Stresului",
+      "description": "Abordarea noastră cuprinzătoare pentru gestionarea stresului include:",
+      "cbt": {
+        "title": "Tehnici Cognitiv-Comportamentale",
+        "description": "Identifică și schimbă tiparele de gândire care contribuie la stres."
+      },
+      "mindfulness": {
+        "title": "Reducerea Stresului Bazată pe Mindfulness",
+        "description": "Dezvoltă conștientizare a momentului prezent și răspunsuri non-reactive la stres."
+      },
+      "relaxation": {
+        "title": "Tehnici de Relaxare",
+        "description": "Învață respirație profundă, relaxare musculară progresivă și alte metode de calmere."
+      },
+      "lifestyle": {
+        "title": "Modificări de Stil de Viață",
+        "description": "Îmbunătățește somnul, exercițiile fizice, nutriția și gestionarea timpului pentru reziliență."
+      }
+    },
+    "cta": {
+      "title": "Recapătă Echilibrul și Pacea",
+      "description": "Nu lăsa stresul să îți preia viața. Contactează-ne astăzi pentru a învăța strategii eficiente de gestionare a stresului."
+    }
+  },
+  "RelationshipsPage": {
+    "title": "Probleme de Relații",
+    "subtitle": "Relațiile sănătoase necesită efort și comunicare. Terapia te poate ajuta să construiești conexiuni mai puternice și mai satisfăcătoare.",
+    "what": {
+      "title": "Probleme Comune de Relații",
+      "description": "Toate relațiile întâmpină provocări. Problemele de relații pot apărea în parteneriate romantice, dinamici familiale, prietenii și relații profesionale. Terapia oferă un spațiu sigur pentru a aborda aceste probleme și a dezvolta modele mai sănătoase de interacțiune."
+    },
+    "issues": {
+      "title": "Probleme pe Care le Abordăm",
+      "communication": {
+        "title": "Probleme de Comunicare",
+        "description": "Dificultate în exprimarea nevoilor, ascultare activă sau rezolvarea conflictelor constructiv."
+      },
+      "trust": {
+        "title": "Încredere și Infidelitate",
+        "description": "Reconstruirea încrederii după trădare sau abordarea problemelor de gelozie și nesiguranță."
+      },
+      "intimacy": {
+        "title": "Intimitate și Conexiune",
+        "description": "Menținerea intimității emoționale și fizice, depășirea evitării și crearea de conexiune mai profundă."
+      },
+      "conflict": {
+        "title": "Rezolvarea Conflictelor",
+        "description": "Învățarea să dezamorsezi conflictele, să negociezi compromisuri și să găsești soluții reciproc acceptabile."
+      },
+      "boundaries": {
+        "title": "Limite",
+        "description": "Stabilirea și menținerea limitelor sănătoase în relații."
+      },
+      "attachment": {
+        "title": "Probleme de Atașament",
+        "description": "Înțelegerea și abordarea stilurilor de atașament care afectează relațiile."
+      }
+    },
+    "approaches": {
+      "title": "Abordări Terapeutice",
+      "couples": {
+        "title": "Terapie de Cuplu",
+        "description": "Lucrează împreună cu partenerul tău pentru a îmbunătăți comunicarea și a rezolva conflictele."
+      },
+      "eft": {
+        "title": "Terapie Centrată pe Emoții",
+        "description": "Se concentrează pe înțelegerea și exprimarea nevoilor emoționale în relații."
+      },
+      "gottman": {
+        "title": "Metoda Gottman",
+        "description": "Abordare bazată pe cercetare pentru construirea prieteniei, gestionarea conflictelor și crearea de sens comun."
+      },
+      "individual": {
+        "title": "Lucru Individual",
+        "description": "Explorează cum istoria ta personală și tiparele afectează relațiile."
+      }
+    },
+    "cta": {
+      "title": "Construiește Relații Mai Puternice",
+      "description": "Relațiile sănătoase sunt posibile cu instrumentele și sprijinul potrivite. Contactează-ne astăzi pentru a începe."
+    }
+  },
+  "PerinatalMoodPage": {
+    "title": "Tulburări de Dispoziție Perinatale",
+    "subtitle": "Sarcinile și perioada postpartum pot aduce provocări emoționale semnificative. Suportul specializat te poate ajuta să navighezi această perioadă importantă.",
+    "what": {
+      "title": "Ce sunt Tulburările de Dispoziție Perinatale?",
+      "description": "Tulburările de dispoziție perinatale sunt probleme de sănătate mentală care apar în timpul sarcinii sau în primul an după naștere. Acestea pot varia de la depresie și anxietate ușoară la moderată până la afecțiuni mai severe care necesită intervenție imediată.",
+      "common": "Este important de știut că tulburările de dispoziție perinatale sunt comune, tratabile și NU sunt greșeala ta. Cu suportul potrivit, recuperarea completă este posibilă."
+    },
+    "types": {
+      "title": "Tipuri de Tulburări Perinatale",
+      "ppd": {
+        "title": "Depresie Postpartum",
+        "description": "Depresie care apare după naștere, caracterizată prin tristețe persistentă, anxietate și epuizare care interferează cu îngrijirea zilnică a bebelușului."
+      },
+      "ppa": {
+        "title": "Anxietate Postpartum",
+        "description": "Îngrijorare excesivă, atacuri de panică și anxietate despre bunăstarea bebelușului."
+      },
+      "prenatal": {
+        "title": "Depresie și Anxietate Prenatală",
+        "description": "Probleme de dispoziție care apar în timpul sarcinii, afectând atât mama cât și sarcina."
+      },
+      "ocd": {
+        "title": "Tulburare Obsesiv-Compulsivă Perinatală",
+        "description": "Gânduri intrusive și obsesive despre a răni bebelușul, de obicei cauzând suferință și comportamente compulsive."
+      },
+      "psychosis": {
+        "title": "Psihoză Postpartum",
+        "description": "Afecțiune rară și gravă care necesită tratament medical imediat, caracterizată prin confuzie, halucinații și iluzii."
+      }
+    },
+    "symptoms": {
+      "title": "Simptome de Urmărit",
+      "list": [
+        "Tristețe persistentă, plâns sau sentiment de gol",
+        "Îngrijorare sau anxietate excesivă",
+        "Dificultate în a lega afecțiunea de bebeluș",
+        "Iritabilitate sau furie copleșitoare",
+        "Sentimente de neadecvare sau eșec",
+        "Pierderea interesului în activități",
+        "Schimbări în apetit sau somn",
+        "Dificultate de concentrare",
+        "Gânduri intrusive despre a răni bebelușul",
+        "Gânduri despre a te răni pe tine"
+      ]
+    },
+    "treatment": {
+      "title": "Opțiuni de Tratament",
+      "description": "Abordarea noastră specializată pentru tulburările de dispoziție perinatale include:",
+      "therapy": {
+        "title": "Psihoterapie",
+        "description": "Terapie individuală sau de grup centrată pe provocările perinatale specifice."
+      },
+      "support": {
+        "title": "Planificare de Suport",
+        "description": "Ajută la crearea unei rețele de suport și strategii practice de coping."
+      },
+      "couples": {
+        "title": "Consiliere de Cuplu",
+        "description": "Abordarea tranziției la părinție ca echipă și navigarea schimbărilor relaționale."
+      },
+      "coordination": {
+        "title": "Coordonare cu Îngrijirea Medicală",
+        "description": "Lucru colaborativ cu furnizorii tăi de îngrijire medicală pentru abordare cuprinzătoare."
+      }
+    },
+    "cta": {
+      "title": "Meriti Suport în Acest Moment",
+      "description": "Maternitatea nu trebuie să fie copleșitoare. Contactează-ne astăzi pentru suport specializat perinatal."
+    }
+  },
+  "SelfEsteemPage": {
+    "title": "Stima de Sine",
+    "subtitle": "Stima de sine sănătoasă este fundamentul bunăstării emoționale. Terapia te poate ajuta să construiești o relație mai pozitivă cu tine însuți.",
+    "what": {
+      "title": "Ce este Stima de Sine?",
+      "description": "Stima de sine este sentimentul general de valoare și apreciere de sine. Afectează fiecare aspect al vieții tale, de la relații și carieră până la sănătate mintală și funcționare zilnică. Stima de sine scăzută poate duce la anxietate, depresie și dificultăți în atingerea obiectivelor personale."
+    },
+    "signs": {
+      "title": "Semne de Stimă de Sine Scăzută",
+      "list": [
+        "Autocritică negativă constantă",
+        "Dificultate în acceptarea complimentelor",
+        "Îndoială de sine excesivă",
+        "Teamă de eșec sau respingere",
+        "Comportament de plăcere față de oameni",
+        "Perfecționism",
+        "Comparație cu alții",
+        "Dificultate în stabilirea limitelor",
+        "Evitarea provocărilor",
+        "Sensibilitate excesivă la critică",
+        "Neglijarea nevoilor proprii"
+      ]
+    },
+    "causes": {
+      "title": "Ce Contribuie la Stima de Sine Scăzută?",
+      "list": [
+        "Experiențe din copilărie (critică, neglijare, abuz)",
+        "Eșecuri sau respingeri repetate",
+        "Comparație socială și standarde ale mediei",
+        "Experiențe traumatice",
+        "Bullying sau excludere socială",
+        "Probleme de sănătate mentală",
+        "Discurs intern negativ",
+        "Perfecționism și așteptări nerealiste"
+      ]
+    },
+    "treatment": {
+      "title": "Construirea Stimei de Sine Sănătoase",
+      "description": "Abordarea noastră pentru îmbunătățirea stimei de sine include:",
+      "cbt": {
+        "title": "Reestructurare Cognitivă",
+        "description": "Identifică și modifică credințele negative despre tine și tiparele de gândire."
+      },
+      "compassion": {
+        "title": "Practici de Autocompasiune",
+        "description": "Învață să te tratezi cu aceeași bunătate pe care ai oferi-o unui prieten bun."
+      },
+      "values": {
+        "title": "Lucru pe Valori",
+        "description": "Clarifică valorile personale și aliniază acțiunile cu ceea ce contează cu adevărat pentru tine."
+      },
+      "assertiveness": {
+        "title": "Antrenament de Asertivitate",
+        "description": "Dezvoltă abilități pentru a-ți exprima nevoile și a stabili limite sănătoase."
+      }
+    },
+    "cta": {
+      "title": "Descoperă-ți Adevărata Valoare",
+      "description": "Meriti să te simți încrezător și valoros. Contactează-ne astăzi pentru a începe călătoria către o stimă de sine mai mare."
+    }
+  },
+  "GriefPage": {
+    "title": "Doliu și Pierdere",
+    "subtitle": "Doliul este o experiență personală și profundă. Suportul compasiv te poate ajuta să navighezi pierderea și să găsești calea spre vindecare.",
+    "what": {
+      "title": "Înțelegerea Doliului",
+      "description": "Doliul este răspunsul natural la pierdere. Este suferința emoțională pe care o simți atunci când ceva sau cineva drag îți este luat. Cu cât pierderea este mai semnificativă, cu atât doliul este mai intens. În timp ce doliul este răspunsul firesc la pierdere, modalitățile în care oamenii își trăiesc și exprimă doliul sunt unice.",
+      "types": "Pierderea poate lua multe forme: moartea unei persoane iubite, sfârșitul unei relații, pierderea sănătății, pierderea unui loc de muncă, relocare sau alte tranziții semnificative ale vieții."
+    },
+    "stages": {
+      "title": "Dimensiuni ale Doliului",
+      "description": "Doliul nu este un proces liniar, dar poate implica:",
+      "denial": {
+        "title": "Negare și Șoc",
+        "description": "Dificultate în acceptarea realității pierderii."
+      },
+      "anger": {
+        "title": "Furie",
+        "description": "Frustrare și căutarea vinei sau rațiunii."
+      },
+      "bargaining": {
+        "title": "Negociere",
+        "description": "Gânduri despre 'ce ar fi fost dacă' și căutarea modurilor de a schimba rezultatul."
+      },
+      "depression": {
+        "title": "Tristețe Profundă",
+        "description": "Sentimente copleșitoare de gol și pierdere."
+      },
+      "acceptance": {
+        "title": "Acceptare",
+        "description": "Găsirea unui mod de a merge mai departe, menținând amintirile."
+      }
+    },
+    "complicated": {
+      "title": "Doliu Complicat",
+      "description": "Uneori doliul devine prelungit și interferează cu funcționarea zilnică. Semnele doliului complicat includ:",
+      "list": [
+        "Nostalgie intensă care nu scade în timp",
+        "Preocupare cu persoana decedată sau circumstanțele morții",
+        "Dificultate în acceptarea pierderii",
+        "Amorțeală emoțională sau detașare",
+        "Amărăciune despre pierdere",
+        "Sentiment că viața nu mai are sens",
+        "Pierderea identității",
+        "Izolare socială",
+        "Dificultate în participarea la activități sau relații"
+      ]
+    },
+    "treatment": {
+      "title": "Sprijin pentru Doliu",
+      "description": "Abordarea noastră compasivă pentru sprijinul doliului include:",
+      "processing": {
+        "title": "Procesarea Emoțională",
+        "description": "Spațiu sigur pentru a exprima și procesa emoții complexe legate de pierdere."
+      },
+      "meaning": {
+        "title": "Reconstrucție de Sens",
+        "description": "Ajută la găsirea unui mod de a merge mai departe menținând conexiune cu ceea ce sau cine s-a pierdut."
+      },
+      "coping": {
+        "title": "Strategii de Coping",
+        "description": "Dezvoltă abilități sănătoase de coping și ritualuri de comemorare."
+      },
+      "support": {
+        "title": "Grup de Suport",
+        "description": "Conectează-te cu alții care înțeleg experiența pierderii."
+      }
+    },
+    "cta": {
+      "title": "Nu Ești Singur în Doliul Tău",
+      "description": "Sprijinul compasiv poate face diferența în călătoria ta prin doliu. Contactează-ne astăzi."
+    }
+  },
+  "AddictionPage": {
+    "title": "Dependență",
+    "subtitle": "Dependența este o afecțiune tratabilă. Cu suportul potrivit, recuperarea este posibilă și poti recăpăta controlul asupra vieții tale.",
+    "what": {
+      "title": "Înțelegerea Dependenței",
+      "description": "Dependența este o boală cronică caracterizată prin căutarea și folosirea compulsivă a substanței sau comportamentului, în ciuda consecințelor dăunătoare. Afectează chimia creierului și duce la schimbări în zone care implică recompensa, stresul și controlul de sine.",
+      "not": "Dependența NU este o slăbiciune de caracter sau o alegere morală. Este o afecțiune medicală complexă care necesită tratament, la fel ca diabetul sau bolile de inimă."
+    },
+    "types": {
+      "title": "Tipuri de Dependență",
+      "substance": {
+        "title": "Dependență de Substanțe",
+        "list": [
+          "Alcool",
+          "Droguri de prescripție",
+          "Opioide",
+          "Stimulante",
+          "Cannabis",
+          "Sedative"
+        ]
+      },
+      "behavioral": {
+        "title": "Dependențe Comportamentale",
+        "list": [
+          "Jocuri de noroc",
+          "Internet și gaming",
+          "Shopping compulsiv",
+          "Mâncare",
+          "Sex și pornografie",
+          "Muncă"
+        ]
+      }
+    },
+    "signs": {
+      "title": "Semne de Dependență",
+      "list": [
+        "Incapacitatea de a opri sau controla folosirea",
+        "Neglijarea responsabilităților",
+        "Continuarea folosirii în ciuda consecințelor negative",
+        "Dezvoltarea toleranței (nevoie de mai mult pentru același efect)",
+        "Simptome de sevraj la oprire",
+        "Petrecerea timpului excesiv obținând, folosind sau recuperându-se",
+        "Abandonarea activităților înainte plăcute",
+        "Ascunderea sau minimizarea folosirii",
+        "Probleme financiare sau legale",
+        "Schimbări în relații",
+        "Neglijarea sănătății fizice"
+      ]
+    },
+    "treatment": {
+      "title": "Calea spre Recuperare",
+      "description": "Abordarea noastră cuprinzătoare pentru tratarea dependenței include:",
+      "assessment": {
+        "title": "Evaluare și Planificare",
+        "description": "Evaluare completă pentru a înțelege dependența ta și a crea un plan de tratament personalizat."
+      },
+      "therapy": {
+        "title": "Terapie Individuală",
+        "description": "Abordare problemelor subiacente, dezvoltare de abilități de coping și prevenirea recăderilor."
+      },
+      "group": {
+        "title": "Terapie de Grup",
+        "description": "Sprijin de la semeni, experiențe împărtășite și responsabilitate în recuperare."
+      },
+      "family": {
+        "title": "Consiliere Familială",
+        "description": "Repararea relațiilor și construirea unui sistem de suport puternic."
+      },
+      "relapse": {
+        "title": "Prevenirea Recăderilor",
+        "description": "Dezvoltarea strategiilor pentru a identifica și gestiona declanșatoarele și poftele."
+      }
+    },
+    "cta": {
+      "title": "Recuperarea Începe Aici",
+      "description": "Nu trebuie să înfrunți dependența singur. Contactează-ne astăzi pentru a începe călătoria ta spre recuperare."
+    }
+  },
+  "ADHDPage": {
+    "title": "ADHD",
+    "subtitle": "ADHD este o afecțiune neurodevelopmentală tratabilă. Cu strategii și sprijin corecte, poți prospera.",
+    "what": {
+      "title": "Ce este ADHD?",
+      "description": "Tulburarea de Deficit de Atenție și Hiperactivitate (ADHD) este o tulburare neurodevelopmentală caracterizată prin tiparе persistente de neatenție, hiperactivitate și impulsivitate care interferează cu funcționarea și dezvoltarea.",
+      "adults": "În timp ce ADHD începe în copilărie, simptomele continuă adesea în viața adultă. Mulți adulți trăiesc cu ADHD nediagnosticat, luptându-se cu organizarea, gestionarea timpului și relațiile fără să înțeleagă de ce."
+    },
+    "types": {
+      "title": "Tipuri de ADHD",
+      "inattentive": {
+        "title": "Predominant Neatenţiv",
+        "description": "Dificultate de concentrare, distragere ușoară, dezorganizare și probleme cu finalizarea sarcinilor."
+      },
+      "hyperactive": {
+        "title": "Predominant Hiperсctiv-Impulsiv",
+        "description": "Neliniște, tulburare excesivă, întreruperea altora și dificultate de a aștepta."
+      },
+      "combined": {
+        "title": "Tip Combinat",
+        "description": "Simptome semnificative atât de neatenție cât și de hiperactivitate-impulsivitate."
+      }
+    },
+    "symptoms": {
+      "title": "Simptome Comune",
+      "inattention": {
+        "title": "Neatenție",
+        "list": [
+          "Dificultate în menținerea atenției",
+          "Greșeli din neglijență",
+          "Pare să nu asculte",
+          "Nu urmărește instrucțiunile",
+          "Dificultate de organizare",
+          "Evită sarcinile care necesită efort susținut",
+          "Pierde lucruri frecvent",
+          "Se distrage ușor",
+          "Uită activitățile zilnice"
+        ]
+      },
+      "hyperactivity": {
+        "title": "Hiperactivitate și Impulsivitate",
+        "list": [
+          "Agitație sau mișcare constantă",
+          "Dificultate de a rămâne așezat",
+          "Vorbește excesiv",
+          "Întrerupe conversațiile",
+          "Dificultate de a aștepta rândul",
+          "Ia decizii impulsive",
+          "Acționează fără a se gândi la consecințe"
+        ]
+      }
+    },
+    "treatment": {
+      "title": "Strategii de Tratament și Gestionare",
+      "description": "Abordarea noastră cuprinzătoare pentru gestionarea ADHD include:",
+      "coaching": {
+        "title": "Coaching ADHD",
+        "description": "Dezvoltă abilități practice de organizare, gestionare a timpului și finalizare a sarcinilor."
+      },
+      "cbt": {
+        "title": "Terapie Cognitiv-Comportamentală",
+        "description": "Abordă gândirea negativă, construiește stimă de sine și dezvoltă strategii de coping."
+      },
+      "skills": {
+        "title": "Antrenament de Abilități",
+        "description": "Învață tehnici specifice pentru gestionarea simptomelor ADHD în viața de zi cu zi."
+      },
+      "lifestyle": {
+        "title": "Modificări de Stil de Viață",
+        "description": "Optimizează somnul, exercițiile, nutriția și rutinele pentru o mai bună gestionare a simptomelor."
+      }
+    },
+    "cta": {
+      "title": "Prosperă cu ADHD",
+      "description": "ADHD nu te definește - este doar o parte din ceea ce te face unic. Contactează-ne astăzi pentru suport specializat ADHD."
+    }
+  },
+  "PersonalityPage": {
+    "title": "Tulburări de Personalitate",
+    "subtitle": "Tulburările de personalitate implică tipare rigide de gândire și comportament. Tratamentul specializat poate ajuta la dezvoltarea unor moduri mai flexibile și sănătoase de a relaționa.",
+    "what": {
+      "title": "Ce sunt Tulburările de Personalitate?",
+      "description": "O tulburare de personalitate este un tip de tulburare de sănătate mentală în care ai un tipar rigid și nesănătos de gândire, funcționare și comportament. O persoană cu o tulburare de personalitate are dificultăți în perceperea și raportarea la situații și oameni, cauzând probleme semnificative în relații, activități sociale și muncă sau școală."
+    },
+    "types": {
+      "title": "Tipuri de Tulburări de Personalitate",
+      "clusterA": {
+        "title": "Clusterul A (Excentric)",
+        "paranoid": "Paranoic - Neîncredere și suspiciune față de alții",
+        "schizoid": "Schizoid - Detașare de relațiile sociale",
+        "schizotypal": "Schizotipal - Disconfort acut în relații apropiate"
+      },
+      "clusterB": {
+        "title": "Clusterul B (Dramatic)",
+        "antisocial": "Antisocial - Desconsiderare pentru drepturile altora",
+        "borderline": "Borderline - Instabilitate în relații și imagine de sine",
+        "histrionic": "Histrionic - Emoționalitate excesivă și căutare de atenție",
+        "narcissistic": "Narcisist - Grandiositate și lipsă de empatie"
+      },
+      "clusterC": {
+        "title": "Clusterul C (Anxios)",
+        "avoidant": "Evitant - Inhibiție socială și sensibilitate la respingere",
+        "dependent": "Dependent - Nevoie excesivă de a fi îngrijit",
+        "obsessive": "Obsesiv-Compulsiv - Preocupare cu ordine și control"
+      }
+    },
+    "symptoms": {
+      "title": "Semne Generale",
+      "list": [
+        "Probleme frecvente în relații",
+        "Dificultate în gestionarea emoțiilor",
+        "Comportament impulsiv sau riscant",
+        "Imagine de sine instabilă",
+        "Teamă intensă de abandon sau respingere",
+        "Dificultate în a încrede în alții",
+        "Probleme la locul de muncă sau școală",
+        "Izolare socială sau conflict",
+        "Episoade de furie intensă",
+        "Gândire rigidă în alb și negru"
+      ]
+    },
+    "treatment": {
+      "title": "Opțiuni de Tratament Specializat",
+      "description": "Tulburările de personalitate necesită tratament specializat pe termen lung:",
+      "dbt": {
+        "title": "Terapie Dialectică Comportamentală",
+        "description": "Deosebit de eficientă pentru tulburarea de personalitate borderline, învățând reglare emoțională și toleranță la suferință."
+      },
+      "schema": {
+        "title": "Terapie prin Scheme",
+        "description": "Abordează tiparele profunde formate în copilărie care continuă să afecteze relațiile și comportamentul."
+      },
+      "mentalization": {
+        "title": "Terapie Bazată pe Mentalizare",
+        "description": "Ajută la înțelegerea propriilor stări mentale și ale altora pentru îmbunătățirea relațiilor."
+      },
+      "longterm": {
+        "title": "Psihoterapie pe Termen Lung",
+        "description": "Tratament constant, de obicei 2-3 ani sau mai mult, pentru schimbări profunde și de durată."
+      }
+    },
+    "cta": {
+      "title": "Schimbarea Este Posibilă",
+      "description": "Cu tratament specializat, poți dezvolta moduri mai sănătoase de a gândi și de a relaționa. Contactează-ne astăzi."
+    }
+  },
+  "SexualDysfunctionsPage": {
+    "title": "Disfuncții Sexuale",
+    "subtitle": "Problemele sexuale sunt comune și tratabile. Terapia poate ajuta la abordarea factorilor psihologici care afectează funcția și satisfacția sexuală.",
+    "what": {
+      "title": "Înțelegerea Disfuncțiilor Sexuale",
+      "description": "Disfuncțiile sexuale sunt probleme persistente și recurente cu răspunsul sexual, dorința, orgasmul sau durerea care te supără sau care solicită relația ta cu partenerul. Mulți oameni experimentează probleme cu funcția sexuală la un moment dat, iar când aceste probleme persistă, pot cauza suferință semnificativă.",
+      "psychological": "În timp ce unele disfuncții sexuale au cauze medicale, factorii psihologici joacă adesea un rol semnificativ. Anxietatea, stresul, trauma, problemele de relație și problemele de imagine corporală pot toate contribui la dificultățile sexuale."
+    },
+    "types": {
+      "title": "Tipuri de Disfuncții Sexuale",
+      "desire": {
+        "title": "Tulburări de Dorință",
+        "description": "Interes scăzut sau absent pentru activitatea sexuală, cauzând suferință personală."
+      },
+      "arousal": {
+        "title": "Tulburări de Excitare",
+        "description": "Dificultate în obținerea sau menținerea excitării sexuale în timpul activității sexuale."
+      },
+      "orgasm": {
+        "title": "Tulburări de Orgasm",
+        "description": "Întârziere persistentă sau absența orgasmului după stimulare adecvată."
+      },
+      "pain": {
+        "title": "Tulburări de Durere",
+        "description": "Durere asociată cu actul sexual, inclusiv penetrarea vaginală sau alte activități sexuale."
+      },
+      "premature": {
+        "title": "Ejaculare Prematură",
+        "description": "Ejaculare care apare prea devreme, de obicei înainte de sau la scurt timp după penetrare."
+      },
+      "erectile": {
+        "title": "Disfuncție Erectilă",
+        "description": "Incapacitatea persistentă de a obține sau menține o erecție pentru activitate sexuală."
+      }
+    },
+    "factors": {
+      "title": "Factori Psihologici",
+      "list": [
+        "Anxietate de performanță",
+        "Stres și îngrijorare",
+        "Depresie",
+        "Probleme de imagine corporală",
+        "Vinovăție sau rușine legată de sex",
+        "Trauma sau abuzul sexual trecut",
+        "Probleme de relație",
+        "Așteptări nerealiste",
+        "Lipsa de educație sexuală",
+        "Conflicte culturale sau religioase despre sex"
+      ]
+    },
+    "treatment": {
+      "title": "Abordări Terapeutice",
+      "description": "Abordarea noastră sensibilă și confidențială pentru tratarea disfuncțiilor sexuale include:",
+      "sex": {
+        "title": "Terapie Sexuală",
+        "description": "Terapie specializată care abordează preocupările sexuale specifice prin educație, comunicare și exerciții."
+      },
+      "cbt": {
+        "title": "Terapie Cognitiv-Comportamentală",
+        "description": "Abordă anxietatea de performanță, credințele negative și tiparele de gândire despre sex."
+      },
+      "couples": {
+        "title": "Terapie de Cuplu",
+        "description": "Îmbunătățește comunicarea, intimitatea și rezolvarea problemelor sexuale ca echipă."
+      },
+      "mindfulness": {
+        "title": "Terapie Bazată pe Mindfulness",
+        "description": "Crește conștientizarea corporală, reduce anxietatea și îmbunătățește plăcerea sexuală."
+      }
+    },
+    "cta": {
+      "title": "Recapătă Sănătatea și Intimitatea Sexuală",
+      "description": "Nu lăsa problemele sexuale să afecteze viața și relațiile tale. Contactează-ne astăzi pentru suport confidențial."
+    }
+  },
+  "EatingPage": {
+    "title": "Tulburări Alimentare",
+    "subtitle": "Tulburările alimentare sunt afecțiuni grave de sănătate mentală. Tratamentul specializat poate ajuta la dezvoltarea unei relații mai sănătoase cu mâncarea și corpul.",
+    "what": {
+      "title": "Ce sunt Tulburările Alimentare?",
+      "description": "Tulburările alimentare sunt afecțiuni comportamentale caracterizate prin perturbări severe și persistente ale comportamentelor alimentare și gândurilor și emoțiilor tulburătoare asociate. Acestea pot afecta sănătatea fizică, emoțională și socială și pot fi fatale dacă nu sunt tratate.",
+      "notChoice": "Tulburările alimentare NU sunt alegeri sau faze. Sunt boli mentale grave care necesită tratament profesionist."
+    },
+    "types": {
+      "title": "Tipuri de Tulburări Alimentare",
+      "anorexia": {
+        "title": "Anorexia Nervoasă",
+        "description": "Restricție extremă a aportului alimentar, teamă intensă de creștere în greutate și imagine corporală distorsionată."
+      },
+      "bulimia": {
+        "title": "Bulimia Nervoasă",
+        "description": "Episoade recurente de consum excesiv urmate de comportamente compensatorii precum vărsarea, folosirea laxativelor sau exerciții excesive."
+      },
+      "bed": {
+        "title": "Tulburare de Consum Alimentar Excesiv",
+        "description": "Episoade recurente de consum de cantități mari de mâncare cu senzație de pierdere a controlului, fără comportamente compensatorii."
+      },
+      "arfid": {
+        "title": "Tulburare Evitantă/Restrictivă de Aport Alimentar",
+        "description": "Evitarea sau restricționarea aportului alimentar care duce la deficit nutrițional sau interferență cu funcționarea."
+      },
+      "other": {
+        "title": "Alte Tulburări Alimentare Specificate",
+        "description": "Simptome semnificative de tulburare alimentară care nu îndeplinesc criteriile complete pentru tulburările de mai sus."
+      }
+    },
+    "signs": {
+      "title": "Semne de Avertizare",
+      "list": [
+        "Preocupare cu greutatea, mâncarea sau caloriile",
+        "Restricție severă a alimentelor sau ritualuri alimentare",
+        "Fluctuații extreme în greutate",
+        "Nemulțumire cu imaginea corporală",
+        "Evitarea meselor sau mâncatul în ascuns",
+        "Exerciții compulsive",
+        "Retragere socială",
+        "Preocupare cu dieta și mâncarea",
+        "Comportamente compensatorii (vomă, laxative)",
+        "Schimbări de dispoziție sau iritabilitate",
+        "Simptome fizice (amețeli, oboseală, probleme digestive)"
+      ]
+    },
+    "treatment": {
+      "title": "Tratament Cuprinzător",
+      "description": "Abordarea noastră specializată pentru tratarea tulburărilor alimentare include:",
+      "assessment": {
+        "title": "Evaluare Completă",
+        "description": "Evaluare medicală și psihologică pentru a înțelege nevoile tale unice de tratament."
+      },
+      "therapy": {
+        "title": "Psihoterapie Specializată",
+        "description": "TCC-E, TCD sau terapie bazată pe familie specifică tulburărilor alimentare."
+      },
+      "nutrition": {
+        "title": "Consiliere Nutrițională",
+        "description": "Lucru cu dieteticieni pentru a dezvolta obiceiuri alimentare sănătoase și a restaura sănătatea fizică."
+      },
+      "medical": {
+        "title": "Monitorizare Medicală",
+        "description": "Coordonare cu furnizori de îngrijire medicală pentru a aborda complicațiile de sănătate fizică."
+      },
+      "group": {
+        "title": "Terapie de Grup",
+        "description": "Sprijin de la semeni și experiențe împărtășite în recuperare."
+      }
+    },
+    "cta": {
+      "title": "Recuperarea Este Posibilă",
+      "description": "Cu tratamentul potrivit, recuperarea completă din tulburările alimentare este posibilă. Contactează-ne astăzi pentru suport specializat."
+    }
+  },
+  "BipolarPage": {
+    "title": "Tulburare Bipolară",
+    "subtitle": "Tulburarea bipolară este o afecțiune de dispoziție gestionabilă. Cu tratament și sprijin, poți duce o viață stabilă și plină de sens.",
+    "what": {
+      "title": "Ce este Tulburarea Bipolară?",
+      "description": "Tulburarea bipolară este o afecțiune de sănătate mentală caracterizată prin schimbări extreme de dispoziție, energie și niveluri de activitate. Aceste schimbări variază de la perioade de dispoziție extrem de înaltă (manie sau hipomanie) până la perioade de dispoziție extrem de joasă (depresie).",
+      "lifelong": "Tulburarea bipolară este o afecțiune de durată care necesită gestionare continuă, dar cu tratamentul potrivit, oamenii cu tulburare bipolară pot duce vieți productive și împlinite."
+    },
+    "types": {
+      "title": "Tipuri de Tulburare Bipolară",
+      "bipolarI": {
+        "title": "Tulburare Bipolară I",
+        "description": "Caracterizată prin episoade maniacale care durează cel puțin 7 zile sau simptome maniacale atât de severe încât este necesară îngrijire imediată. De obicei apar și episoade depresive."
+      },
+      "bipolarII": {
+        "title": "Tulburare Bipolară II",
+        "description": "Caracterizată prin un tipar de episoade depresive și episoade hipomaniacale (manie mai puțin severă), dar nu episoade maniacale complete."
+      },
+      "cyclothymic": {
+        "title": "Tulburare Ciclotimică",
+        "description": "Perioade de simptome hipomaniacale și perioade de simptome depresive care durează cel puțin 2 ani, dar simptomele nu îndeplinesc criteriile pentru episoade complete."
+      }
+    },
+    "symptoms": {
+      "title": "Simptome",
+      "manic": {
+        "title": "Episoade Maniacale/Hipomaniacale",
+        "list": [
+          "Dispoziție anormal de înaltă sau iritabilă",
+          "Energie crescută sau agitație",
+          "Nevoia scăzută de somn",
+          "Vorbire rapidă și gânduri în cursă",
+          "Distragere ușoară",
+          "Creșterea activităților orientate spre obiective",
+          "Comportament riscant sau impulsiv",
+          "Stimă de sine umflată sau grandiositate",
+          "Creșterea socializării",
+          "Judecată slabă"
+        ]
+      },
+      "depressive": {
+        "title": "Episoade Depresive",
+        "list": [
+          "Dispoziție tristă, anxioasă sau goală persistentă",
+          "Pierderea interesului sau plăcerii",
+          "Energie scăzută și oboseală",
+          "Probleme de somn",
+          "Schimbări de apetit sau greutate",
+          "Dificultate de concentrare",
+          "Sentimente de lipsă de valoare sau vinovăție",
+          "Desesperare",
+          "Gânduri de moarte sau sinucidere"
+        ]
+      }
+    },
+    "treatment": {
+      "title": "Gestionare și Tratament",
+      "description": "Abordarea noastră cuprinzătoare pentru gestionarea tulburării bipolare include:",
+      "psychoeducation": {
+        "title": "Psihoeducație",
+        "description": "Învață despre tulburare, recunoaște semnele de avertizare și înțelege importanța tratamentului."
+      },
+      "therapy": {
+        "title": "Psihoterapie",
+        "description": "TCC, terapie centrată pe familie sau terapie de ritm social pentru a gestiona simptomele și a preveni recăderile."
+      },
+      "monitoring": {
+        "title": "Monitorizare a Dispoziției",
+        "description": "Urmărește tiparele de dispoziție pentru a identifica declanșatoarele și semnele de avertizare timpurii."
+      },
+      "lifestyle": {
+        "title": "Managementul Stilului de Viață",
+        "description": "Menține rutine regulate de somn, gestionează stresul și evită substanțele pentru stabilitatea dispoziției."
+      },
+      "crisis": {
+        "title": "Planificare de Criză",
+        "description": "Dezvoltă un plan pentru gestionarea episoadelor acute și prevenirea spitalizării."
+      }
+    },
+    "cta": {
+      "title": "Găsește Stabilitate și Echilibru",
+      "description": "Cu tratament și suport adecvat, poți gestiona tulburarea bipolară și duce o viață împlinită. Contactează-ne astăzi."
+    }
+  },
+  "MensMentalHealthPage": {
+    "title": "Sănătatea Mentală a Bărbaților",
+    "subtitle": "Bărbații se confruntă cu provocări unice de sănătate mentală. Oferim suport adaptat nevoilor și experiențelor bărbaților.",
+    "what": {
+      "title": "Înțelegerea Sănătății Mentale a Bărbaților",
+      "description": "Bărbații experimentează adesea și exprimă problemele de sănătate mentală diferit de femei. Normele sociale despre masculinitate pot face ca bărbații să fie mai puțin probabil să caute ajutor, ducând la suferință netratată și rate mai mari de sinucidere.",
+      "stigma": "Este important să înțelegem că a căuta ajutor pentru sănătatea mentală este un semn de putere, nu de slăbiciune. Fiecare merită sprijin în gestionarea provocărilor vieții."
+    },
+    "challenges": {
+      "title": "Provocări Comune ale Bărbaților",
+      "pressure": {
+        "title": "Presiune să Fie Puternic",
+        "description": "Așteptări sociale de a fi invulnerabil emoțional și de a 'se descurca' singur."
+      },
+      "emotion": {
+        "title": "Dificultate în Exprimarea Emoțiilor",
+        "description": "Adesea sociabilizați pentru a suprima emoțiile, ducând la probleme de reglare emoțională."
+      },
+      "identity": {
+        "title": "Identitate și Scop",
+        "description": "Luptă cu identitatea masculină, roluri și găsirea scopului în schimbarea societății."
+      },
+      "relationships": {
+        "title": "Probleme de Relație",
+        "description": "Dificultate în formarea conexiunilor profunde și exprimarea vulnerabilității în relații."
+      },
+      "work": {
+        "title": "Stres Legat de Muncă",
+        "description": "Presiune pentru a fi furnizorul și a reuși profesional, adesea cu prețul sănătății."
+      },
+      "substance": {
+        "title": "Abuz de Substanțe",
+        "description": "Rate mai mari de abuz de alcool și droguri ca mecanism de coping."
+      }
+    },
+    "symptoms": {
+      "title": "Cum Arată Depresia la Bărbați",
+      "description": "Bărbații pot manifesta depresia diferit de femei:",
+      "list": [
+        "Iritabilitate sau furie în loc de tristețe",
+        "Comportament agresiv sau riscant",
+        "Abuz de substanțe",
+        "Muncă excesivă",
+        "Retragere de la relații",
+        "Oboseală și probleme de somn",
+        "Dificultate de concentrare",
+        "Simptome fizice (dureri, probleme digestive)",
+        "Pierderea interesului în activități",
+        "Gânduri de sinucidere"
+      ]
+    },
+    "treatment": {
+      "title": "Abordări Terapeutice pentru Bărbați",
+      "description": "Oferim terapie adaptată nevoilor și stilului de comunicare al bărbaților:",
+      "practical": {
+        "title": "Focalizare Orientată spre Soluții",
+        "description": "Abordare practică, orientată spre acțiune, care se concentrează pe rezolvarea problemelor și construirea abilităților."
+      },
+      "emotion": {
+        "title": "Dezvoltare a Conștientizării Emoționale",
+        "description": "Învață să identifici, înțelegi și exprimi emoțiile într-un mod sănătos."
+      },
+      "masculinity": {
+        "title": "Explorarea Masculinității",
+        "description": "Examinează normele masculine și dezvoltă o identitate masculină mai sănătoasă și autentică."
+      },
+      "relationships": {
+        "title": "Îmbunătățirea Relațiilor",
+        "description": "Construiește abilități de comunicare și capacitate pentru intimitate emoțională."
+      }
+    },
+    "cta": {
+      "title": "A Căuta Ajutor Este Putere",
+      "description": "Meriti sprijin pentru a naviga provocările vieții. Contactează-ne astăzi pentru terapie adaptată bărbaților."
+    }
+  },
+  "AttachmentDisorderPage": {
+    "title": "Tulburare de Atașament",
+    "subtitle": "Experiențele din copilărie modelează modul în care ne conectăm cu alții. Terapia poate ajuta la vindecarea rănilor de atașament și la construirea relațiilor sănătoase.",
+    "what": {
+      "title": "Ce este Atașamentul?",
+      "description": "Atașamentul se referă la legătura emoțională profundă care se dezvoltă între un copil și îngrijitorul său primar în primii ani de viață. Această legătură timpurie creează o bază pentru toate relațiile viitoare și afectează dezvoltarea emoțională, socială și psihologică.",
+      "disrupted": "Atunci când atașamentul timpuriu este perturbat din cauza neglijării, abuzului, separării sau îngrijirii inconsecvente, pot apărea probleme de atașament. Acestea pot continua să afecteze relațiile și bunăstarea emoțională în viața adultă."
+    },
+    "styles": {
+      "title": "Stiluri de Atașament",
+      "secure": {
+        "title": "Atașament Securizat",
+        "description": "Confortabil cu intimitatea și independența, încredere în alții, reglare emoțională sănătoasă."
+      },
+      "anxious": {
+        "title": "Atașament Anxios",
+        "description": "Teamă de abandon, nevoia constantă de asigurare, preocupare cu relațiile, sensibilitate la respingere."
+      },
+      "avoidant": {
+        "title": "Atașament Evitant",
+        "description": "Disconfort cu intimitatea, auto-suficiență excesivă, dificultate în încrederea altora, supresia emoțiilor."
+      },
+      "disorganized": {
+        "title": "Atașament Dezorganizat",
+        "description": "Comportament inconsecvent în relații, teamă de intimitate dar și de abandon, dificultate în reglarea emoțiilor."
+      }
+    },
+    "signs": {
+      "title": "Semne ale Problemelor de Atașament",
+      "list": [
+        "Dificultate în încrederea altora",
+        "Teamă de abandon sau respingere",
+        "Probleme cu intimitatea",
+        "Relații instabile",
+        "Dificultate în reglarea emoțiilor",
+        "Stima de sine scăzută",
+        "Dependență excesivă sau independență",
+        "Dificultate în exprimarea nevoilor",
+        "Comportament autosabotant în relații",
+        "Teamă de vulnerabilitate",
+        "Probleme de control în relații"
+      ]
+    },
+    "impact": {
+      "title": "Impact asupra Vieții Adulte",
+      "relationships": {
+        "title": "Relații",
+        "description": "Dificultate în formarea și menținerea relațiilor apropiate, sănătoase."
+      },
+      "emotional": {
+        "title": "Reglare Emoțională",
+        "description": "Provocări în gestionarea emoțiilor intense și menținerea stabilității emoționale."
+      },
+      "selfWorth": {
+        "title": "Imagine de Sine",
+        "description": "Credințe negative despre sine și sentimente de nedemn de iubire."
+      },
+      "mentalHealth": {
+        "title": "Sănătate Mentală",
+        "description": "Risc crescut pentru anxietate, depresie și alte probleme de sănătate mentală."
+      }
+    },
+    "treatment": {
+      "title": "Vindecarea Rănilor de Atașament",
+      "description": "Abordarea noastră pentru tratarea problemelor de atașament include:",
+      "awareness": {
+        "title": "Înțelegerea Tiparelor de Atașament",
+        "description": "Identifică stilul tău de atașament și cum afectează relațiile."
+      },
+      "therapy": {
+        "title": "Terapie Centrată pe Atașament",
+        "description": "Creează o relație terapeutică sigură ca bază pentru vindecarea atașamentului."
+      },
+      "schema": {
+        "title": "Terapie prin Scheme",
+        "description": "Abordează tiparele profunde formate în copilărie și dezvoltă moduri mai sănătoase de a relaționa."
+      },
+      "emdr": {
+        "title": "EMDR pentru Traumă",
+        "description": "Procesează experiențele traumatice timpurii care au afectat atașamentul."
+      },
+      "relationships": {
+        "title": "Lucru pe Relații",
+        "description": "Dezvoltă abilități pentru relații mai sănătoase și atașament securizat."
+      }
+    },
+    "cta": {
+      "title": "Nu Este Prea Târziu pentru a Vindeca",
+      "description": "Atașamentul securizat poate fi dezvoltat în orice moment al vieții. Contactează-ne astăzi pentru a începe vindecarea."
+    }
+  },
+  "CBTPage": {
+    "title": "Terapie Cognitiv-Comportamentală (TCC)",
+    "subtitle": "TCC este o terapie de vorbire structurată, orientată spre obiective, care te învață cum gândurile, sentimentele și comportamentele tale sunt conectate.",
+    "what": {
+      "title": "Ce este TCC?",
+      "description": "Terapia Cognitiv-Comportamentală este o formă de psihoterapie care se concentrează pe modul în care gândurile, credințele și atitudinile tale afectează sentimentele și comportamentele tale. TCC te învață abilități de coping pentru a face față diferitelor probleme și îmbunătățește bunăstarea emoțională.",
+      "evidenceBased": "TCC este una dintre cele mai bine cercetate și eficiente forme de terapie, cu dovezi puternice pentru tratarea anxietății, depresiei și multor alte afecțiuni de sănătate mentală."
+    },
+    "principles": {
+      "title": "Principii de Bază ale TCC",
+      "thoughts": {
+        "title": "Gândurile Influențează Sentimentele",
+        "description": "Modul în care interpretezi situațiile afectează modul în care te simți față de ele."
+      },
+      "patterns": {
+        "title": "Tiparele Pot Fi Identificate",
+        "description": "Tiparele de gândire negative și comportamente pot fi recunoscute și înțelese."
+      },
+      "change": {
+        "title": "Schimbarea Este Posibilă",
+        "description": "Noile abilități și strategii pot transforma gândurile și comportamentele negative."
+      },
+      "active": {
+        "title": "Participant Activ",
+        "description": "TCC necesită participare activă și practica abilităților între sesiuni."
+      }
+    },
+    "components": {
+      "title": "Componente ale TCC",
+      "cognitive": {
+        "title": "Reestructurare Cognitivă",
+        "description": "Identifică și modifică tiparele de gândire negative și distorsiunile cognitive."
+      },
+      "behavioral": {
+        "title": "Activare Comportamentală",
+        "description": "Crește participarea în activități pozitive pentru îmbunătățirea dispoziției și energiei."
+      },
+      "exposure": {
+        "title": "Tehnici de Expunere",
+        "description": "Confruntă treptat situațiile temute pentru a reduce anxietatea în timp."
+      },
+      "problemSolving": {
+        "title": "Antrenament de Rezolvare a Problemelor",
+        "description": "Dezvoltă abilități practice pentru abordarea provocărilor vieții eficient."
+      }
+    },
+    "conditions": {
+      "title": "Afecțiuni Tratate cu TCC",
+      "list": [
+        "Tulburări de anxietate",
+        "Depresie",
+        "Tulburare de panică",
+        "Fobii",
+        "Tulburare obsesiv-compulsivă",
+        "PTSD",
+        "Tulburări de somn",
+        "Tulburări alimentare",
+        "Gestionarea durerii cronice",
+        "Probleme de furie",
+        "Probleme de relații",
+        "Abuz de substanțe"
+      ]
+    },
+    "expect": {
+      "title": "Ce să Te Aștepți în TCC",
+      "items": [
+        "Sesiuni structurate cu agende clare și obiective",
+        "Învățarea despre conexiunea gânduri-sentimente-comportamente",
+        "Identificarea tiparelor de gândire negative (distorsiuni cognitive)",
+        "Provocarea și reevaluarea gândurilor neajutătoare",
+        "Teme practice pentru a exersa noile abilități",
+        "Urmărirea progresului și a simptomelor",
+        "Tratament pe termen scurt (de obicei 12-20 sesiuni)",
+        "Abilități pe care le vei folosi pe tot parcursul vieții"
+      ]
+    },
+    "cta": {
+      "title": "Schimbă-ți Gândurile, Schimbă-ți Viața",
+      "description": "TCC oferă instrumente practice pentru transformarea gândurilor negative și îmbunătățirea bunăstării emoționale. Contactează-ne astăzi pentru a începe."
+    }
+  },
+  "DBTPage": {
+    "title": "Terapie Dialectică Comportamentală (TCD)",
+    "subtitle": "TCD combină strategii de acceptare și schimbare pentru a ajuta la gestionarea emoțiilor intense și îmbunătățirea relațiilor.",
+    "what": {
+      "title": "Ce este TCD?",
+      "description": "Terapia Dialectică Comportamentală este un tip de terapie cognitiv-comportamentală dezvoltată inițial pentru tratarea tulburării de personalitate borderline. Aceasta combină tehnici cognitive și comportamentale standard cu concepte de toleranță la suferință, acceptare și conștientizare mindfulness.",
+      "dialectical": "Termenul 'dialectic' se referă la echilibrarea opuselor - în special acceptarea ta așa cum ești, în timp ce lucrezi la schimbare. Acest echilibru este esențial pentru îmbunătățire."
+    },
+    "modules": {
+      "title": "Cele Patru Module ale TCD",
+      "mindfulness": {
+        "title": "Mindfulness",
+        "description": "Învață să fii prezent în moment, să observi fără judecată și să participi pe deplin la viață.",
+        "skills": [
+          "Minte înțeleaptă (echilibrarea emoției și rațiunii)",
+          "Observare (remarcare fără reacție)",
+          "Descriere (punerea în cuvinte a experiențelor)",
+          "Participare (imersiune completă în activități)"
+        ]
+      },
+      "distress": {
+        "title": "Toleranță la Suferință",
+        "description": "Dezvoltă abilități pentru tolerarea și supraviețuirea situațiilor de criză și acceptarea realității.",
+        "skills": [
+          "Tehnici STOP (Stop, Fă un pas înapoi, Observă, Procedează cu gândire)",
+          "Activități calmante (auto-liniștire prin simțuri)",
+          "Îmbunătățirea momentului (strategii pentru crize)",
+          "Acceptare radicală (acceptarea completă a realității)"
+        ]
+      },
+      "emotion": {
+        "title": "Reglare Emoțională",
+        "description": "Înțelege și gestionează emoțiile intense, reduce vulnerabilitatea emoțională.",
+        "skills": [
+          "Identificarea și etichetarea emoțiilor",
+          "Creșterea experiențelor emoționale pozitive",
+          "Creșterea mindfulness-ului emoțional",
+          "Aplicarea logicii opuse (acționarea contrar impulsurilor emoționale)",
+          "Rezolvarea problemelor (abordarea situațiilor provocatoare)"
+        ]
+      },
+      "interpersonal": {
+        "title": "Eficacitate Interpersonală",
+        "description": "Comunică eficient, menține relații sănătoase și respectă-te pe tine.",
+        "skills": [
+          "DEAR MAN (cerere asertivă)",
+          "GIVE (păstrarea relațiilor)",
+          "FAST (menținerea respectului de sine)",
+          "Echilibrarea priorităților în relații",
+          "Navigarea conflictelor"
+        ]
+      }
+    },
+    "structure": {
+      "title": "Structura Tratamentului TCD",
+      "individual": {
+        "title": "Terapie Individuală",
+        "description": "Sesiuni săptămânale pentru a aborda problemele personale și a aplica abilitățile la situația ta unică."
+      },
+      "skills": {
+        "title": "Grup de Antrenament în Abilități",
+        "description": "Sesiuni săptămânale de grup pentru a învăța și practica cele patru module de abilități TCD."
+      },
+      "coaching": {
+        "title": "Coaching Telefonic",
+        "description": "Sprijin între sesiuni pentru a te ajuta să aplici abilitățile în situații reale din viață."
+      },
+      "consultation": {
+        "title": "Echipa de Consultare",
+        "description": "Terapeutul tău participă la întâlniri de echipă pentru a asigura îngrijire de cea mai înaltă calitate."
+      }
+    },
+    "conditions": {
+      "title": "Afecțiuni Tratate cu TCD",
+      "list": [
+        "Tulburare de personalitate borderline",
+        "Dezreglare emoțională",
+        "Comportament autodistructiv",
+        "Gânduri suicidare",
+        "Abuz de substanțe",
+        "Tulburări alimentare",
+        "PTSD",
+        "Probleme de relație",
+        "Tulburare bipolară",
+        "Depresie rezistentă la tratament"
+      ]
+    },
+    "cta": {
+      "title": "Construiește o Viață Care Merită Trăită",
+      "description": "TCD oferă abilități puternice pentru gestionarea emoțiilor intense și crearea unei vieți mai echilibrate. Contactează-ne astăzi."
+    }
+  },
+  "ACTPage": {
+    "title": "Terapia Acceptării și Angajamentului (ACT)",
+    "subtitle": "ACT te ajută să accepți ceea ce este în afara controlului tău personal și să te angajezi în acțiuni care îmbogățesc viața ta.",
+    "what": {
+      "title": "Ce este ACT?",
+      "description": "Terapia Acceptării și Angajamentului este o formă de psihoterapie bazată pe mindfulness care utilizează strategii de acceptare și conștientizare pentru a crește flexibilitatea psihologică. Mai degrabă decât să lupte cu gândurile și emoțiile dificile, ACT te învață să le accepți și să acționezi în conformitate cu valorile tale.",
+      "goal": "Scopul ACT nu este eliminarea gândurilor sau sentimentelor negative, ci dezvoltarea unei relații diferite cu ele, astfel încât acestea să aibă mai puțină influență asupra vieții tale."
+    },
+    "flexibility": {
+      "title": "Flexibilitate Psihologică",
+      "description": "Conceptul central al ACT este flexibilitatea psihologică - capacitatea de a fi prezent, deschis și angajat într-o acțiune valoroasă chiar și în prezența gândurilor și sentimentelor dificile.",
+      "components": "Flexibilitatea psihologică este construită prin șase procese de bază care lucrează împreună pentru a te ajuta să trăiești o viață mai bogată și mai semnificativă."
+    },
+    "processes": {
+      "title": "Cele Șase Procese de Bază ale ACT",
+      "acceptance": {
+        "title": "Acceptare",
+        "description": "Permite gândurilor și sentimentelor să vină și să plece fără a lupta cu ele sau a le evita."
+      },
+      "defusion": {
+        "title": "Defuziune Cognitivă",
+        "description": "Învață să observi gândurile fără a fi dominat de ele."
+      },
+      "present": {
+        "title": "Contact cu Momentul Prezent",
+        "description": "Dezvoltă conștientizare și conexiune cu experiența aici-și-acum."
+      },
+      "self": {
+        "title": "Sinele-ca-Context",
+        "description": "Accesează un sentiment transcendent de sine dincolo de gândurile și sentimentele tale."
+      },
+      "values": {
+        "title": "Clarificarea Valorilor",
+        "description": "Identifică ce contează cu adevărat pentru tine și ce vrei ca viața ta să reprezinte."
+      },
+      "action": {
+        "title": "Acțiune Angajată",
+        "description": "Acționează eficient ghidat de valorile tale, chiar și în prezența gândurilor și sentimentelor dificile."
+      }
+    },
+    "cta": {
+      "title": "Trăiește o Viață Ghidată de Valori",
+      "description": "Descoperă ceea ce contează cu adevărat pentru tine și începe să trăiești în consecință. Contactează-ne astăzi pentru a începe călătoria ta ACT."
+    }
+  },
+  "SchemaTherapyPage": {
+    "title": "Terapie prin Scheme",
+    "subtitle": "Terapia prin Scheme abordează tiparele profunde formate în copilărie. Este deosebit de eficientă pentru tulburările de personalitate și afecțiunile cronice rezistente la tratament.",
+    "what": {
+      "title": "Ce este Terapia prin Scheme?",
+      "description": "Terapia prin Scheme integrează tehnici cognitive, comportamentale și centrate pe emoții pentru a identifica și schimba tiparele pe toată durata vieții (scheme) care cauzează suferință."
+    },
+    "components": {
+      "title": "Componente de Bază",
+      "schemas": {
+        "title": "Identificarea Schemelor",
+        "description": "Recunoaște tiparele neadaptative formate în copilărie care continuă să îți afecteze viața."
+      },
+      "modes": {
+        "title": "Lucru pe Moduri",
+        "description": "Înțelege diferitele stări emoționale (moduri) între care oscilezi și învață să îți satisfaci nevoile esențiale."
+      },
+      "reparenting": {
+        "title": "Reparenting Limitat",
+        "description": "Relația terapeutică ajută la satisfacerea nevoilor emoționale care nu au fost satisfăcute în copilărie."
+      },
+      "experiential": {
+        "title": "Tehnici Experiențiale",
+        "description": "Folosirea imaginilor, lucrului cu scaunul și alte tehnici emoționale pentru a accesa și vindeca rănile din copilărie."
+      }
+    },
+    "conditions": {
+      "title": "Afecțiuni Tratate cu Terapie prin Scheme",
+      "list": [
+        "Tulburare de personalitate borderline",
+        "Tulburare de personalitate narcisistă",
+        "Tulburare de personalitate evitantă",
+        "Depresie cronică",
+        "Tulburări de anxietate cu origini timpurii",
+        "Tulburări alimentare",
+        "Probleme de relație",
+        "Stimă de sine scăzută și probleme de valoare personală"
+      ]
+    },
+    "expect": {
+      "title": "Ce să Te Aștepți în Terapia prin Scheme",
+      "items": [
+        "Evaluarea schemelor și modurilor tale prin chestionare și discuții",
+        "Explorarea experiențelor din copilărie și a nevoilor emoționale nesatisfăcute",
+        "Folosirea imaginilor și tehnicilor experiențiale pentru a accesa emoțiile",
+        "Lucru cognitiv pentru a contesta și modifica credințele neadaptative",
+        "Ruperea tiparelor comportamentale pentru a dezvolta strategii de coping mai sănătoase",
+        "Tratament pe termen mai lung (de obicei 1-3 ani) pentru schimbare durabilă"
+      ]
+    },
+    "cta": {
+      "title": "Vindecă Rănile Emoționale Profunde",
+      "description": "Abordează cauzele profunde ale tiparelor de lungă durată și construiește sănătate emoțională durabilă. Contactează-ne astăzi pentru a începe Terapia prin Scheme."
+    }
+  },
+  "EMDRPage": {
+    "title": "Terapie EMDR",
+    "subtitle": "Desensibilizarea și Reprocesarea prin Mișcări Oculare (EMDR) este o terapie puternică pentru traumă și amintiri tulburătoare. Ajută creierul să proceseze și să integreze experiențele traumatice.",
+    "what": {
+      "title": "Ce este EMDR?",
+      "description": "EMDR utilizează stimularea bilaterală (de obicei mișcări oculare) pentru a ajuta creierul să reproceseze amintirile traumatice, reducând impactul lor emoțional și permițând vindecarea."
+    },
+    "phases": {
+      "title": "Cele Opt Faze ale EMDR",
+      "history": {
+        "title": "Istoricul și Planificarea Tratamentului",
+        "description": "Identifică țintele pentru tratament și dezvoltă un plan de tratament cuprinzător."
+      },
+      "preparation": {
+        "title": "Pregătire",
+        "description": "Învață tehnici de relaxare și coping pentru a gestiona suferința în timpul și între sesiuni."
+      },
+      "assessment": {
+        "title": "Evaluare",
+        "description": "Identifică amintiri, credințe, emoții și senzații corporale specifice legate de țintă."
+      },
+      "desensitization": {
+        "title": "Desensibilizare",
+        "description": "Procesează amintirea folosind stimulare bilaterală pentru a reduce încărcătura ei emoțională."
+      },
+      "installation": {
+        "title": "Instalare",
+        "description": "Întărește credințele pozitive despre tine însuți legate de amintire."
+      },
+      "bodyScan": {
+        "title": "Scanare Corporală",
+        "description": "Verifică și procesează orice tensiune fizică sau disconfort rămas."
+      },
+      "closure": {
+        "title": "Închidere",
+        "description": "Revino la o stare de echilibru și învață tehnici de auto-calmаre."
+      },
+      "reevaluation": {
+        "title": "Reevaluare",
+        "description": "Revizuiește progresul și identifică orice ținte suplimentare pentru tratament."
+      }
+    },
+    "conditions": {
+      "title": "Afecțiuni Tratate cu EMDR",
+      "list": [
+        "PTSD și traumă",
+        "Anxietate și atacuri de panică",
+        "Depresie",
+        "Fobii",
+        "Doliu și pierdere",
+        "Anxietate de performanță",
+        "Durere cronică",
+        "Amintiri tulburătoare"
+      ]
+    },
+    "cta": {
+      "title": "Procesează Trauma și Găsește Pacea",
+      "description": "EMDR te poate ajuta să procesezi amintirile traumatice și să îți recapeți viața. Contactează-ne astăzi pentru a începe procesarea amintirilor traumatice și recăpătarea vieții tale."
+    }
+  },
+  "MindfulnessPage": {
+    "title": "Terapie Bazată pe Mindfulness",
+    "subtitle": "Practicile de mindfulness te ajută să devii conștient de gânduri și emoții fără judecată. Învață să fii prezent și să răspunzi cu abilitate provocărilor vieții.",
+    "what": {
+      "title": "Ce este Mindfulness?",
+      "description": "Mindfulness este practica de a acorda atenție momentului prezent cu deschidere, curiozitate și acceptare. Implică observarea gândurilor, sentimentelor și senzațiilor fără judecată sau încercarea de a le schimba.",
+      "therapy": "Terapiile bazate pe mindfulness integrează meditația și practicile de mindfulness cu principii psihologice pentru a ajuta la reducerea stresului, gestionarea emoțiilor și îmbunătățirea bunăstării generale. Aceste abordări au sprijin științific puternic pentru diverse afecțiuni de sănătate mentală."
+    },
+    "benefits": {
+      "title": "Beneficiile Mindfulness",
+      "items": [
+        "Reducerea stresului și anxietății",
+        "Îmbunătățirea reglării emoționale",
+        "Concentrare și focalizare mai bună",
+        "Autoconștiență crescută",
+        "Ruminare scăzută",
+        "Acceptare mai mare a experiențelor dificile",
+        "Relații îmbunătățite",
+        "Calitate mai bună a somnului"
+      ]
+    },
+    "practices": {
+      "title": "Practici de Mindfulness",
+      "meditation": {
+        "title": "Meditație",
+        "description": "Practică formală de așezare pentru a dezvolta atenția și conștientizarea."
+      },
+      "breathing": {
+        "title": "Exerciții de Respirație",
+        "description": "Folosirea respirației ca ancoră la momentul prezent."
+      },
+      "bodyScan": {
+        "title": "Scanare Corporală",
+        "description": "Atenție sistematică la senzațiile fizice din tot corpul."
+      },
+      "informal": {
+        "title": "Practică Informală",
+        "description": "Aducerea conștientizării mindful în activitățile de zi cu zi precum mâncatul, mersul pe jos sau ascultarea."
+      }
+    },
+    "cta": {
+      "title": "Cultivă Conștientizarea Momentului Prezent",
+      "description": "Învață să răspunzi mai degrabă decât să reacționezi la provocările vieții. Contactează-ne astăzi pentru a începe călătoria ta de mindfulness."
+    }
+  }
+}

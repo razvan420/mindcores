@@ -1,0 +1,773 @@
+{
+  "_comment": "COMPLETE ENGLISH TRANSLATION - ALL 25+ PAGES",
+  "_version": "1.0.0",
+  "_lastUpdated": "2025-01-29",
+  "Navigation": {
+    "brandName": "Raluca Diana Tocoian",
+    "home": "Home",
+    "disorders": "Disorders",
+    "therapies": "Therapies",
+    "groupPrograms": "Group Programs",
+    "contact": "Contact"
+  },
+  "DisordersList": {
+    "anxiety": "Anxiety",
+    "depression": "Depression",
+    "trauma": "Trauma & PTSD",
+    "stress": "Stress",
+    "relationships": "Relationships",
+    "perinatalMood": "Perinatal Mood Disorders",
+    "selfEsteem": "Self-Esteem",
+    "grief": "Grief & Loss",
+    "addiction": "Addiction",
+    "adhd": "ADHD",
+    "personality": "Personality Disorders",
+    "sexualDysfunctions": "Sexual Dysfunctions",
+    "eating": "Eating Disorders",
+    "bipolar": "Bipolar Disorder",
+    "mensMentalHealth": "Men's Mental Health",
+    "attachmentDisorder": "Attachment Disorder"
+  },
+  "TherapiesList": {
+    "cbt": "CBT",
+    "dbt": "DBT",
+    "act": "ACT",
+    "schemaTherapy": "Schema Therapy",
+    "emdr": "EMDR",
+    "mindfulness": "Mindfulness"
+  },
+  "Common": {
+    "phone": "+1 (212) 255-5511",
+    "bookConsultation": "Book a Consultation",
+    "scheduleConsultation": "Schedule Consultation",
+    "contactUs": "Contact Us",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "getInTouch": "Get in Touch",
+    "sendMessage": "Send Message",
+    "viewAll": "View All",
+    "readMore": "Read more"
+  },
+  "HomePage": {
+    "hero": {
+      "title": "Heal, Restore and Thrive",
+      "subtitle": "We remodel your boundaries and success",
+      "description": "Professional psychological services, cognitive assessments, diagnosis, and counseling in a warm, open, and non-judgmental environment.",
+      "bookConsultation": "Book a Consultation",
+      "exploreDisorders": "Explore Disorders",
+      "languagesAvailable": "Available in English, German & Romanian"
+    },
+    "philosophy": {
+      "title": "I Believe Your Mental Health Matters",
+      "description": "Often, our lives are complicated, and the same goes for our problems. Psychotherapy is the process of identifying and defining the problem you are experiencing and finding new ways to approach it.",
+      "compassionate": {
+        "title": "Compassionate Care",
+        "description": "Fresh approaches to mental health care in a warm, open and non-judgmental environment, to help reduce emotional suffering and behavioral concerns."
+      },
+      "evidenceBased": {
+        "title": "Evidence-Based Methods",
+        "description": "Utilizing well-researched evidence-based and talk-based psychological techniques including CBT, DBT, ACT, EMDR, and more."
+      },
+      "personalized": {
+        "title": "Personalized Approach",
+        "description": "Clients receive a personalized service tailored to their specific needs, in a collaborative manner that respects your unique journey."
+      },
+      "holistic": {
+        "title": "Holistic Wellbeing",
+        "description": "Looking at eight distinct forms of intelligence and addressing physical, mental, emotional, and social health factors."
+      }
+    },
+    "disorders": {
+      "title": "Disorders We Treat",
+      "subtitle": "Comprehensive treatment for a wide range of mental health concerns",
+      "viewAll": "View All Disorders"
+    },
+    "therapies": {
+      "title": "Evidence-Based Therapies",
+      "subtitle": "We use the techniques of CBT, DBT, ACT, ST, SFT, PPT, ITP, NLP, and EMDR for therapies",
+      "cbt": {
+        "title": "Cognitive Behavioural Therapy (CBT)",
+        "description": "Combat present-time issues through problem-solving and identifying unhelpful thought patterns."
+      },
+      "dbt": {
+        "title": "Dialectical Behavioural Therapy (DBT)",
+        "description": "A modified version of CBT that brings together acceptance and change for optimal results."
+      },
+      "act": {
+        "title": "Acceptance & Commitment Therapy (ACT)",
+        "description": "Mindfulness-based approach that teaches acceptance of emotions while committing to positive action."
+      },
+      "emdr": {
+        "title": "EMDR Therapy",
+        "description": "Eye Movement Desensitization Reprocessing for healing from trauma and emotional distress."
+      },
+      "schema": {
+        "title": "Schema Therapy",
+        "description": "Unified approach combining cognitive, behavioral, and gestalt therapy methods."
+      },
+      "mindfulness": {
+        "title": "Mindfulness",
+        "description": "Practices to become aware of thoughts and emotions without judgment or distraction."
+      }
+    },
+    "cta": {
+      "title": "Ready to Begin Your Journey?",
+      "description": "Take the first step towards emotional growth and meaningful change. Contact us today for a consultation.",
+      "button": "Get in Touch"
+    },
+    "footer": {
+      "description": "Psychologie, Psychotherapie Coaching & Mentoring",
+      "quickLinks": "Quick Links",
+      "contact": "Contact",
+      "phone": "Phone: +1 (212) 255-5511",
+      "responseTime": "Response within 24-48 hours",
+      "languages": "Languages: English, German, Romanian",
+      "copyright": "© 2025 Raluca Diana Tocoian. All rights reserved."
+    }
+  },
+  "ContactPage": {
+    "hero": {
+      "title": "Get in Touch",
+      "subtitle": "Ready to take the first step? Contact us to schedule a consultation or ask any questions you may have."
+    },
+    "info": {
+      "title": "Contact Information",
+      "phone": "Phone",
+      "phoneValue": "+1 (212) 255-5511",
+      "email": "Email",
+      "responseTime": "Response Time",
+      "responseTimeValue": "Within 24-48 hours",
+      "languages": "Languages",
+      "languagesValue": "English, German, Romanian",
+      "availability": "Availability",
+      "availabilityValue": "Monday - Friday, 9 AM - 6 PM"
+    },
+    "form": {
+      "title": "Send a Message",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Your name",
+      "email": "Email Address",
+      "emailPlaceholder": "your.email@example.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+1 (555) 123-4567",
+      "service": "Service of Interest",
+      "servicePlaceholder": "Select a service",
+      "serviceOptions": {
+        "individual": "Individual Therapy",
+        "couples": "Couples Therapy",
+        "group": "Group Programs",
+        "assessment": "Psychological Assessment",
+        "other": "Other"
+      },
+      "message": "Message",
+      "messagePlaceholder": "Tell us about what brings you here and how we can help...",
+      "privacy": "I understand that this form is not for emergencies. If you are in crisis, please call 911 or go to your nearest emergency room.",
+      "submit": "Send Message",
+      "responseNote": "We will respond to your inquiry within 24-48 hours",
+      "required": "*"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": {
+        "question": "How do I schedule an appointment?",
+        "answer": "You can schedule an appointment by calling us at +1 (212) 255-5511, sending an email, or filling out the contact form above. We will respond within 24-48 hours to discuss availability and answer any questions."
+      },
+      "q2": {
+        "question": "Do you offer online therapy?",
+        "answer": "Yes, we offer secure online therapy sessions via video conferencing. This provides flexibility and convenience while maintaining the same quality of care as in-person sessions."
+      },
+      "q3": {
+        "question": "What should I expect in the first session?",
+        "answer": "The first session is an opportunity to get to know each other, discuss what brings you to therapy, review your history, and collaboratively develop treatment goals. It's a safe space to ask questions and determine if we're a good fit."
+      }
+    }
+  },
+  "GroupProgramsPage": {
+    "hero": {
+      "title": "Group Therapy Programs",
+      "subtitle": "Connect with others facing similar challenges in a supportive, structured environment. Our group therapy programs provide professional guidance while fostering peer support and shared learning.",
+      "button": "Learn More"
+    },
+    "benefits": {
+      "title": "Benefits of Group Therapy",
+      "sharedExperience": {
+        "title": "Shared Experience",
+        "description": "Realize you're not alone in your struggles. Connect with others who understand what you're going through."
+      },
+      "peerSupport": {
+        "title": "Peer Support",
+        "description": "Give and receive support from group members, building meaningful connections and learning from others' perspectives."
+      },
+      "skillPractice": {
+        "title": "Skill Practice",
+        "description": "Practice new skills in a safe environment with immediate feedback and support from both therapist and peers."
+      },
+      "costEffective": {
+        "title": "Cost-Effective",
+        "description": "Group therapy is typically more affordable than individual therapy while still providing professional guidance and support."
+      }
+    },
+    "programs": {
+      "title": "Current Group Programs",
+      "dbt": {
+        "title": "DBT Skills Group",
+        "description": "Learn the four core modules of Dialectical Behavior Therapy: mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness. Ideal for those struggling with emotional dysregulation, impulsivity, or relationship difficulties.",
+        "duration": "Duration:",
+        "durationValue": "12-16 weeks",
+        "frequency": "Frequency:",
+        "frequencyValue": "Weekly 90-minute sessions",
+        "schedule": "Schedule:",
+        "scheduleValue": "Most groups begin at scheduled intervals throughout the year."
+      }
+    },
+    "cta": {
+      "title": "Ready to Join a Group?",
+      "description": "Experience the power of connection and shared healing. Contact us today to learn more about our group programs and find the right fit for you.",
+      "button": "Get Started"
+    }
+  },
+  "AnxietyPage": {
+    "title": "Anxiety Disorders Treatment",
+    "subtitle": "Anxiety is a normal human emotion, but when it becomes overwhelming and interferes with daily life, it may be time to seek professional help. We provide evidence-based treatment to help you manage and overcome anxiety.",
+    "understanding": {
+      "title": "Understanding Anxiety",
+      "description1": "Anxiety disorders are among the most common mental health conditions, affecting millions of people worldwide. They can manifest in various forms, including generalized anxiety disorder (GAD), social anxiety, panic disorder, and specific phobias.",
+      "description2": "Common symptoms include excessive worry, restlessness, difficulty concentrating, muscle tension, sleep disturbances, and physical symptoms such as rapid heartbeat, sweating, and trembling."
+    }
+  },
+  "DepressionPage": {
+    "title": "Depression Treatment",
+    "subtitle": "Depression is more than just feeling sad. It's a serious mental health condition that affects how you feel, think, and handle daily activities. With professional support, recovery is possible.",
+    "understanding": {
+      "title": "Understanding Depression",
+      "description1": "Depression can manifest in various forms, including major depressive disorder, persistent depressive disorder, and seasonal affective disorder. It affects people of all ages and backgrounds.",
+      "description2": "Common symptoms include persistent sadness, loss of interest in activities, changes in appetite or sleep, fatigue, difficulty concentrating, feelings of worthlessness, and thoughts of death or suicide."
+    }
+  },
+  "TraumaPTSDPage": {
+    "title": "Trauma & PTSD Treatment",
+    "subtitle": "Trauma can have lasting effects on your mental and emotional wellbeing. We provide specialized, trauma-informed care to help you process difficult experiences and reclaim your life.",
+    "understanding": {
+      "title": "Understanding Trauma & PTSD",
+      "description1": "Post-Traumatic Stress Disorder (PTSD) can develop after experiencing or witnessing a traumatic event. Trauma can result from various experiences including accidents, violence, abuse, natural disasters, or other life-threatening situations.",
+      "description2": "Common symptoms include intrusive memories, flashbacks, nightmares, avoidance of reminders, negative changes in thoughts and mood, and heightened reactivity such as being easily startled or feeling on edge."
+    }
+  },
+  "StressPage": {
+    "title": "Stress Management",
+    "subtitle": "While stress is a normal part of life, chronic stress can impact your health, relationships, and quality of life. Learn effective strategies to manage stress and build resilience.",
+    "understanding": {
+      "title": "Understanding Stress",
+      "description": "Stress is the body's response to challenges or demands. While short-term stress can be motivating, chronic stress can lead to physical health problems, mental health issues, and decreased quality of life."
+    },
+    "approaches": {
+      "title": "Our Treatment Approach",
+      "mindfulness": {
+        "title": "Mindfulness & Relaxation",
+        "description": "Learn techniques for calming the nervous system and creating moments of peace in your daily life."
+      },
+      "cognitive": {
+        "title": "Cognitive Restructuring",
+        "description": "Identify and change stress-inducing thought patterns, developing more balanced and helpful ways of thinking."
+      },
+      "timeManagement": {
+        "title": "Time Management",
+        "description": "Develop effective strategies for prioritizing tasks, setting boundaries, and creating a sustainable work-life balance."
+      },
+      "lifestyle": {
+        "title": "Lifestyle Optimization",
+        "description": "Address sleep, exercise, nutrition, and social connection to build a strong foundation for stress resilience."
+      }
+    }
+  },
+  "RelationshipsPage": {
+    "title": "Relationship Issues",
+    "subtitle": "Healthy relationships require effort, communication, and sometimes professional support. We help individuals and couples build stronger, more fulfilling connections.",
+    "understanding": {
+      "title": "Understanding Relationship Challenges",
+      "description": "Relationship difficulties can arise from communication problems, trust issues, life transitions, differing expectations, or unresolved conflicts. These challenges are normal and can be addressed with the right support."
+    },
+    "approaches": {
+      "title": "Our Treatment Approach",
+      "communication": {
+        "title": "Communication Skills",
+        "description": "Learn effective techniques for expressing needs, active listening, and understanding your partner's perspective."
+      },
+      "conflict": {
+        "title": "Conflict Resolution",
+        "description": "Develop healthy strategies for managing disagreements, finding compromise, and resolving conflicts constructively."
+      },
+      "attachment": {
+        "title": "Attachment Patterns",
+        "description": "Understand how your attachment style affects relationships and develop more secure, healthy connection patterns."
+      },
+      "boundaries": {
+        "title": "Boundary Setting",
+        "description": "Learn to establish and maintain healthy boundaries that protect your wellbeing while fostering intimacy and connection."
+      }
+    }
+  },
+  "PerinatalMoodPage": {
+    "title": "Perinatal Mood Disorders",
+    "subtitle": "Pregnancy and the postpartum period can bring unexpected emotional challenges. You're not alone, and help is available for perinatal depression, anxiety, and related conditions.",
+    "understanding": {
+      "title": "Understanding Perinatal Mood Disorders",
+      "description1": "Perinatal mood disorders include depression and anxiety that occur during pregnancy or in the first year after childbirth. These conditions are common, affecting up to 1 in 5 new mothers, and are highly treatable.",
+      "description2": "Symptoms may include persistent sadness, excessive worry, difficulty bonding with baby, intrusive thoughts, changes in sleep or appetite, and feelings of guilt or inadequacy."
+    },
+    "approaches": {
+      "title": "Our Treatment Approach",
+      "specialized": {
+        "title": "Specialized Perinatal Therapy",
+        "description": "Evidence-based treatment specifically designed for the unique challenges of pregnancy and new motherhood."
+      },
+      "cbt": {
+        "title": "CBT for Perinatal Mood",
+        "description": "Address negative thoughts and develop coping strategies tailored to the perinatal period."
+      },
+      "bonding": {
+        "title": "Mother-Infant Bonding Support",
+        "description": "Guidance and support in developing a secure attachment with your baby despite mood challenges."
+      },
+      "partner": {
+        "title": "Partner Support",
+        "description": "Involving partners in treatment to build understanding and create a supportive home environment."
+      }
+    },
+    "cta": {
+      "title": "You Deserve Support",
+      "description": "Perinatal mood disorders are treatable. With professional support, you can feel better and enjoy this special time with your baby."
+    }
+  },
+  "SelfEsteemPage": {
+    "title": "Self-Esteem Issues",
+    "subtitle": "Low self-esteem can affect every area of your life. Learn to develop a healthier, more compassionate relationship with yourself.",
+    "understanding": {
+      "title": "Understanding Self-Esteem",
+      "description": "Self-esteem is how we value and perceive ourselves. Low self-esteem can stem from childhood experiences, trauma, criticism, or negative self-talk, impacting relationships, career, and overall wellbeing."
+    }
+  },
+  "GriefLossPage": {
+    "title": "Grief & Loss",
+    "subtitle": "Grief is a natural response to loss. We provide compassionate support to help you navigate the grieving process and find meaning after loss.",
+    "understanding": {
+      "title": "Understanding Grief",
+      "description": "Grief can result from the death of a loved one, divorce, job loss, or other significant life changes. Everyone grieves differently, and there is no \"right\" way to grieve."
+    }
+  },
+  "AddictionPage": {
+    "title": "Addiction Treatment",
+    "subtitle": "Addiction is a complex condition that affects the brain and behavior. With professional support, recovery is possible.",
+    "understanding": {
+      "title": "Understanding Addiction",
+      "description": "Addiction involves compulsive use of substances or behaviors despite harmful consequences. It affects brain chemistry, decision-making, and can impact every area of life."
+    }
+  },
+  "ADHDPage": {
+    "title": "ADHD Treatment",
+    "subtitle": "ADHD affects focus, impulse control, and organization. Learn strategies to manage symptoms and thrive in work, relationships, and daily life.",
+    "understanding": {
+      "title": "Understanding ADHD",
+      "description": "Attention-Deficit/Hyperactivity Disorder (ADHD) is a neurodevelopmental condition characterized by inattention, hyperactivity, and impulsivity. It affects both children and adults."
+    }
+  },
+  "PersonalityDisordersPage": {
+    "title": "Personality Disorders",
+    "subtitle": "Personality disorders involve enduring patterns of thinking and behavior that cause distress. Specialized therapy can lead to meaningful change.",
+    "understanding": {
+      "title": "Understanding Personality Disorders",
+      "description": "Personality disorders are characterized by inflexible patterns of thinking, feeling, and behaving that differ significantly from cultural expectations and cause distress or impairment."
+    }
+  },
+  "SexualDysfunctionsPage": {
+    "title": "Sexual Dysfunctions",
+    "subtitle": "Sexual health is an important part of overall wellbeing. We provide compassionate, evidence-based treatment for sexual concerns.",
+    "understanding": {
+      "title": "Understanding Sexual Dysfunctions",
+      "description": "Sexual dysfunctions can include difficulties with desire, arousal, orgasm, or pain during sexual activity. These issues are common and often treatable."
+    }
+  },
+  "EatingDisordersPage": {
+    "title": "Eating Disorders",
+    "subtitle": "Eating disorders are serious mental health conditions that require specialized treatment. Recovery is possible with the right support.",
+    "understanding": {
+      "title": "Understanding Eating Disorders",
+      "description": "Eating disorders involve disturbed eating patterns and intense concerns about weight and shape. They include anorexia nervosa, bulimia nervosa, binge eating disorder, and others."
+    }
+  },
+  "BipolarPage": {
+    "title": "Bipolar Disorder",
+    "subtitle": "Bipolar disorder involves extreme mood swings. With proper treatment and support, people with bipolar disorder can lead fulfilling lives.",
+    "understanding": {
+      "title": "Understanding Bipolar Disorder",
+      "description": "Bipolar disorder is characterized by episodes of mania or hypomania alternating with episodes of depression. These mood episodes significantly impact energy, activity, and functioning."
+    }
+  },
+  "MensMentalHealthPage": {
+    "title": "Men's Mental Health",
+    "subtitle": "Men face unique mental health challenges and often hesitate to seek help. We provide a supportive environment for men to address their mental health needs.",
+    "understanding": {
+      "title": "Understanding Men's Mental Health",
+      "description": "Men may experience depression, anxiety, and other mental health conditions differently than women. Social expectations about masculinity can make it difficult for men to seek help."
+    },
+    "approaches": {
+      "title": "Our Treatment Approach",
+      "tailored": {
+        "title": "Male-Focused Therapy",
+        "description": "Treatment approaches that acknowledge and address the unique experiences and challenges faced by men."
+      },
+      "stress": {
+        "title": "Stress Management",
+        "description": "Practical strategies for managing work stress, financial pressure, and other common male stressors."
+      },
+      "anger": {
+        "title": "Anger Management",
+        "description": "Learn to understand and express anger in healthy ways, improving relationships and emotional regulation."
+      },
+      "relationships": {
+        "title": "Relationship & Communication Skills",
+        "description": "Develop skills for emotional expression, vulnerability, and building stronger connections with partners and family."
+      }
+    },
+    "cta": {
+      "title": "Strength Includes Seeking Help",
+      "description": "Taking care of your mental health is a sign of strength, not weakness. Contact us today to get the support you deserve."
+    }
+  },
+  "AttachmentDisorderPage": {
+    "title": "Attachment Disorder Treatment",
+    "subtitle": "Attachment difficulties can affect your ability to form and maintain healthy relationships. We help you understand your attachment patterns and develop more secure connections.",
+    "understanding": {
+      "title": "Understanding Attachment Disorders",
+      "description": "Attachment patterns develop in early childhood and influence how we relate to others throughout life. Insecure attachment styles (anxious, avoidant, or disorganized) can lead to difficulties in relationships, emotional regulation, and self-esteem."
+    },
+    "approaches": {
+      "title": "Our Treatment Approach",
+      "attachmentBased": {
+        "title": "Attachment-Based Therapy",
+        "description": "Explore early attachment experiences and their impact on current relationships, working toward more secure patterns."
+      },
+      "schema": {
+        "title": "Schema Therapy",
+        "description": "Address core emotional needs and maladaptive patterns that developed from early attachment disruptions."
+      },
+      "eft": {
+        "title": "Emotionally Focused Therapy",
+        "description": "Strengthen emotional bonds and create secure attachment in current relationships through structured interventions."
+      },
+      "mbt": {
+        "title": "Mentalization-Based Therapy",
+        "description": "Improve ability to understand your own and others' mental states, enhancing relationship quality and security."
+      }
+    }
+  },
+  "CBTPage": {
+    "title": "Cognitive Behavioural Therapy (CBT)",
+    "subtitle": "CBT is an evidence-based approach that helps you identify and change unhelpful thought patterns and behaviors. It's practical, goal-oriented, and effective for many mental health conditions.",
+    "what": {
+      "title": "What is CBT?",
+      "description": "Cognitive Behavioural Therapy is based on the concept that our thoughts, feelings, and behaviors are interconnected. By changing negative thought patterns, we can change how we feel and behave."
+    },
+    "components": {
+      "title": "Core Components",
+      "cognitive": {
+        "title": "Cognitive Restructuring",
+        "description": "Learn to identify and challenge negative thought patterns, replacing them with more balanced and helpful perspectives."
+      },
+      "behavioral": {
+        "title": "Behavioral Activation",
+        "description": "Engage in activities that improve mood and break cycles of avoidance and withdrawal."
+      },
+      "exposure": {
+        "title": "Exposure Therapy",
+        "description": "Gradually face feared situations or thoughts in a controlled, supportive environment to reduce anxiety."
+      },
+      "skills": {
+        "title": "Coping Skills Training",
+        "description": "Develop practical techniques for managing stress, anxiety, and difficult emotions in daily life."
+      }
+    },
+    "conditions": {
+      "title": "Conditions Treated with CBT",
+      "list": [
+        "Depression",
+        "Anxiety disorders",
+        "Panic disorder",
+        "Phobias",
+        "OCD",
+        "PTSD",
+        "Eating disorders",
+        "Insomnia"
+      ]
+    },
+    "expect": {
+      "title": "What to Expect in CBT",
+      "items": [
+        "Collaborative goal-setting",
+        "Learning to identify thought patterns",
+        "Practicing new skills between sessions",
+        "Homework assignments",
+        "Tracking progress",
+        "Typically 12-20 sessions"
+      ]
+    },
+    "cta": {
+      "title": "Start Your CBT Journey",
+      "description": "Contact us today to begin developing practical skills for lasting change."
+    }
+  },
+  "DBTPage": {
+    "title": "Dialectical Behavior Therapy (DBT)",
+    "subtitle": "DBT combines mindfulness, distress tolerance, emotion regulation, and interpersonal effectiveness skills. It's especially helpful for emotional dysregulation and intense emotions.",
+    "what": {
+      "title": "What is DBT?",
+      "description": "Dialectical Behavior Therapy is a modified form of CBT that emphasizes the balance between acceptance and change. It teaches skills for managing intense emotions and improving relationships."
+    },
+    "modules": {
+      "title": "The Four Core Modules",
+      "mindfulness": {
+        "title": "Mindfulness",
+        "description": "Learn to be present in the moment, observe without judgment, and participate effectively in life."
+      },
+      "distress": {
+        "title": "Distress Tolerance",
+        "description": "Develop skills for surviving crises and accepting reality without making things worse."
+      },
+      "emotion": {
+        "title": "Emotion Regulation",
+        "description": "Understand and manage intense emotions, reduce emotional vulnerability, and increase positive experiences."
+      },
+      "interpersonal": {
+        "title": "Interpersonal Effectiveness",
+        "description": "Develop skills for asking for what you need, saying no, and managing conflict while maintaining self-respect and relationships."
+      }
+    },
+    "conditions": {
+      "title": "Conditions Treated with DBT",
+      "list": [
+        "Borderline personality disorder",
+        "Self-harm and suicidal behaviors",
+        "Eating disorders",
+        "Substance use disorders",
+        "Post-traumatic stress disorder",
+        "Depression with emotional dysregulation",
+        "Bipolar disorder",
+        "Chronic relationship difficulties"
+      ]
+    },
+    "expect": {
+      "title": "What to Expect in DBT",
+      "items": [
+        "Individual therapy sessions focused on your specific goals and challenges",
+        "Skills training in the four core modules",
+        "Learning practical techniques you can use in daily life",
+        "Phone coaching for support between sessions (when needed)",
+        "Homework assignments to practice new skills",
+        "Commitment to treatment and willingness to work on change"
+      ]
+    },
+    "cta": {
+      "title": "Build a Life Worth Living",
+      "description": "Learn powerful skills for managing emotions and improving relationships. Contact us today to begin your DBT journey."
+    }
+  },
+  "ACTPage": {
+    "title": "Acceptance & Commitment Therapy (ACT)",
+    "subtitle": "ACT teaches psychological flexibility through acceptance, mindfulness, and values-based action. Learn to embrace your thoughts and feelings while moving toward what matters most.",
+    "what": {
+      "title": "What is ACT?",
+      "description": "Acceptance and Commitment Therapy helps you accept what's out of your control and commit to actions that enrich your life based on your personal values."
+    },
+    "processes": {
+      "title": "The Six Core Processes",
+      "acceptance": {
+        "title": "Acceptance",
+        "description": "Make room for difficult feelings, sensations, and urges rather than fighting them."
+      },
+      "defusion": {
+        "title": "Cognitive Defusion",
+        "description": "Learn to observe thoughts without being dominated by them."
+      },
+      "present": {
+        "title": "Contact with Present Moment",
+        "description": "Develop awareness and connection with the here-and-now experience."
+      },
+      "self": {
+        "title": "Self-as-Context",
+        "description": "Access a transcendent sense of self beyond your thoughts and feelings."
+      },
+      "values": {
+        "title": "Values Clarification",
+        "description": "Identify what truly matters to you and what you want your life to stand for."
+      },
+      "action": {
+        "title": "Committed Action",
+        "description": "Take effective action guided by your values, even in the presence of difficult thoughts and feelings."
+      }
+    },
+    "cta": {
+      "title": "Live a Values-Driven Life",
+      "description": "Discover what truly matters to you and start living accordingly. Contact us today to begin your ACT journey."
+    }
+  },
+  "SchemaTherapyPage": {
+    "title": "Schema Therapy",
+    "subtitle": "Schema Therapy addresses deep-rooted patterns formed in childhood. It's particularly effective for personality disorders and chronic, treatment-resistant conditions.",
+    "what": {
+      "title": "What is Schema Therapy?",
+      "description": "Schema Therapy integrates cognitive, behavioral, and emotion-focused techniques to identify and change lifelong patterns (schemas) that cause distress."
+    },
+    "components": {
+      "title": "Core Components",
+      "schemas": {
+        "title": "Schema Identification",
+        "description": "Recognize maladaptive patterns formed in childhood that continue to affect your life."
+      },
+      "modes": {
+        "title": "Mode Work",
+        "description": "Understand the different emotional states (modes) you shift between and learn to meet your core needs."
+      },
+      "reparenting": {
+        "title": "Limited Reparenting",
+        "description": "The therapeutic relationship helps meet emotional needs that weren't met in childhood."
+      },
+      "experiential": {
+        "title": "Experiential Techniques",
+        "description": "Use of imagery, chair work, and other emotional techniques to access and heal childhood wounds."
+      }
+    },
+    "conditions": {
+      "title": "Conditions Treated with Schema Therapy",
+      "list": [
+        "Borderline personality disorder",
+        "Narcissistic personality disorder",
+        "Avoidant personality disorder",
+        "Chronic depression",
+        "Anxiety disorders with early origins",
+        "Eating disorders",
+        "Relationship problems",
+        "Low self-esteem and self-worth issues"
+      ]
+    },
+    "expect": {
+      "title": "What to Expect in Schema Therapy",
+      "items": [
+        "Assessment of your schemas and modes through questionnaires and discussion",
+        "Exploration of childhood experiences and unmet emotional needs",
+        "Use of imagery and experiential techniques to access emotions",
+        "Cognitive work to challenge and modify maladaptive beliefs",
+        "Behavioral pattern-breaking to develop healthier coping strategies",
+        "Longer-term treatment (typically 1-3 years) for lasting change"
+      ]
+    },
+    "cta": {
+      "title": "Heal Deep Emotional Wounds",
+      "description": "Address the root causes of long-standing patterns and build lasting emotional health. Contact us today to begin Schema Therapy."
+    }
+  },
+  "EMDRPage": {
+    "title": "EMDR Therapy",
+    "subtitle": "Eye Movement Desensitization and Reprocessing (EMDR) is a powerful therapy for trauma and distressing memories. It helps the brain process and integrate traumatic experiences.",
+    "what": {
+      "title": "What is EMDR?",
+      "description": "EMDR uses bilateral stimulation (typically eye movements) to help the brain reprocess traumatic memories, reducing their emotional impact and allowing healing to occur."
+    },
+    "phases": {
+      "title": "The Eight Phases of EMDR",
+      "history": {
+        "title": "History Taking & Treatment Planning",
+        "description": "Identify targets for treatment and develop a comprehensive treatment plan."
+      },
+      "preparation": {
+        "title": "Preparation",
+        "description": "Learn relaxation and coping techniques to manage distress during and between sessions."
+      },
+      "assessment": {
+        "title": "Assessment",
+        "description": "Identify specific memories, beliefs, emotions, and body sensations related to the target."
+      },
+      "desensitization": {
+        "title": "Desensitization",
+        "description": "Process the memory using bilateral stimulation to reduce its emotional charge."
+      },
+      "installation": {
+        "title": "Installation",
+        "description": "Strengthen positive beliefs about yourself related to the memory."
+      },
+      "bodyScan": {
+        "title": "Body Scan",
+        "description": "Check for and process any remaining physical tension or discomfort."
+      },
+      "closure": {
+        "title": "Closure",
+        "description": "Return to a state of equilibrium and learn self-calming techniques."
+      },
+      "reevaluation": {
+        "title": "Reevaluation",
+        "description": "Review progress and identify any additional targets for treatment."
+      }
+    },
+    "conditions": {
+      "title": "Conditions Treated with EMDR",
+      "list": [
+        "PTSD and trauma",
+        "Anxiety and panic attacks",
+        "Depression",
+        "Phobias",
+        "Grief and loss",
+        "Performance anxiety",
+        "Chronic pain",
+        "Disturbing memories"
+      ]
+    },
+    "cta": {
+      "title": "Process Trauma and Find Peace",
+      "description": "EMDR can help you process traumatic memories and reclaim your life. Contact us today to begin processing traumatic memories and reclaiming your life."
+    }
+  },
+  "MindfulnessPage": {
+    "title": "Mindfulness-Based Therapy",
+    "subtitle": "Mindfulness practices help you become aware of thoughts and emotions without judgment. Learn to be present and respond skillfully to life's challenges.",
+    "what": {
+      "title": "What is Mindfulness?",
+      "description": "Mindfulness is the practice of paying attention to the present moment with openness, curiosity, and acceptance. It involves observing thoughts, feelings, and sensations without judgment or trying to change them.",
+      "therapy": "Mindfulness-based therapies integrate meditation and mindfulness practices with psychological principles to help reduce stress, manage emotions, and improve overall wellbeing. These approaches have strong scientific support for various mental health conditions."
+    },
+    "benefits": {
+      "title": "Benefits of Mindfulness",
+      "items": [
+        "Reduced stress and anxiety",
+        "Improved emotional regulation",
+        "Better focus and concentration",
+        "Enhanced self-awareness",
+        "Decreased rumination",
+        "Greater acceptance of difficult experiences",
+        "Improved relationships",
+        "Better sleep quality"
+      ]
+    },
+    "practices": {
+      "title": "Mindfulness Practices",
+      "meditation": {
+        "title": "Meditation",
+        "description": "Formal sitting practice to develop attention and awareness."
+      },
+      "breathing": {
+        "title": "Breathing Exercises",
+        "description": "Using the breath as an anchor to the present moment."
+      },
+      "bodyScan": {
+        "title": "Body Scan",
+        "description": "Systematic attention to physical sensations throughout the body."
+      },
+      "informal": {
+        "title": "Informal Practice",
+        "description": "Bringing mindful awareness to everyday activities like eating, walking, or listening."
+      }
+    },
+    "cta": {
+      "title": "Cultivate Present-Moment Awareness",
+      "description": "Learn to respond rather than react to life's challenges. Contact us today to begin your mindfulness journey."
+    }
+  }
+}

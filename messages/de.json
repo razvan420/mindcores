@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "title": "Raluca Diana Tocoian - Psychotherapie & Beratung",
+    "subtitle": "Professionelle psychologische Dienstleistungen",
+    "description": "Evidenzbasierte Therapien einschließlich CBT, DBT, ACT, EMDR und mehr"
+  },
+  "Navigation": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Dienstleistungen",
+    "contact": "Kontakt"
+  },
+  "Common": {
+    "readMore": "Mehr lesen",
+    "learnMore": "Mehr erfahren",
+    "contactUs": "Kontaktieren Sie uns"
+  }
+}
