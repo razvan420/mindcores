@@ -1,0 +1,994 @@
+{
+  "_comment": "VOLLSTÄNDIGE DEUTSCHE ÜBERSETZUNG - ALLE 25+ SEITEN",
+  "_version": "1.0.0",
+  "_lastUpdated": "2025-01-29",
+  "Navigation": {
+    "brandName": "Raluca Diana Tocoian",
+    "home": "Startseite",
+    "disorders": "Störungen",
+    "therapies": "Therapien",
+    "groupPrograms": "Gruppenprogramme",
+    "contact": "Kontakt"
+  },
+  "DisordersList": {
+    "anxiety": "Angststörungen",
+    "depression": "Depression",
+    "trauma": "Trauma & PTBS",
+    "stress": "Stress",
+    "relationships": "Beziehungen",
+    "perinatalMood": "Perinatale Stimmungsstörungen",
+    "selfEsteem": "Selbstwertgefühl",
+    "grief": "Trauer & Verlust",
+    "addiction": "Sucht",
+    "adhd": "ADHS",
+    "personality": "Persönlichkeitsstörungen",
+    "sexualDysfunctions": "Sexuelle Funktionsstörungen",
+    "eating": "Essstörungen",
+    "bipolar": "Bipolare Störung",
+    "mensMentalHealth": "Männergesundheit",
+    "attachmentDisorder": "Bindungsstörung"
+  },
+  "TherapiesList": {
+    "cbt": "KVT",
+    "dbt": "DBT",
+    "act": "ACT",
+    "schemaTherapy": "Schematherapie",
+    "emdr": "EMDR",
+    "mindfulness": "Achtsamkeit"
+  },
+  "Common": {
+    "phone": "+1 (212) 255-5511",
+    "bookConsultation": "Beratung buchen",
+    "scheduleConsultation": "Beratung vereinbaren",
+    "contactUs": "Kontaktieren Sie uns",
+    "learnMore": "Mehr erfahren",
+    "getStarted": "Loslegen",
+    "getInTouch": "Kontakt aufnehmen",
+    "sendMessage": "Nachricht senden",
+    "viewAll": "Alle anzeigen",
+    "readMore": "Weiterlesen"
+  },
+  "HomePage": {
+    "hero": {
+      "title": "Heilen, Wiederherstellen und Gedeihen",
+      "subtitle": "Wir gestalten Ihre Grenzen und Ihren Erfolg neu",
+      "description": "Professionelle psychologische Dienstleistungen, kognitive Bewertungen, Diagnose und Beratung in einer warmen, offenen und vorurteilsfreien Umgebung.",
+      "bookConsultation": "Beratung buchen",
+      "exploreDisorders": "Störungen erkunden",
+      "languagesAvailable": "Verfügbar in Englisch, Deutsch & Rumänisch"
+    },
+    "philosophy": {
+      "title": "Ihre psychische Gesundheit ist mir wichtig",
+      "description": "Oft ist unser Leben kompliziert, und das gilt auch für unsere Probleme. Psychotherapie ist der Prozess, das Problem, das Sie erleben, zu identifizieren und zu definieren und neue Wege zu finden, damit umzugehen.",
+      "compassionate": {
+        "title": "Mitfühlende Betreuung",
+        "description": "Frische Ansätze zur psychischen Gesundheitsversorgung in einer warmen, offenen und vorurteilsfreien Umgebung, um emotionales Leiden und Verhaltensprobleme zu reduzieren."
+      },
+      "evidenceBased": {
+        "title": "Evidenzbasierte Methoden",
+        "description": "Nutzung gut erforschter evidenzbasierter und gesprächsbasierter psychologischer Techniken einschließlich KVT, DBT, ACT, EMDR und mehr."
+      },
+      "personalized": {
+        "title": "Individueller Ansatz",
+        "description": "Klienten erhalten einen personalisierten Service, der auf ihre spezifischen Bedürfnisse zugeschnitten ist, auf kollaborative Weise, die Ihre einzigartige Reise respektiert."
+      },
+      "holistic": {
+        "title": "Ganzheitliches Wohlbefinden",
+        "description": "Betrachtung von acht verschiedenen Formen der Intelligenz und Berücksichtigung physischer, mentaler, emotionaler und sozialer Gesundheitsfaktoren."
+      }
+    },
+    "disorders": {
+      "title": "Störungen, die wir behandeln",
+      "subtitle": "Umfassende Behandlung für eine Vielzahl von psychischen Gesundheitsproblemen",
+      "viewAll": "Alle Störungen anzeigen"
+    },
+    "therapies": {
+      "title": "Evidenzbasierte Therapien",
+      "subtitle": "Wir verwenden die Techniken von KVT, DBT, ACT, ST, SFT, PPT, ITP, NLP und EMDR für Therapien",
+      "cbt": {
+        "title": "Kognitive Verhaltenstherapie (KVT)",
+        "description": "Bekämpfung aktueller Probleme durch Problemlösung und Identifizierung unhilfreicher Denkmuster."
+      },
+      "dbt": {
+        "title": "Dialektisch-Behaviorale Therapie (DBT)",
+        "description": "Eine modifizierte Version der KVT, die Akzeptanz und Veränderung für optimale Ergebnisse zusammenführt."
+      },
+      "act": {
+        "title": "Akzeptanz- und Commitmenttherapie (ACT)",
+        "description": "Achtsamkeitsbasierter Ansatz, der die Akzeptanz von Emotionen lehrt und gleichzeitig zu positivem Handeln verpflichtet."
+      },
+      "emdr": {
+        "title": "EMDR-Therapie",
+        "description": "Eye Movement Desensitization Reprocessing zur Heilung von Traumata und emotionaler Belastung."
+      },
+      "schema": {
+        "title": "Schematherapie",
+        "description": "Einheitlicher Ansatz, der kognitive, behaviorale und gestalttherapeutische Methoden kombiniert."
+      },
+      "mindfulness": {
+        "title": "Achtsamkeit",
+        "description": "Praktiken, um sich Gedanken und Emotionen ohne Urteil oder Ablenkung bewusst zu werden."
+      }
+    },
+    "cta": {
+      "title": "Bereit, Ihre Reise zu beginnen?",
+      "description": "Machen Sie den ersten Schritt zu emotionalem Wachstum und bedeutsamer Veränderung. Kontaktieren Sie uns noch heute für eine Beratung.",
+      "button": "Kontakt aufnehmen"
+    },
+    "footer": {
+      "description": "Psychologie, Psychotherapie Coaching & Mentoring",
+      "quickLinks": "Schnellzugriff",
+      "contact": "Kontakt",
+      "phone": "Telefon: +1 (212) 255-5511",
+      "responseTime": "Antwort innerhalb von 24-48 Stunden",
+      "languages": "Sprachen: Englisch, Deutsch, Rumänisch",
+      "copyright": "© 2025 Raluca Diana Tocoian. Alle Rechte vorbehalten."
+    }
+  },
+  "ContactPage": {
+    "hero": {
+      "title": "Kontakt aufnehmen",
+      "subtitle": "Bereit für den ersten Schritt? Kontaktieren Sie uns, um eine Beratung zu vereinbaren oder Fragen zu stellen."
+    },
+    "info": {
+      "title": "Kontaktinformationen",
+      "phone": "Telefon",
+      "phoneValue": "+1 (212) 255-5511",
+      "email": "E-Mail",
+      "responseTime": "Antwortzeit",
+      "responseTimeValue": "Innerhalb von 24-48 Stunden",
+      "languages": "Sprachen",
+      "languagesValue": "Englisch, Deutsch, Rumänisch",
+      "availability": "Verfügbarkeit",
+      "availabilityValue": "Montag - Freitag, 9-18 Uhr"
+    },
+    "form": {
+      "title": "Nachricht senden",
+      "fullName": "Vollständiger Name",
+      "fullNamePlaceholder": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "emailPlaceholder": "ihre.email@beispiel.de",
+      "phone": "Telefonnummer",
+      "phonePlaceholder": "+49 (555) 123-4567",
+      "service": "Interessierte Dienstleistung",
+      "servicePlaceholder": "Wählen Sie eine Dienstleistung",
+      "serviceOptions": {
+        "individual": "Einzeltherapie",
+        "couples": "Paartherapie",
+        "group": "Gruppenprogramme",
+        "assessment": "Psychologische Bewertung",
+        "other": "Sonstiges"
+      },
+      "message": "Nachricht",
+      "messagePlaceholder": "Erzählen Sie uns, was Sie hierher führt und wie wir helfen können...",
+      "privacy": "Ich verstehe, dass dieses Formular nicht für Notfälle gedacht ist. Wenn Sie sich in einer Krise befinden, rufen Sie bitte den Notruf 112 an oder begeben Sie sich zur nächsten Notaufnahme.",
+      "submit": "Nachricht senden",
+      "responseNote": "Wir werden Ihre Anfrage innerhalb von 24-48 Stunden beantworten",
+      "required": "*"
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "q1": {
+        "question": "Wie vereinbare ich einen Termin?",
+        "answer": "Sie können einen Termin vereinbaren, indem Sie uns unter +1 (212) 255-5511 anrufen, eine E-Mail senden oder das obige Kontaktformular ausfüllen. Wir werden innerhalb von 24-48 Stunden antworten, um Verfügbarkeiten zu besprechen und Fragen zu beantworten."
+      },
+      "q2": {
+        "question": "Bieten Sie Online-Therapie an?",
+        "answer": "Ja, wir bieten sichere Online-Therapiesitzungen per Videokonferenz an. Dies bietet Flexibilität und Bequemlichkeit bei gleichbleibender Qualität wie bei persönlichen Sitzungen."
+      },
+      "q3": {
+        "question": "Was erwartet mich in der ersten Sitzung?",
+        "answer": "Die erste Sitzung ist eine Gelegenheit, sich kennenzulernen, zu besprechen, was Sie zur Therapie führt, Ihre Geschichte zu überprüfen und gemeinsam Behandlungsziele zu entwickeln. Es ist ein sicherer Raum, um Fragen zu stellen und festzustellen, ob wir gut zusammenpassen."
+      }
+    }
+  },
+  "GroupProgramsPage": {
+    "hero": {
+      "title": "Gruppentherapieprogramme",
+      "subtitle": "Transformative Gruppenerfahrungen für persönliches Wachstum und Heilung"
+    },
+    "intro": {
+      "title": "Die Kraft der Gruppentherapie",
+      "description": "Gruppentherapie bietet eine einzigartige und kraftvolle Umgebung für Wachstum. Durch das Teilen von Erfahrungen mit anderen, die ähnliche Herausforderungen bewältigen, gewinnen Sie neue Perspektiven, fühlen sich weniger allein und lernen von den Einsichten und Fortschritten der Gruppenmitglieder."
+    },
+    "programs": {
+      "title": "Unsere Gruppenprogramme",
+      "dbt": {
+        "title": "DBT-Kompetenzengruppe",
+        "duration": "12-wöchiges Programm",
+        "description": "Lernen Sie wesentliche Fähigkeiten zur Emotionsregulation, Stresstoleranz, zwischenmenschlichen Effektivität und Achtsamkeit.",
+        "details": "Die DBT-Kompetenzengruppe vermittelt praktische Fähigkeiten zum Umgang mit intensiven Emotionen, zur Verbesserung von Beziehungen und zum Aufbau eines lebenswerteren Lebens. Dieses strukturierte Programm kombiniert Psychoedukation mit Übungen und Hausaufgaben."
+      },
+      "mindfulness": {
+        "title": "Achtsamkeits- und Meditationsgruppe",
+        "duration": "8-wöchiges Programm",
+        "description": "Entwickeln Sie eine tägliche Achtsamkeitspraxis zur Stressreduktion, verbesserten Konzentration und emotionalem Gleichgewicht.",
+        "details": "Diese Gruppe basiert auf Achtsamkeitsbasierter Stressreduktion (MBSR) und führt Sie durch geführte Meditationen, Körper-Scans und achtsames Bewusstsein. Lernen Sie, im gegenwärtigen Moment zu leben und mit Gelassenheit auf Herausforderungen zu reagieren."
+      },
+      "anxiety": {
+        "title": "Angstbewältigungsgruppe",
+        "duration": "10-wöchiges Programm",
+        "description": "KVT-basierte Gruppe zum Verständnis und Überwinden von Angst, Sorgen und Panik.",
+        "details": "Lernen Sie wissenschaftlich fundierte Strategien zur Bewältigung von Angstsymptomen, hinterfragen Sie ängstliche Gedanken und setzen Sie sich schrittweise Ihren Ängsten. Gewinnen Sie Unterstützung von anderen, die verstehen, wie es ist, mit Angst zu leben."
+      },
+      "depression": {
+        "title": "Depressionssupportgruppe",
+        "duration": "12-wöchiges Programm",
+        "description": "Unterstützende Umgebung zum Verständnis von Depression und Erlernen von Bewältigungsstrategien.",
+        "details": "Diese Gruppe kombiniert Psychoedukation über Depression mit praktischen Werkzeugen aus der KVT und Verhaltensaktivierung. Teilen Sie Erfahrungen, reduzieren Sie Isolation und bauen Sie Hoffnung auf, während Sie auf Genesung hinarbeiten."
+      },
+      "trauma": {
+        "title": "Traumaheilungsgruppe",
+        "duration": "16-wöchiges Programm",
+        "description": "Sichere, strukturierte Umgebung zur Verarbeitung von Traumata und zum Aufbau von Resilienz.",
+        "details": "Für Personen, die Traumata erlebt haben, bietet diese Gruppe ein unterstützendes Umfeld, um ihre Geschichten zu teilen, Traumaauswirkungen zu verstehen und Heilungstechniken zu erlernen. Konzentriert auf Sicherheit, Stabilisierung und Stärkung."
+      },
+      "relationships": {
+        "title": "Gruppe für gesunde Beziehungen",
+        "duration": "8-wöchiges Programm",
+        "description": "Entwickeln Sie Fähigkeiten für gesündere, erfüllendere Beziehungen.",
+        "details": "Erforschen Sie Kommunikationsmuster, Bindungsstile und Beziehungsdynamiken. Lernen Sie, Grenzen zu setzen, Bedürfnisse auszudrücken und gesündere Verbindungen mit anderen aufzubauen."
+      }
+    },
+    "benefits": {
+      "title": "Vorteile der Gruppentherapie",
+      "universality": {
+        "title": "Universalität",
+        "description": "Entdecken Sie, dass Sie nicht allein sind – andere teilen ähnliche Kämpfe und Erfahrungen."
+      },
+      "support": {
+        "title": "Gegenseitige Unterstützung",
+        "description": "Geben und empfangen Sie Ermutigung, Hoffnung und Verständnis von Gruppenmitgliedern."
+      },
+      "learning": {
+        "title": "Lernen von anderen",
+        "description": "Gewinnen Sie Einblicke und neue Perspektiven durch das Hören der Geschichten und Lösungen anderer."
+      },
+      "practice": {
+        "title": "Übungsumgebung",
+        "description": "Üben Sie neue Fähigkeiten in einer sicheren, unterstützenden Umgebung mit sofortigem Feedback."
+      },
+      "costEffective": {
+        "title": "Kosteneffektiv",
+        "description": "Erhalten Sie professionelle Behandlung zu niedrigeren Kosten als Einzeltherapie."
+      },
+      "accountability": {
+        "title": "Verantwortlichkeit",
+        "description": "Bleiben Sie bei Ihren Zielen mit Unterstützung und sanfter Verantwortlichkeit der Gruppe motiviert."
+      }
+    },
+    "howItWorks": {
+      "title": "Wie Gruppentherapie funktioniert",
+      "size": {
+        "title": "Gruppengröße",
+        "description": "Gruppen bestehen normalerweise aus 6-10 Teilnehmern, geleitet von einem oder zwei ausgebildeten Therapeuten."
+      },
+      "format": {
+        "title": "Sitzungsformat",
+        "description": "Wöchentliche Sitzungen dauern 90-120 Minuten und folgen einer strukturierten Agenda mit Zeit für Diskussion und Kompetenzvermittlung."
+      },
+      "confidentiality": {
+        "title": "Vertraulichkeit",
+        "description": "Was in der Gruppe geteilt wird, bleibt in der Gruppe. Alle Mitglieder verpflichten sich zur Vertraulichkeit."
+      },
+      "commitment": {
+        "title": "Engagement",
+        "description": "Regelmäßige Teilnahme ist wichtig für Ihren Fortschritt und die Kohäsion der Gruppe."
+      }
+    },
+    "cta": {
+      "title": "Bereit, einer Gruppe beizutreten?",
+      "description": "Gruppentherapie bietet einzigartige Vorteile für Wachstum und Heilung. Kontaktieren Sie uns, um mehr zu erfahren und Ihren Platz zu sichern."
+    }
+  },
+  "DisordersPage": {
+    "hero": {
+      "title": "Störungen, die wir behandeln",
+      "subtitle": "Umfassende, evidenzbasierte Behandlung für eine Vielzahl von psychischen Gesundheitsproblemen"
+    },
+    "anxiety": {
+      "title": "Angststörungen",
+      "description": "Angststörungen gehören zu den häufigsten psychischen Erkrankungen und betreffen Millionen von Menschen. Sie können sich als generalisierte Angst, Panikattacken, soziale Angst oder spezifische Phobien manifestieren.",
+      "symptoms": {
+        "title": "Häufige Symptome",
+        "list": [
+          "Übermäßige Sorgen, die schwer zu kontrollieren sind",
+          "Unruhe oder Gefühl der Anspannung",
+          "Müdigkeit und Konzentrationsschwierigkeiten",
+          "Muskelspannung",
+          "Schlafstörungen",
+          "Panikattacken mit Herzrasen und Atemnot",
+          "Vermeidung gefürchteter Situationen",
+          "Körperliche Symptome wie Schwitzen, Zittern oder Übelkeit"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Wir verwenden evidenzbasierte Therapien wie KVT, Expositionstherapie und Achtsamkeitstechniken, um Ihnen zu helfen, Ihre Angst zu verstehen und zu bewältigen. Die Behandlung konzentriert sich darauf, ängstliche Denkmuster zu identifizieren, sich schrittweise Ihren Ängsten zu stellen und Bewältigungsstrategien zu entwickeln."
+      }
+    },
+    "depression": {
+      "title": "Depression",
+      "description": "Depression ist mehr als nur Traurigkeit – es ist eine schwere psychische Erkrankung, die Ihre Gedanken, Gefühle und täglichen Aktivitäten beeinflusst. Mit der richtigen Behandlung können die meisten Menschen eine deutliche Verbesserung erfahren.",
+      "symptoms": {
+        "title": "Häufige Symptome",
+        "list": [
+          "Anhaltende Traurigkeit oder leere Stimmung",
+          "Verlust des Interesses an Aktivitäten, die früher Freude bereitet haben",
+          "Veränderungen in Appetit oder Gewicht",
+          "Schlafprobleme (zu viel oder zu wenig)",
+          "Müdigkeit und Energiemangel",
+          "Gefühle von Wertlosigkeit oder Schuld",
+          "Konzentrations- und Entscheidungsschwierigkeiten",
+          "Gedanken an Tod oder Selbstmord"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Unsere Behandlung von Depressionen kombiniert KVT, Verhaltensaktivierung und bei Bedarf zwischenmenschliche Therapie. Wir konzentrieren uns darauf, negative Denkmuster zu identifizieren, angenehme Aktivitäten zu steigern und Fähigkeiten zur Bewältigung depressiver Symptome aufzubauen."
+      }
+    },
+    "trauma": {
+      "title": "Trauma & PTBS",
+      "description": "Trauma resultiert aus belastenden Ereignissen, die überwältigend sind. PTBS entwickelt sich, wenn Traumasymptome bestehen bleiben und das tägliche Leben erheblich beeinträchtigen.",
+      "symptoms": {
+        "title": "Häufige Symptome",
+        "list": [
+          "Eindringliche Erinnerungen oder Flashbacks",
+          "Albträume über das traumatische Ereignis",
+          "Vermeidung von Erinnerungen an das Trauma",
+          "Negative Veränderungen in Denken und Stimmung",
+          "Hypervigilanz und erhöhte Schreckhaftigkeit",
+          "Schwierigkeiten beim Schlafen",
+          "Reizbarkeit oder Wutausbrüche",
+          "Konzentrationsschwierigkeiten"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Wir sind auf traumafokussierte Therapien spezialisiert, einschließlich EMDR, traumafokussierter KVT und Somatischer Erfahrung. Diese evidenzbasierten Ansätze helfen dabei, traumatische Erinnerungen zu verarbeiten, Symptome zu reduzieren und das Gefühl von Sicherheit und Kontrolle wiederherzustellen."
+      }
+    },
+    "stress": {
+      "title": "Stressmanagement",
+      "description": "Während etwas Stress normal ist, kann chronischer Stress Ihre Gesundheit, Beziehungen und Lebensqualität erheblich beeinträchtigen. Zu lernen, Stress effektiv zu bewältigen, ist für das allgemeine Wohlbefinden unerlässlich.",
+      "symptoms": {
+        "title": "Anzeichen von chronischem Stress",
+        "list": [
+          "Gefühl der Überwältigung oder ständigen Besorgnis",
+          "Reizbarkeit und kurze Zünder",
+          "Schwierigkeiten beim Entspannen oder Abschalten",
+          "Körperliche Symptome wie Kopfschmerzen oder Verspannungen",
+          "Schlafprobleme",
+          "Konzentrationsschwierigkeiten",
+          "Veränderungen in Appetit",
+          "Rückzug von sozialen Aktivitäten"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Wir lehren praktische Stressbewältigungstechniken, einschließlich Entspannungstraining, Zeitmanagement, Problemlösungsfähigkeiten und achtsamkeitsbasierte Stressreduktion. Die Behandlung konzentriert sich darauf, Ihre Stressoren zu identifizieren und gesündere Bewältigungsstrategien zu entwickeln."
+      }
+    },
+    "relationships": {
+      "title": "Beziehungsprobleme",
+      "description": "Beziehungsschwierigkeiten können von Kommunikationsproblemen und Konflikten bis hin zu Vertrauensproblemen und Intimität reichen. Die Therapie kann helfen, Beziehungsmuster zu verstehen und gesündere Verbindungen aufzubauen.",
+      "symptoms": {
+        "title": "Häufige Probleme",
+        "list": [
+          "Häufige Konflikte oder Streitigkeiten",
+          "Kommunikationsschwierigkeiten",
+          "Vertrauensprobleme oder Untreue",
+          "Emotionale Distanzierung",
+          "Intimität oder sexuelle Probleme",
+          "Unterschiedliche Werte oder Lebensziele",
+          "Ungesunde Muster aus vergangenen Beziehungen",
+          "Schwierigkeiten beim Setzen von Grenzen"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Wir bieten sowohl Einzel- als auch Paartherapie an, wobei evidenzbasierte Ansätze wie emotional fokussierte Therapie (EFT) und Gottman-Methode verwendet werden. Die Behandlung konzentriert sich auf die Verbesserung der Kommunikation, das Verständnis von Bindungsmustern und den Aufbau gesünderer Beziehungsdynamiken."
+      }
+    },
+    "perinatalMood": {
+      "title": "Perinatale Stimmungsstörungen",
+      "description": "Perinatale Stimmungsstörungen, einschließlich peripartaler Depression und Angst, betreffen viele Frauen während der Schwangerschaft und nach der Geburt. Diese Erkrankungen sind behandelbar, und Sie müssen nicht leiden.",
+      "symptoms": {
+        "title": "Häufige Symptome",
+        "list": [
+          "Anhaltende Traurigkeit oder leeres Gefühl",
+          "Übermäßige Sorgen um das Baby",
+          "Schwierigkeiten beim Binden mit dem Baby",
+          "Gefühle der Unzulänglichkeit oder des Versagens",
+          "Extreme Müdigkeit oder Energiemangel",
+          "Veränderungen in Appetit oder Schlaf",
+          "Rückzug von Familie und Freunden",
+          "Gedanken, sich selbst oder dem Baby zu schaden"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Wir bieten auf die einzigartigen Herausforderungen der Mutterschaft spezialisierte Behandlung an. Die Therapie konzentriert sich auf die Bewältigung von Stimmungssymptomen, die Verarbeitung des Übergangs zur Mutterschaft und den Aufbau von Vertrauen in Ihre Rolle als Elternteil. Wir berücksichtigen auch praktische Faktoren wie Schlafmangel und soziale Unterstützung."
+      }
+    },
+    "selfEsteem": {
+      "title": "Selbstwertprobleme",
+      "description": "Geringes Selbstwertgefühl beeinflusst, wie Sie sich selbst sehen und mit der Welt interagieren. Es kann Beziehungen beeinflussen, Ihren Erfolg begrenzen und zu Depressionen oder Angst beitragen.",
+      "symptoms": {
+        "title": "Anzeichen von geringem Selbstwertgefühl",
+        "list": [
+          "Negative Selbstwahrnehmung und Selbstkritik",
+          "Schwierigkeiten, Komplimente anzunehmen",
+          "Übermäßiges Bestreben, anderen zu gefallen",
+          "Angst vor dem Scheitern oder der Ablehnung",
+          "Sich mit anderen vergleichen",
+          "Schwierigkeiten beim Setzen von Grenzen",
+          "Perfektionismus und hohe Selbsterwartungen",
+          "Vermeidung von Herausforderungen oder neuen Erfahrungen"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Die Therapie hilft, negative Selbstüberzeugungen zu identifizieren und zu hinterfragen, Selbstmitgefühl zu entwickeln und Ihre Stärken anzuerkennen. Wir verwenden KVT, ACT und andere Ansätze, um Ihnen zu helfen, ein gesünderes Selbstwertgefühl und größeres Selbstvertrauen aufzubauen."
+      }
+    },
+    "grief": {
+      "title": "Trauer & Verlust",
+      "description": "Trauer ist eine natürliche Reaktion auf Verlust, aber sie kann überwältigend sein und Ihr Leben erheblich beeinträchtigen. Die Therapie bietet Unterstützung beim Navigieren des Trauerprozesses und beim Finden von Wegen, vorwärts zu gehen.",
+      "symptoms": {
+        "title": "Häufige Trauererfahrungen",
+        "list": [
+          "Intensive Traurigkeit oder Weinen",
+          "Wut oder Reizbarkeit",
+          "Schuld oder Reue",
+          "Angst über die Zukunft",
+          "Körperliche Symptome wie Müdigkeit oder Schmerzen",
+          "Schwierigkeiten, den Verlust zu akzeptieren",
+          "Sehnsucht oder Suche nach der verstorbenen Person",
+          "Rückzug von anderen oder Verlust des Interesses an Aktivitäten"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Wir bieten mitfühlende Unterstützung, um Ihnen zu helfen, Ihre Trauer zu verarbeiten, Erinnerungen zu ehren und Wege zu finden, Verluste in Ihre Lebensgeschichte zu integrieren. Die Behandlung berücksichtigt Ihre einzigartigen Bedürfnisse und kulturellen Hintergründe und respektiert Ihren individuellen Trauerprozess."
+      }
+    },
+    "addiction": {
+      "title": "Sucht & Substanzgebrauch",
+      "description": "Sucht ist eine komplexe Erkrankung, die das Gehirn und das Verhalten beeinflusst. Die Genesung ist mit der richtigen Unterstützung und Behandlung möglich.",
+      "symptoms": {
+        "title": "Anzeichen von Sucht",
+        "list": [
+          "Unfähigkeit, den Gebrauch trotz negativer Folgen zu stoppen",
+          "Erhöhte Toleranz (mehr benötigen, um die gleiche Wirkung zu erzielen)",
+          "Entzugssymptome bei Nichtgebrauch",
+          "Viel Zeit mit Beschaffung, Gebrauch oder Erholung verbringen",
+          "Vernachlässigung von Verantwortlichkeiten",
+          "Rückzug von Aktivitäten oder Beziehungen",
+          "Fortgesetzter Gebrauch trotz Wissen um Schaden",
+          "Verlangen oder starkes Verlangen zu verwenden"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Wir bieten evidenzbasierte Behandlung für Substanzgebrauchsstörungen, einschließlich motivierender Gesprächsführung, KVT und Rückfallprävention. Die Behandlung konzentriert sich darauf, Auslöser zu identifizieren, Bewältigungsfähigkeiten zu entwickeln und ein sinnvolles Leben in der Genesung aufzubauen."
+      }
+    },
+    "adhd": {
+      "title": "ADHS (Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung)",
+      "description": "ADHS betrifft die Konzentration, Impulskontrolle und das Aktivitätsniveau. Während es oft in der Kindheit diagnostiziert wird, haben viele Erwachsene unerkanntes ADHS, das tägliche Funktionen beeinträchtigt.",
+      "symptoms": {
+        "title": "Häufige Symptome",
+        "list": [
+          "Schwierigkeiten, aufmerksam oder konzentriert zu bleiben",
+          "Leicht ablenkbar durch externe Reize",
+          "Schwierigkeiten bei der Organisation von Aufgaben",
+          "Prokrastination oder Schwierigkeiten beim Abschließen von Projekten",
+          "Vergesslichkeit bei täglichen Aktivitäten",
+          "Unruhe oder Zappeln",
+          "Impulsives Verhalten oder unterbrochene andere",
+          "Zeitmanagement-Herausforderungen"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Wir bieten umfassende ADHS-Bewertung und -Behandlung an, einschließlich psychoedukation, organisatorisches Coaching und verhaltensbasierter Strategien. Die Therapie konzentriert sich auf die Entwicklung praktischer Fähigkeiten für Zeitmanagement, Organisation und emotionale Regulation."
+      }
+    },
+    "personality": {
+      "title": "Persönlichkeitsstörungen",
+      "description": "Persönlichkeitsstörungen beinhalten dauerhafte Muster von Gedanken, Gefühlen und Verhaltensweisen, die erhebliche Belastungen oder Beeinträchtigungen verursachen. Diese Muster entwickeln sich typischerweise in der Adoleszenz oder im frühen Erwachsenenalter.",
+      "symptoms": {
+        "title": "Häufige Merkmale",
+        "list": [
+          "Schwierigkeiten in Beziehungen",
+          "Verzerrte Selbstwahrnehmung",
+          "Emotionale Instabilität",
+          "Impulsives Verhalten",
+          "Angst vor Verlassenwerden",
+          "Starres Denken oder Verhaltensweisen",
+          "Schwierigkeiten, Emotionen zu regulieren",
+          "Probleme mit Vertrauen oder Intimität"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Wir sind auf evidenzbasierte Behandlungen für Persönlichkeitsstörungen spezialisiert, einschließlich DBT, Schematherapie und mentalisierungsbasierter Behandlung. Die Therapie konzentriert sich darauf, Muster zu verstehen, emotionale Regulationsfähigkeiten aufzubauen und gesündere Beziehungen zu entwickeln."
+      }
+    },
+    "sexualDysfunctions": {
+      "title": "Sexuelle Funktionsstörungen",
+      "description": "Sexuelle Funktionsstörungen können verschiedene Aspekte der sexuellen Reaktion, des Verlangens oder der Zufriedenheit betreffen. Diese Probleme sind häufig und behandelbar.",
+      "symptoms": {
+        "title": "Häufige Probleme",
+        "list": [
+          "Geringes sexuelles Verlangen oder Interesse",
+          "Schwierigkeiten, erregt zu werden oder zu bleiben",
+          "Unfähigkeit, Orgasmus zu erreichen",
+          "Schmerzen beim Geschlechtsverkehr",
+          "Vorzeitige oder verzögerte Ejakulation",
+          "Angst vor sexuellen Aktivitäten",
+          "Beziehungsprobleme im Zusammenhang mit Sex",
+          "Anpassungsschwierigkeiten an Veränderungen des Körpers oder der Gesundheit"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Wir bieten sensible, nicht-wertende Behandlung für sexuelle Bedenken an. Die Therapie kann psychologische Faktoren, Kommunikationsprobleme und Verhaltensinterventionen ansprechen. Die Behandlung kann individuell oder mit Partnern erfolgen und konzentriert sich darauf, sexuelle Funktion und Zufriedenheit zu verbessern."
+      }
+    },
+    "eating": {
+      "title": "Essstörungen",
+      "description": "Essstörungen sind schwere psychische Erkrankungen, die ernährungsbedingte Verhaltensweisen und Körperbild betreffen. Die frühzeitige Intervention verbessert die Ergebnisse erheblich.",
+      "symptoms": {
+        "title": "Häufige Symptome",
+        "list": [
+          "Beschäftigung mit Essen, Gewicht oder Körperform",
+          "Restriktive Essgewohnheiten oder Diäten",
+          "Essattacken oder Verlust der Kontrolle über das Essen",
+          "Purging-Verhalten (Erbrechen, Abführmittel)",
+          "Übermäßige Bewegung",
+          "Verzerrtes Körperbild",
+          "Soziale Isolation um Mahlzeiten herum",
+          "Körperliche Symptome (Müdigkeit, Schwindel, Menstruationsstörungen)"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Wir bieten auf Essstörungen spezialisierte Behandlung an, wobei evidenzbasierte Ansätze wie KVT-E, DBT und familienbasierte Behandlung verwendet werden. Die Therapie befasst sich mit zugrunde liegenden emotionalen Problemen, hinterfragt verzerrte Gedanken und hilft beim Wiederherstellen eines gesunden Verhältnisses zu Essen und Körper."
+      }
+    },
+    "bipolar": {
+      "title": "Bipolare Störung",
+      "description": "Bipolare Störung verursacht ungewöhnliche Stimmungsschwankungen, Energieniveaus und Aktivitätsniveaus. Diese Stimmungsänderungen reichen von manischen (hohen) bis zu depressiven (niedrigen) Episoden.",
+      "symptoms": {
+        "title": "Häufige Symptome",
+        "list": [
+          "Manische Episoden: erhöhte Stimmung, erhöhte Energie, verringerter Schlafbedarf",
+          "Depressive Episoden: Traurigkeit, Hoffnungslosigkeit, Energiemangel",
+          "Rasende Gedanken oder schnelles Sprechen",
+          "Impulsives oder riskantes Verhalten während Manie",
+          "Schwierigkeiten bei der Konzentration",
+          "Reizbarkeit oder Agitation",
+          "Veränderungen in Appetit oder Schlaf",
+          "Gedanken an Selbstmord während Depression"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Die Behandlung bipolarer Störung erfordert typischerweise sowohl Medikamente als auch Psychotherapie. Wir bieten psychoedukation, Hilfe bei Medikamentenadhärenz und Therapien wie KVT und interpersonelle und soziale Rhythmustherapie (IPSRT), um Stimmungsmanagement und Stabilität zu unterstützen."
+      }
+    },
+    "mensMentalHealth": {
+      "title": "Männergesundheit",
+      "description": "Männer stehen bei psychischen Gesundheitsproblemen oft vor einzigartigen Herausforderungen, einschließlich gesellschaftlichem Druck, nach innen gekehrter Symptome und Zurückhaltung bei der Suche nach Hilfe. Wir bieten einen sicheren Raum, um diese Probleme anzugehen.",
+      "symptoms": {
+        "title": "Häufige Probleme",
+        "list": [
+          "Depression, die sich als Wut oder Reizbarkeit manifestiert",
+          "Substanzgebrauch als Bewältigungsmechanismus",
+          "Arbeitsbezogener Stress oder Burnout",
+          "Beziehungs- oder Intimitätsprobleme",
+          "Erwartungen an Männlichkeit und Rollenbelastung",
+          "Vaterschaftsherausforderungen",
+          "Sexuelle Gesundheitsbedenken",
+          "Schwierigkeiten, Emotionen auszudrücken"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Wir bieten auf die Bedürfnisse von Männern zugeschnittene Behandlung an, mit Fokus auf praktische Problemlösung, Kompetenzenaufbau und Schaffung eines nicht-wertenden Raums zur Erforschung von Emotionen. Die Behandlung spricht die spezifischen Herausforderungen an, denen Männer in heutiger Gesellschaft gegenüberstehen."
+      }
+    },
+    "attachmentDisorder": {
+      "title": "Bindungsstörungen",
+      "description": "Bindungsstörungen entstehen aus frühen Beziehungserfahrungen und beeinflussen, wie wir uns mit anderen verbinden. Diese Muster können Beziehungen und emotionales Wohlbefinden im gesamten Leben beeinflussen.",
+      "symptoms": {
+        "title": "Häufige Symptome",
+        "list": [
+          "Schwierigkeiten, anderen zu vertrauen",
+          "Angst vor Verlassenwerden oder Nähe",
+          "Vermeidung emotionaler Intimität",
+          "Klammerndes oder bedürftiges Verhalten",
+          "Schwierigkeiten bei der Emotionsregulation",
+          "Probleme beim Setzen von Grenzen",
+          "Sich ungeliebt oder unwürdig fühlen",
+          "Muster von instabilen Beziehungen"
+        ]
+      },
+      "treatment": {
+        "title": "Behandlungsansatz",
+        "description": "Die Therapie konzentriert sich darauf, Ihr Bindungsmuster zu verstehen, wie es sich entwickelt hat, und wie es aktuelle Beziehungen beeinflusst. Wir verwenden bindungsbasierte Ansätze, einschließlich Schematherapie und emotional fokussierter Therapie, um Ihnen zu helfen, sicherere Bindungsmuster zu entwickeln und erfüllendere Beziehungen aufzubauen."
+      }
+    },
+    "cta": {
+      "title": "Bereit, den ersten Schritt zu machen?",
+      "description": "Psychische Gesundheitsprobleme sind mit der richtigen Behandlung behandelbar. Kontaktieren Sie uns noch heute, um zu besprechen, wie wir helfen können."
+    }
+  },
+  "TherapiesPage": {
+    "hero": {
+      "title": "Evidenzbasierte Therapien",
+      "subtitle": "Professionelle psychologische Behandlung mit wissenschaftlich fundierten Methoden"
+    }
+  },
+  "CBTPage": {
+    "title": "Kognitive Verhaltenstherapie (KVT)",
+    "subtitle": "KVT ist ein hocheffektiver, strukturierter Ansatz, der die Verbindungen zwischen Gedanken, Gefühlen und Verhaltensweisen untersucht. Es ist eine der am meisten untersuchten und evidenzbasierten Formen der Psychotherapie.",
+    "what": {
+      "title": "Was ist KVT?",
+      "description": "KVT basiert auf der Idee, dass unsere Gedanken, Gefühle und Verhaltensweisen miteinander verbunden sind. Negative und unrealistische Gedanken können zu belastenden Gefühlen und ungesunden Verhaltensweisen führen. KVT hilft, diese Muster zu identifizieren und zu ändern."
+    },
+    "principles": {
+      "title": "Kernprinzipien der KVT",
+      "cognitive": {
+        "title": "Kognitive Umstrukturierung",
+        "description": "Identifizieren und hinterfragen Sie negative Denkmuster und ersetzen Sie diese durch ausgewogenere, realistischere Gedanken."
+      },
+      "behavioral": {
+        "title": "Verhaltensaktivierung",
+        "description": "Engagieren Sie sich in Aktivitäten, die Ihre Stimmung verbessern und Vermeidungsmuster durchbrechen."
+      },
+      "problemSolving": {
+        "title": "Problemlösung",
+        "description": "Entwickeln Sie praktische Fähigkeiten zur Bewältigung von Herausforderungen und zur Reduzierung von Belastungen."
+      },
+      "exposure": {
+        "title": "Exposition",
+        "description": "Stellen Sie sich schrittweise gefürchteten Situationen, um Angst zu reduzieren und Vertrauen aufzubauen."
+      }
+    },
+    "conditions": {
+      "title": "Erkrankungen, die mit KVT behandelt werden",
+      "list": [
+        "Angststörungen (generalisierte Angst, soziale Angst, Panikstörung)",
+        "Depression",
+        "Zwangsstörung (OCD)",
+        "Posttraumatische Belastungsstörung (PTBS)",
+        "Essstörungen",
+        "Schlaflosigkeit",
+        "Substanzgebrauchsstörungen",
+        "Chronischer Schmerz",
+        "Phobien",
+        "Stressmanagement"
+      ]
+    },
+    "process": {
+      "title": "Der KVT-Prozess",
+      "assessment": {
+        "title": "Bewertung",
+        "description": "Verstehen Sie Ihre Bedenken, Symptome und Ziele für die Behandlung."
+      },
+      "education": {
+        "title": "Psychoedukation",
+        "description": "Erfahren Sie mehr über die Zusammenhänge zwischen Gedanken, Gefühlen und Verhaltensweisen."
+      },
+      "identification": {
+        "title": "Identifizierung",
+        "description": "Erkennen Sie negative Denkmuster und ungesunde Verhaltensweisen."
+      },
+      "challenging": {
+        "title": "Herausfordern",
+        "description": "Hinterfragen Sie verzerrtes Denken und testen Sie neue Perspektiven."
+      },
+      "practice": {
+        "title": "Übung",
+        "description": "Üben Sie neue Fähigkeiten sowohl in als auch außerhalb der Sitzungen durch Hausaufgaben."
+      },
+      "maintenance": {
+        "title": "Aufrechterhaltung",
+        "description": "Entwickeln Sie einen Plan, um Fortschritte aufrechtzuerhalten und Rückfälle zu verhindern."
+      }
+    },
+    "expect": {
+      "title": "Was Sie von KVT erwarten können",
+      "items": [
+        "Strukturierte, zielorientierte Sitzungen mit klaren Zielen",
+        "Aktive Zusammenarbeit zwischen Ihnen und Ihrem Therapeuten",
+        "Hausaufgaben zum Üben von Fähigkeiten zwischen den Sitzungen",
+        "Kurzfristige Behandlung (typischerweise 12-20 Sitzungen)",
+        "Fokus auf gegenwärtige Probleme und praktische Lösungen",
+        "Erlernbare Fähigkeiten, die Sie langfristig anwenden können"
+      ]
+    },
+    "cta": {
+      "title": "Beginnen Sie Ihre KVT-Reise",
+      "description": "KVT kann Ihnen helfen, negative Muster zu durchbrechen und dauerhaftes Wohlbefinden aufzubauen. Kontaktieren Sie uns noch heute, um zu beginnen."
+    }
+  },
+  "DBTPage": {
+    "title": "Dialektisch-Behaviorale Therapie (DBT)",
+    "subtitle": "DBT ist eine evidenzbasierte Therapie, die Akzeptanz und Veränderungsstrategien kombiniert. Ursprünglich für Borderline-Persönlichkeitsstörung entwickelt, hilft sie nun Menschen mit intensiven Emotionen und impulsivem Verhalten.",
+    "what": {
+      "title": "Was ist DBT?",
+      "description": "DBT wurde von Dr. Marsha Linehan entwickelt und kombiniert kognitive Verhaltenstechniken mit achtsamkeitsbasierten Praktiken. Es betont die 'Dialektik' – das Finden von Gleichgewicht zwischen gegensätzlichen Ideen, insbesondere Akzeptanz und Veränderung."
+    },
+    "modules": {
+      "title": "Die vier Kompetenzenmodule",
+      "mindfulness": {
+        "title": "Achtsamkeit",
+        "description": "Lernen Sie, im gegenwärtigen Moment präsent zu sein und Erfahrungen ohne Urteil zu beobachten. Dies ist die Grundlage aller anderen Fähigkeiten."
+      },
+      "distressTolerance": {
+        "title": "Stresstoleranz",
+        "description": "Entwickeln Sie Fähigkeiten zur Bewältigung von Krisen und zur Tolerierung schmerzhafter Situationen, ohne diese zu verschlimmern."
+      },
+      "emotionRegulation": {
+        "title": "Emotionsregulation",
+        "description": "Verstehen und managen Sie intensive Emotionen, reduzieren Sie emotionale Verwundbarkeit und erhöhen Sie positive emotionale Erfahrungen."
+      },
+      "interpersonal": {
+        "title": "Zwischenmenschliche Effektivität",
+        "description": "Kommunizieren Sie Ihre Bedürfnisse, setzen Sie Grenzen und bauen Sie gesündere Beziehungen auf, während Sie Selbstrespekt wahren."
+      }
+    },
+    "components": {
+      "title": "Komponenten der DBT-Behandlung",
+      "individual": {
+        "title": "Individuelle Therapie",
+        "description": "Wöchentliche Einzelsitzungen zur Behandlung persönlicher Probleme und zur Anwendung von Fähigkeiten auf Ihr Leben."
+      },
+      "skills": {
+        "title": "Kompetenzentraining-Gruppe",
+        "description": "Wöchentliche Gruppensitzungen zur Erlernung und Übung der vier Kompetenzenmodule."
+      },
+      "phone": {
+        "title": "Telefoncoaching",
+        "description": "Zwischen den Sitzungen verfügbar, um Ihnen zu helfen, Fähigkeiten in realen Situationen anzuwenden."
+      },
+      "consultation": {
+        "title": "Konsultationsteam",
+        "description": "Therapeuten treffen sich regelmäßig, um sicherzustellen, dass sie die beste Behandlung anbieten."
+      }
+    },
+    "conditions": {
+      "title": "Erkrankungen, die mit DBT behandelt werden",
+      "list": [
+        "Borderline-Persönlichkeitsstörung",
+        "Emotionsregulationsstörungen",
+        "Selbstverletzende Verhaltensweisen",
+        "Suizidgedanken",
+        "Substanzgebrauchsstörungen",
+        "Essstörungen",
+        "PTBS",
+        "Depression",
+        "Angststörungen"
+      ]
+    },
+    "expect": {
+      "title": "Was Sie von DBT erwarten können",
+      "items": [
+        "Engagement für die Behandlung mit wöchentlicher individueller Therapie und Kompetenzengruppe",
+        "Strukturierter Lehrplan, der praktische Fähigkeiten lehrt",
+        "Hausaufgaben, einschließlich Tagebuchkarten zur Verfolgung der Fähigkeitenanwendung",
+        "Fokus sowohl auf Akzeptanz dessen, wer Sie sind, als auch auf Arbeit an Veränderungen",
+        "Langfristigere Behandlung (typischerweise 6-12 Monate oder länger)",
+        "Erlernbare Fähigkeiten fürs Leben zur Bewältigung intensiver Emotionen"
+      ]
+    },
+    "cta": {
+      "title": "Emotionen meistern mit DBT",
+      "description": "Lernen Sie Fähigkeiten zur Bewältigung intensiver Emotionen und zum Aufbau eines lebenswerteren Lebens. Kontaktieren Sie uns noch heute, um mit DBT zu beginnen."
+    }
+  },
+  "ACTPage": {
+    "title": "Akzeptanz- und Commitmenttherapie (ACT)",
+    "subtitle": "ACT ist ein achtsamkeitsbasierter Ansatz, der Ihnen hilft, ein bedeutungsvolleres Leben zu führen, selbst bei schwierigen Gedanken und Gefühlen. Anstatt zu versuchen, negativen Erfahrungen zu entkommen, lernen Sie, diese zu akzeptieren und sich an Ihren Werten auszurichten.",
+    "what": {
+      "title": "Was ist ACT?",
+      "description": "ACT basiert auf der Idee, dass psychisches Leiden oft aus dem Versuch resultiert, unangenehme Gedanken und Gefühle zu kontrollieren oder zu vermeiden. Anstatt Ihre inneren Erfahrungen zu bekämpfen, lehrt ACT Sie, ein reicheres, erfüllteres Leben zu führen, indem Sie Ihre Werte klären und bedeutsame Handlungen vornehmen."
+    },
+    "hexaflex": {
+      "title": "Die sechs Kernprozesse von ACT",
+      "acceptance": {
+        "title": "Akzeptanz",
+        "description": "Öffnen Sie sich und machen Sie Platz für schmerzhafte Gefühle, Empfindungen und Dränge, anstatt gegen sie zu kämpfen."
+      },
+      "defusion": {
+        "title": "Kognitive Defusion",
+        "description": "Lernen Sie, Gedanken zu beobachten, ohne von ihnen dominiert zu werden."
+      },
+      "present": {
+        "title": "Kontakt mit dem gegenwärtigen Moment",
+        "description": "Entwickeln Sie Bewusstsein und Verbindung mit der Hier-und-Jetzt-Erfahrung."
+      },
+      "self": {
+        "title": "Selbst als Kontext",
+        "description": "Greifen Sie auf ein transzendentes Selbstgefühl zu, das über Ihre Gedanken und Gefühle hinausgeht."
+      },
+      "values": {
+        "title": "Werteklärung",
+        "description": "Identifizieren Sie, was Ihnen wirklich wichtig ist und wofür Ihr Leben stehen soll."
+      },
+      "action": {
+        "title": "Engagiertes Handeln",
+        "description": "Ergreifen Sie effektive Maßnahmen, die von Ihren Werten geleitet werden, auch in Gegenwart schwieriger Gedanken und Gefühle."
+      }
+    },
+    "cta": {
+      "title": "Leben Sie ein werteorientiertes Leben",
+      "description": "Entdecken Sie, was Ihnen wirklich wichtig ist, und beginnen Sie entsprechend zu leben. Kontaktieren Sie uns noch heute, um Ihre ACT-Reise zu beginnen."
+    }
+  },
+  "SchemaTherapyPage": {
+    "title": "Schematherapie",
+    "subtitle": "Schematherapie befasst sich mit tief verwurzelten Mustern, die in der Kindheit gebildet wurden. Sie ist besonders wirksam bei Persönlichkeitsstörungen und chronischen, behandlungsresistenten Erkrankungen.",
+    "what": {
+      "title": "Was ist Schematherapie?",
+      "description": "Schematherapie integriert kognitive, behaviorale und emotionsfokussierte Techniken zur Identifizierung und Änderung lebenslanger Muster (Schemata), die Belastungen verursachen."
+    },
+    "components": {
+      "title": "Kernkomponenten",
+      "schemas": {
+        "title": "Schema-Identifikation",
+        "description": "Erkennen Sie maladaptive Muster, die in der Kindheit gebildet wurden und Ihr Leben weiterhin beeinflussen."
+      },
+      "modes": {
+        "title": "Modusarbeit",
+        "description": "Verstehen Sie die verschiedenen emotionalen Zustände (Modi), zwischen denen Sie wechseln, und lernen Sie, Ihre Kernbedürfnisse zu erfüllen."
+      },
+      "reparenting": {
+        "title": "Begrenzte Neuelternschaft",
+        "description": "Die therapeutische Beziehung hilft, emotionale Bedürfnisse zu erfüllen, die in der Kindheit nicht erfüllt wurden."
+      },
+      "experiential": {
+        "title": "Erlebnisorientierte Techniken",
+        "description": "Verwendung von Bildsprache, Stuhlarbeit und anderen emotionalen Techniken, um Kindheitswunden zu erreichen und zu heilen."
+      }
+    },
+    "conditions": {
+      "title": "Erkrankungen, die mit Schematherapie behandelt werden",
+      "list": [
+        "Borderline-Persönlichkeitsstörung",
+        "Narzisstische Persönlichkeitsstörung",
+        "Vermeidende Persönlichkeitsstörung",
+        "Chronische Depression",
+        "Angststörungen mit frühen Ursprüngen",
+        "Essstörungen",
+        "Beziehungsprobleme",
+        "Geringes Selbstwertgefühl und Selbstwertprobleme"
+      ]
+    },
+    "expect": {
+      "title": "Was Sie von Schematherapie erwarten können",
+      "items": [
+        "Bewertung Ihrer Schemata und Modi durch Fragebögen und Diskussion",
+        "Erforschung von Kindheitserfahrungen und unerfüllten emotionalen Bedürfnissen",
+        "Verwendung von Bildsprache und erlebnisorientierten Techniken zum Zugang zu Emotionen",
+        "Kognitive Arbeit zum Hinterfragen und Modifizieren maladaptiver Überzeugungen",
+        "Verhaltensorientierte Musterunterbrechung zur Entwicklung gesünderer Bewältigungsstrategien",
+        "Längerfristige Behandlung (typischerweise 1-3 Jahre) für dauerhafte Veränderungen"
+      ]
+    },
+    "cta": {
+      "title": "Heilen Sie tiefe emotionale Wunden",
+      "description": "Befassen Sie sich mit den Grundursachen langjähriger Muster und bauen Sie dauerhafte emotionale Gesundheit auf. Kontaktieren Sie uns noch heute, um mit Schematherapie zu beginnen."
+    }
+  },
+  "EMDRPage": {
+    "title": "EMDR-Therapie",
+    "subtitle": "Eye Movement Desensitization and Reprocessing (EMDR) ist eine kraftvolle Therapie für Traumata und belastende Erinnerungen. Sie hilft dem Gehirn, traumatische Erfahrungen zu verarbeiten und zu integrieren.",
+    "what": {
+      "title": "Was ist EMDR?",
+      "description": "EMDR verwendet bilaterale Stimulation (typischerweise Augenbewegungen), um dem Gehirn zu helfen, traumatische Erinnerungen neu zu verarbeiten, ihre emotionale Wirkung zu reduzieren und Heilung zu ermöglichen."
+    },
+    "phases": {
+      "title": "Die acht Phasen von EMDR",
+      "history": {
+        "title": "Anamnese & Behandlungsplanung",
+        "description": "Identifizieren Sie Behandlungsziele und entwickeln Sie einen umfassenden Behandlungsplan."
+      },
+      "preparation": {
+        "title": "Vorbereitung",
+        "description": "Lernen Sie Entspannungs- und Bewältigungstechniken zur Bewältigung von Belastungen während und zwischen den Sitzungen."
+      },
+      "assessment": {
+        "title": "Bewertung",
+        "description": "Identifizieren Sie spezifische Erinnerungen, Überzeugungen, Emotionen und Körperempfindungen, die mit dem Ziel verbunden sind."
+      },
+      "desensitization": {
+        "title": "Desensibilisierung",
+        "description": "Verarbeiten Sie die Erinnerung mithilfe bilateraler Stimulation, um ihre emotionale Ladung zu reduzieren."
+      },
+      "installation": {
+        "title": "Installation",
+        "description": "Stärken Sie positive Überzeugungen über sich selbst im Zusammenhang mit der Erinnerung."
+      },
+      "bodyScan": {
+        "title": "Körper-Scan",
+        "description": "Überprüfen und verarbeiten Sie verbleibende körperliche Spannungen oder Beschwerden."
+      },
+      "closure": {
+        "title": "Abschluss",
+        "description": "Kehren Sie zu einem Gleichgewichtszustand zurück und lernen Sie Selbstberuhigungstechniken."
+      },
+      "reevaluation": {
+        "title": "Neubewertung",
+        "description": "Überprüfen Sie den Fortschritt und identifizieren Sie zusätzliche Behandlungsziele."
+      }
+    },
+    "conditions": {
+      "title": "Erkrankungen, die mit EMDR behandelt werden",
+      "list": [
+        "PTBS und Trauma",
+        "Angst und Panikattacken",
+        "Depression",
+        "Phobien",
+        "Trauer und Verlust",
+        "Leistungsangst",
+        "Chronischer Schmerz",
+        "Belastende Erinnerungen"
+      ]
+    },
+    "cta": {
+      "title": "Verarbeiten Sie Traumata und finden Sie Frieden",
+      "description": "EMDR kann Ihnen helfen, traumatische Erinnerungen zu verarbeiten und Ihr Leben zurückzugewinnen. Kontaktieren Sie uns noch heute, um mit der Verarbeitung traumatischer Erinnerungen zu beginnen und Ihr Leben zurückzugewinnen."
+    }
+  },
+  "MindfulnessPage": {
+    "title": "Achtsamkeitsbasierte Therapie",
+    "subtitle": "Achtsamkeitspraktiken helfen Ihnen, sich Gedanken und Emotionen ohne Urteil bewusst zu werden. Lernen Sie, präsent zu sein und geschickt auf Lebensherausforderungen zu reagieren.",
+    "what": {
+      "title": "Was ist Achtsamkeit?",
+      "description": "Achtsamkeit ist die Praxis, dem gegenwärtigen Moment mit Offenheit, Neugier und Akzeptanz Aufmerksamkeit zu schenken. Es beinhaltet das Beobachten von Gedanken, Gefühlen und Empfindungen ohne Urteil oder den Versuch, sie zu ändern.",
+      "therapy": "Achtsamkeitsbasierte Therapien integrieren Meditation und Achtsamkeitspraktiken mit psychologischen Prinzipien, um Stress zu reduzieren, Emotionen zu managen und das allgemeine Wohlbefinden zu verbessern. Diese Ansätze haben starke wissenschaftliche Unterstützung für verschiedene psychische Gesundheitszustände."
+    },
+    "benefits": {
+      "title": "Vorteile der Achtsamkeit",
+      "items": [
+        "Reduzierter Stress und Angst",
+        "Verbesserte Emotionsregulation",
+        "Bessere Konzentration und Fokus",
+        "Erhöhtes Selbstbewusstsein",
+        "Verringertes Grübeln",
+        "Größere Akzeptanz schwieriger Erfahrungen",
+        "Verbesserte Beziehungen",
+        "Bessere Schlafqualität"
+      ]
+    },
+    "practices": {
+      "title": "Achtsamkeitspraktiken",
+      "meditation": {
+        "title": "Meditation",
+        "description": "Formale Sitzpraxis zur Entwicklung von Aufmerksamkeit und Bewusstsein."
+      },
+      "breathing": {
+        "title": "Atemübungen",
+        "description": "Verwendung des Atems als Anker zum gegenwärtigen Moment."
+      },
+      "bodyScan": {
+        "title": "Körper-Scan",
+        "description": "Systematische Aufmerksamkeit auf körperliche Empfindungen im ganzen Körper."
+      },
+      "informal": {
+        "title": "Informelle Praxis",
+        "description": "Achtsames Bewusstsein in alltägliche Aktivitäten wie Essen, Gehen oder Zuhören bringen."
+      }
+    },
+    "cta": {
+      "title": "Kultivieren Sie Gegenwartsbewusstsein",
+      "description": "Lernen Sie zu reagieren, anstatt auf Lebensherausforderungen zu reagieren. Kontaktieren Sie uns noch heute, um Ihre Achtsamkeitsreise zu beginnen."
+    }
+  }
+}

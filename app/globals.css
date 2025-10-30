@@ -4,117 +4,117 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.145 0 0);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.145 0 0);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.145 0 0);
-  --primary: oklch(0.205 0 0);
-  --primary-foreground: oklch(0.985 0 0);
-  --secondary: oklch(0.97 0 0);
-  --secondary-foreground: oklch(0.205 0 0);
-  --muted: oklch(0.97 0 0);
-  --muted-foreground: oklch(0.556 0 0);
-  --accent: oklch(0.97 0 0);
-  --accent-foreground: oklch(0.205 0 0);
+  /* Golden color palette matching the logo */
+  --gold-primary: oklch(0.75 0.15 85);      /* Rich gold from logo */
+  --gold-light: oklch(0.85 0.12 85);        /* Lighter gold */
+  --gold-dark: oklch(0.60 0.18 85);         /* Darker gold */
+  
+  --cream: oklch(0.98 0.01 85);             /* Warm cream background */
+  --warm-white: oklch(0.995 0.005 85);      /* Warm white */
+  --beige: oklch(0.94 0.02 85);             /* Soft beige */
+  
+  --bronze: oklch(0.50 0.10 70);            /* Bronze accent */
+  --charcoal: oklch(0.25 0.01 70);          /* Dark text */
+  --gray: oklch(0.55 0.02 70);              /* Medium gray */
+  --light-gray: oklch(0.80 0.02 70);        /* Light gray */
+
+  /* Semantic tokens using golden palette */
+  --background: var(--warm-white);
+  --foreground: var(--charcoal);
+  
+  --card: var(--cream);
+  --card-foreground: var(--charcoal);
+  
+  --popover: var(--warm-white);
+  --popover-foreground: var(--charcoal);
+  
+  --primary: var(--gold-primary);
+  --primary-foreground: var(--warm-white);
+  
+  --secondary: var(--beige);
+  --secondary-foreground: var(--charcoal);
+  
+  --muted: var(--beige);
+  --muted-foreground: var(--gray);
+  
+  --accent: var(--gold-light);
+  --accent-foreground: var(--charcoal);
+  
   --destructive: oklch(0.577 0.245 27.325);
-  --destructive-foreground: oklch(0.577 0.245 27.325);
-  --border: oklch(0.922 0 0);
-  --input: oklch(0.922 0 0);
-  --ring: oklch(0.708 0 0);
-  --chart-1: oklch(0.646 0.222 41.116);
-  --chart-2: oklch(0.6 0.118 184.704);
-  --chart-3: oklch(0.398 0.07 227.392);
-  --chart-4: oklch(0.828 0.189 84.429);
-  --chart-5: oklch(0.769 0.188 70.08);
+  --destructive-foreground: oklch(0.985 0.01 85);
+  
+  --border: var(--light-gray);
+  --input: var(--beige);
+  --ring: var(--gold-primary);
+  
+  --chart-1: var(--gold-primary);
+  --chart-2: var(--gold-light);
+  --chart-3: var(--gold-dark);
+  --chart-4: var(--bronze);
+  --chart-5: var(--beige);
+  
   --radius: 0.625rem;
-  --sidebar: oklch(0.985 0 0);
-  --sidebar-foreground: oklch(0.145 0 0);
-  --sidebar-primary: oklch(0.205 0 0);
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.97 0 0);
-  --sidebar-accent-foreground: oklch(0.205 0 0);
-  --sidebar-border: oklch(0.922 0 0);
-  --sidebar-ring: oklch(0.708 0 0);
+  
+  --sidebar: var(--cream);
+  --sidebar-foreground: var(--charcoal);
+  --sidebar-primary: var(--gold-primary);
+  --sidebar-primary-foreground: var(--warm-white);
+  --sidebar-accent: var(--beige);
+  --sidebar-accent-foreground: var(--charcoal);
+  --sidebar-border: var(--light-gray);
+  --sidebar-ring: var(--gold-primary);
 }
 
 .dark {
-  --background: oklch(0.145 0 0);
-  --foreground: oklch(0.985 0 0);
-  --card: oklch(0.145 0 0);
-  --card-foreground: oklch(0.985 0 0);
-  --popover: oklch(0.145 0 0);
-  --popover-foreground: oklch(0.985 0 0);
-  --primary: oklch(0.985 0 0);
-  --primary-foreground: oklch(0.205 0 0);
-  --secondary: oklch(0.269 0 0);
-  --secondary-foreground: oklch(0.985 0 0);
-  --muted: oklch(0.269 0 0);
-  --muted-foreground: oklch(0.708 0 0);
-  --accent: oklch(0.269 0 0);
-  --accent-foreground: oklch(0.985 0 0);
-  --destructive: oklch(0.396 0.141 25.723);
-  --destructive-foreground: oklch(0.637 0.237 25.331);
-  --border: oklch(0.269 0 0);
-  --input: oklch(0.269 0 0);
-  --ring: oklch(0.439 0 0);
-  --chart-1: oklch(0.488 0.243 264.376);
-  --chart-2: oklch(0.696 0.17 162.48);
-  --chart-3: oklch(0.769 0.188 70.08);
-  --chart-4: oklch(0.627 0.265 303.9);
-  --chart-5: oklch(0.645 0.246 16.439);
-  --sidebar: oklch(0.205 0 0);
-  --sidebar-foreground: oklch(0.985 0 0);
-  --sidebar-primary: oklch(0.488 0.243 264.376);
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.269 0 0);
-  --sidebar-accent-foreground: oklch(0.985 0 0);
-  --sidebar-border: oklch(0.269 0 0);
-  --sidebar-ring: oklch(0.439 0 0);
+  --background: oklch(0.20 0.01 70);
+  --foreground: var(--cream);
+  
+  --card: oklch(0.25 0.01 70);
+  --card-foreground: var(--cream);
+  
+  --popover: oklch(0.22 0.01 70);
+  --popover-foreground: var(--cream);
+  
+  --primary: var(--gold-light);
+  --primary-foreground: var(--charcoal);
+  
+  --secondary: oklch(0.30 0.02 70);
+  --secondary-foreground: var(--cream);
+  
+  --muted: oklch(0.30 0.02 70);
+  --muted-foreground: var(--light-gray);
+  
+  --accent: var(--gold-primary);
+  --accent-foreground: var(--charcoal);
+  
+  --destructive: oklch(0.50 0.20 27);
+  --destructive-foreground: var(--cream);
+  
+  --border: oklch(0.35 0.02 70);
+  --input: oklch(0.30 0.02 70);
+  --ring: var(--gold-light);
+  
+  --chart-1: var(--gold-light);
+  --chart-2: var(--gold-primary);
+  --chart-3: var(--gold-dark);
+  --chart-4: var(--bronze);
+  --chart-5: var(--beige);
+  
+  --sidebar: oklch(0.18 0.01 70);
+  --sidebar-foreground: var(--cream);
+  --sidebar-primary: var(--gold-primary);
+  --sidebar-primary-foreground: var(--charcoal);
+  --sidebar-accent: oklch(0.30 0.02 70);
+  --sidebar-accent-foreground: var(--cream);
+  --sidebar-border: oklch(0.35 0.02 70);
+  --sidebar-ring: var(--gold-light);
 }
 
 @theme inline {
   --font-sans: "Inter", system-ui, sans-serif;
   --font-serif: "Crimson Pro", Georgia, serif;
 
-  /* Color Palette - Warm golden therapeutic colors */
-  --color-gold: #c9a961;
-  --color-gold-light: #e4c98a;
-  --color-gold-dark: #a88b4a;
-
-  --color-cream: #faf8f5;
-  --color-warm-white: #fffefb;
-  --color-beige: #f0ebe3;
-
-  --color-bronze: #8b6f47;
-  --color-charcoal: #2d2520;
-  --color-gray: #6b5d52;
-  --color-light-gray: #c4b8ad;
-
-  /* Semantic Design Tokens */
-  --color-background: var(--color-warm-white);
-  --color-foreground: var(--color-charcoal);
-
-  --color-card: var(--color-cream);
-  --color-card-foreground: var(--color-charcoal);
-
-  --color-primary: var(--color-gold);
-  --color-primary-foreground: var(--color-warm-white);
-
-  --color-secondary: var(--color-beige);
-  --color-secondary-foreground: var(--color-charcoal);
-
-  --color-muted: var(--color-beige);
-  --color-muted-foreground: var(--color-gray);
-
-  --color-accent: var(--color-gold-light);
-  --color-accent-foreground: var(--color-charcoal);
-
-  --color-border: var(--color-light-gray);
-  --color-input: var(--color-beige);
-  --color-ring: var(--color-gold);
-
+  /* Map to Tailwind color tokens */
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-card: var(--card);
@@ -139,10 +139,12 @@
   --color-chart-3: var(--chart-3);
   --color-chart-4: var(--chart-4);
   --color-chart-5: var(--chart-5);
+  
   --radius-sm: calc(var(--radius) - 4px);
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
+  
   --color-sidebar: var(--sidebar);
   --color-sidebar-foreground: var(--sidebar-foreground);
   --color-sidebar-primary: var(--sidebar-primary);
@@ -151,8 +153,6 @@
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-ring: var(--sidebar-ring);
-
-  --radius: 0.5rem;
 }
 
 @layer base {
@@ -177,4 +177,31 @@ h4,
 h5,
 h6 {
   font-family: var(--font-serif);
+}
+
+/* Additional golden accents */
+.text-primary {
+  color: var(--gold-primary);
+}
+
+.bg-primary {
+  background-color: var(--gold-primary);
+}
+
+.border-primary {
+  border-color: var(--gold-primary);
+}
+
+/* Hover states with golden glow */
+.hover\:text-primary:hover {
+  color: var(--gold-primary);
+}
+
+.hover\:bg-primary:hover {
+  background-color: var(--gold-primary);
+}
+
+/* Focus rings with golden color */
+.focus-visible\:ring-primary:focus-visible {
+  --tw-ring-color: var(--gold-primary);
 }

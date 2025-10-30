@@ -1,36 +1,40 @@
-import { Navigation } from "@/components/navigation"
+import { Navigation } from "@/components/navigation-i18n"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import Link from "next/link"
+import Image from "next/image"
 import { Heart, Brain, Users, Sparkles, Phone, Globe } from "lucide-react"
+import { getTranslations, type Locale } from "@/lib/i18n"
 
-export default function HomePage() {
+export default async function HomePage({ params }: { params: Promise<{ locale: Locale }> }) {
+  const { locale } = await params
+  const t = getTranslations(locale)
+
   return (
     <div className="min-h-screen">
-      <Navigation />
+      <Navigation locale={locale} t={t} />
 
       {/* Hero Section */}
       <section className="relative py-20 md:py-32 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-accent/20 to-background">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-serif font-bold text-foreground mb-6 text-balance">
-            Heal, Restore and Thrive
+            {t.HomePage.hero.title}
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-4 text-pretty">
-            We remodel your boundaries and success
+            {t.HomePage.hero.subtitle}
           </p>
           <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto text-pretty">
-            Professional psychological services, cognitive assessments, diagnosis, and counseling in a warm, open, and
-            non-judgmental environment.
+            {t.HomePage.hero.description}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <Link href="/contact">
+            <Link href={`/${locale}/contact`}>
               <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
-                Book a Consultation
+                {t.HomePage.hero.bookConsultation}
               </Button>
             </Link>
-            <Link href="/disorders/anxiety">
+            <Link href={`/${locale}/disorders/anxiety`}>
               <Button size="lg" variant="outline">
-                Explore Disorders
+                {t.HomePage.hero.exploreDisorders}
               </Button>
             </Link>
           </div>
@@ -38,7 +42,7 @@ export default function HomePage() {
           {/* Languages */}
           <div className="mt-8 flex items-center justify-center gap-2 text-sm text-muted-foreground">
             <Globe className="h-4 w-4" />
-            <span>Available in English, German & Romanian</span>
+            <span>{t.HomePage.hero.languagesAvailable}</span>
           </div>
         </div>
       </section>
@@ -47,54 +51,58 @@ export default function HomePage() {
       <section className="py-16 px-4 sm:px-6 lg:px-8 bg-card">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-serif font-bold text-center mb-6 text-card-foreground">
-            I Believe Your Mental Health Matters
+            {t.HomePage.philosophy.title}
           </h2>
           <p className="text-lg text-muted-foreground text-center mb-12 text-pretty leading-relaxed">
-            Often, our lives are complicated, and the same goes for our problems. Psychotherapy is the process of
-            identifying and defining the problem you are experiencing and finding new ways to approach it.
+            {t.HomePage.philosophy.description}
           </p>
 
+          {/* Philosophy Cards */}
           <div className="grid md:grid-cols-2 gap-8">
             <Card className="border-none shadow-sm">
               <CardContent className="p-6">
-                <Heart className="h-10 w-10 text-primary mb-4" />
-                <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">Compassionate Care</h3>
+                <Heart className="h-8 w-8 text-primary mb-4" />
+                <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">
+                  {t.HomePage.philosophy.compassionate.title}
+                </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Fresh approaches to mental health care in a warm, open and non-judgmental environment, to help reduce
-                  emotional suffering and behavioral concerns.
+                  {t.HomePage.philosophy.compassionate.description}
                 </p>
               </CardContent>
             </Card>
 
             <Card className="border-none shadow-sm">
               <CardContent className="p-6">
-                <Brain className="h-10 w-10 text-primary mb-4" />
-                <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">Evidence-Based Methods</h3>
+                <Brain className="h-8 w-8 text-primary mb-4" />
+                <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">
+                  {t.HomePage.philosophy.evidenceBased.title}
+                </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Utilizing well-researched evidence-based and talk-based psychological techniques including CBT, DBT,
-                  ACT, EMDR, and more.
+                  {t.HomePage.philosophy.evidenceBased.description}
                 </p>
               </CardContent>
             </Card>
 
             <Card className="border-none shadow-sm">
               <CardContent className="p-6">
-                <Users className="h-10 w-10 text-primary mb-4" />
-                <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">Personalized Approach</h3>
+                <Users className="h-8 w-8 text-primary mb-4" />
+                <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">
+                  {t.HomePage.philosophy.personalized.title}
+                </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Clients receive a personalized service tailored to their specific needs, in a collaborative manner
-                  that respects your unique journey.
+                  {t.HomePage.philosophy.personalized.description}
                 </p>
               </CardContent>
             </Card>
 
             <Card className="border-none shadow-sm">
               <CardContent className="p-6">
-                <Sparkles className="h-10 w-10 text-primary mb-4" />
-                <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">Holistic Wellbeing</h3>
+                <Sparkles className="h-8 w-8 text-primary mb-4" />
+                <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">
+                  {t.HomePage.philosophy.holistic.title}
+                </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Looking at eight distinct forms of intelligence and addressing physical, mental, emotional, and social
-                  health factors.
+                  {t.HomePage.philosophy.holistic.description}
                 </p>
               </CardContent>
             </Card>
@@ -105,30 +113,23 @@ export default function HomePage() {
       {/* Disorders Section */}
       <section className="py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-3xl md:text-4xl font-serif font-bold text-center mb-4">Disorders We Treat</h2>
-          <p className="text-lg text-muted-foreground text-center mb-12 max-w-3xl mx-auto text-pretty">
-            Comprehensive treatment for a wide range of mental health concerns
-          </p>
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-serif font-bold mb-4 text-foreground">
+              {t.HomePage.disorders.title}
+            </h2>
+            <p className="text-lg text-muted-foreground mb-8 text-pretty">
+              {t.HomePage.disorders.subtitle}
+            </p>
+          </div>
 
-          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
-            {[
-              { name: "Anxiety", href: "/disorders/anxiety" },
-              { name: "Depression", href: "/disorders/depression" },
-              { name: "Trauma & PTSD", href: "/disorders/trauma-ptsd" },
-              { name: "Stress", href: "/disorders/stress" },
-              { name: "Relationships", href: "/disorders/relationships" },
-              { name: "Grief & Loss", href: "/disorders/grief-loss" },
-              { name: "Addiction", href: "/disorders/addiction" },
-              { name: "ADHD", href: "/disorders/adhd" },
-              { name: "Personality Disorders", href: "/disorders/personality-disorders" },
-              { name: "Eating Disorders", href: "/disorders/eating-disorders" },
-              { name: "Bipolar Disorder", href: "/disorders/bipolar" },
-              { name: "Self-Esteem", href: "/disorders/self-esteem" },
-            ].map((disorder) => (
-              <Link key={disorder.href} href={disorder.href}>
-                <Card className="hover:shadow-md transition-shadow cursor-pointer h-full">
+          <div className="grid md:grid-cols-3 gap-6">
+            {Object.entries(t.DisordersList).slice(0, 6).map(([key, name]) => (
+              <Link key={key} href={`/${locale}/disorders/${key}`}>
+                <Card className="border-none shadow-sm hover:shadow-md transition-all hover:scale-105 cursor-pointer h-full">
                   <CardContent className="p-6">
-                    <h3 className="font-medium text-card-foreground">{disorder.name}</h3>
+                    <h3 className="text-lg font-serif font-semibold text-card-foreground">
+                      {name as string}
+                    </h3>
                   </CardContent>
                 </Card>
               </Link>
@@ -136,9 +137,9 @@ export default function HomePage() {
           </div>
 
           <div className="text-center mt-8">
-            <Link href="/disorders/anxiety">
+            <Link href={`/${locale}/disorders`}>
               <Button variant="outline" size="lg">
-                View All Disorders
+                {t.HomePage.disorders.viewAll}
               </Button>
             </Link>
           </div>
@@ -148,79 +149,115 @@ export default function HomePage() {
       {/* Therapies Section */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 bg-card">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-3xl md:text-4xl font-serif font-bold text-center mb-4 text-card-foreground">
-            Evidence-Based Therapies
-          </h2>
-          <p className="text-lg text-muted-foreground text-center mb-12 max-w-3xl mx-auto text-pretty">
-            We use the techniques of CBT, DBT, ACT, ST, SFT, PPT, ITP, NLP, and EMDR for therapies
-          </p>
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-serif font-bold mb-4 text-card-foreground">
+              {t.HomePage.therapies.title}
+            </h2>
+            <p className="text-lg text-muted-foreground text-pretty">
+              {t.HomePage.therapies.subtitle}
+            </p>
+          </div>
 
-          <div className="grid md:grid-cols-3 gap-6">
-            {[
-              {
-                name: "Cognitive Behavioural Therapy (CBT)",
-                description:
-                  "Combat present-time issues through problem-solving and identifying unhelpful thought patterns.",
-                href: "/therapies/cbt",
-              },
-              {
-                name: "Dialectical Behavioural Therapy (DBT)",
-                description:
-                  "A modified version of CBT that brings together acceptance and change for optimal results.",
-                href: "/therapies/dbt",
-              },
-              {
-                name: "Acceptance & Commitment Therapy (ACT)",
-                description:
-                  "Mindfulness-based approach that teaches acceptance of emotions while committing to positive action.",
-                href: "/therapies/act",
-              },
-              {
-                name: "EMDR Therapy",
-                description:
-                  "Eye Movement Desensitization Reprocessing for healing from trauma and emotional distress.",
-                href: "/therapies/emdr",
-              },
-              {
-                name: "Schema Therapy",
-                description: "Unified approach combining cognitive, behavioral, and gestalt therapy methods.",
-                href: "/therapies/schema-therapy",
-              },
-              {
-                name: "Mindfulness",
-                description: "Practices to become aware of thoughts and emotions without judgment or distraction.",
-                href: "/therapies/mindfulness",
-              },
-            ].map((therapy) => (
-              <Link key={therapy.href} href={therapy.href}>
-                <Card className="hover:shadow-md transition-shadow cursor-pointer h-full">
-                  <CardContent className="p-6">
-                    <h3 className="text-lg font-serif font-semibold mb-3 text-card-foreground">{therapy.name}</h3>
-                    <p className="text-sm text-muted-foreground leading-relaxed">{therapy.description}</p>
-                  </CardContent>
-                </Card>
-              </Link>
-            ))}
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <Link href={`/${locale}/therapies/cbt`}>
+              <Card className="border-none shadow-sm hover:shadow-md transition-all hover:scale-105 cursor-pointer h-full">
+                <CardContent className="p-6">
+                  <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">
+                    {t.HomePage.therapies.cbt.title}
+                  </h3>
+                  <p className="text-muted-foreground leading-relaxed">
+                    {t.HomePage.therapies.cbt.description}
+                  </p>
+                </CardContent>
+              </Card>
+            </Link>
+
+            <Link href={`/${locale}/therapies/dbt`}>
+              <Card className="border-none shadow-sm hover:shadow-md transition-all hover:scale-105 cursor-pointer h-full">
+                <CardContent className="p-6">
+                  <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">
+                    {t.HomePage.therapies.dbt.title}
+                  </h3>
+                  <p className="text-muted-foreground leading-relaxed">
+                    {t.HomePage.therapies.dbt.description}
+                  </p>
+                </CardContent>
+              </Card>
+            </Link>
+
+            <Link href={`/${locale}/therapies/act`}>
+              <Card className="border-none shadow-sm hover:shadow-md transition-all hover:scale-105 cursor-pointer h-full">
+                <CardContent className="p-6">
+                  <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">
+                    {t.HomePage.therapies.act.title}
+                  </h3>
+                  <p className="text-muted-foreground leading-relaxed">
+                    {t.HomePage.therapies.act.description}
+                  </p>
+                </CardContent>
+              </Card>
+            </Link>
+
+            <Link href={`/${locale}/therapies/emdr`}>
+              <Card className="border-none shadow-sm hover:shadow-md transition-all hover:scale-105 cursor-pointer h-full">
+                <CardContent className="p-6">
+                  <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">
+                    {t.HomePage.therapies.emdr.title}
+                  </h3>
+                  <p className="text-muted-foreground leading-relaxed">
+                    {t.HomePage.therapies.emdr.description}
+                  </p>
+                </CardContent>
+              </Card>
+            </Link>
+
+            <Link href={`/${locale}/therapies/schema-therapy`}>
+              <Card className="border-none shadow-sm hover:shadow-md transition-all hover:scale-105 cursor-pointer h-full">
+                <CardContent className="p-6">
+                  <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">
+                    {t.HomePage.therapies.schema.title}
+                  </h3>
+                  <p className="text-muted-foreground leading-relaxed">
+                    {t.HomePage.therapies.schema.description}
+                  </p>
+                </CardContent>
+              </Card>
+            </Link>
+
+            <Link href={`/${locale}/therapies/mindfulness`}>
+              <Card className="border-none shadow-sm hover:shadow-md transition-all hover:scale-105 cursor-pointer h-full">
+                <CardContent className="p-6">
+                  <h3 className="text-xl font-serif font-semibold mb-3 text-card-foreground">
+                    {t.HomePage.therapies.mindfulness.title}
+                  </h3>
+                  <p className="text-muted-foreground leading-relaxed">
+                    {t.HomePage.therapies.mindfulness.description}
+                  </p>
+                </CardContent>
+              </Card>
+            </Link>
           </div>
         </div>
       </section>
 
       {/* CTA Section */}
-      <section className="py-16 px-4 sm:px-6 lg:px-8 bg-primary text-primary-foreground">
+      <section className="py-16 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-accent/20 to-background">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl md:text-4xl font-serif font-bold mb-6">Ready to Begin Your Journey?</h2>
-          <p className="text-lg mb-8 opacity-90 text-pretty">
-            Take the first step towards emotional growth and meaningful change. Contact us today for a consultation.
+          <h2 className="text-3xl md:text-4xl font-serif font-bold mb-6 text-foreground">
+            {t.HomePage.cta.title}
+          </h2>
+          <p className="text-lg text-muted-foreground mb-8 text-pretty">
+            {t.HomePage.cta.description}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <Link href="/contact">
-              <Button size="lg" variant="secondary">
-                Get in Touch
+            <Link href={`/${locale}/contact`}>
+              <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
+                {t.HomePage.cta.button}
               </Button>
             </Link>
-            <a href="tel:+12122555511" className="flex items-center gap-2 text-lg">
+            <a href={`tel:${t.Common.phone}`} className="flex items-center gap-2 text-lg">
               <Phone className="h-5 w-5" />
-              +1 (212) 255-5511
+              {t.Common.phone}
             </a>
           </div>
         </div>
@@ -228,46 +265,72 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="py-12 px-4 sm:px-6 lg:px-8 bg-card border-t border-border">
-        <div className="max-w-6xl mx-auto">
-          <div className="grid md:grid-cols-3 gap-8">
-            <div>
-              <h3 className="text-lg font-serif font-semibold mb-4 text-card-foreground">Raluca Diana Tocoian</h3>
-              <p className="text-sm text-muted-foreground leading-relaxed">
-                Psychologie, Psychotherapie Coaching & Mentoring
-              </p>
+        <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-8">
+          <div>
+            <div className="flex items-center gap-3 mb-4">
+              <Image 
+                src="/logo.png" 
+                alt="Mindcores Logo" 
+                width={40} 
+                height={40}
+                className="w-10 h-10"
+              />
+              <h3 className="text-lg font-serif font-semibold text-card-foreground">
+                {t.Navigation.brandName}
+              </h3>
             </div>
-
-            <div>
-              <h4 className="text-sm font-semibold mb-4 text-card-foreground">Quick Links</h4>
-              <div className="flex flex-col gap-2">
-                <Link href="/disorders/anxiety" className="text-sm text-muted-foreground hover:text-foreground">
-                  Disorders
-                </Link>
-                <Link href="/therapies/cbt" className="text-sm text-muted-foreground hover:text-foreground">
-                  Therapies
-                </Link>
-                <Link href="/group-programs" className="text-sm text-muted-foreground hover:text-foreground">
-                  Group Programs
-                </Link>
-                <Link href="/contact" className="text-sm text-muted-foreground hover:text-foreground">
-                  Contact
-                </Link>
-              </div>
-            </div>
-
-            <div>
-              <h4 className="text-sm font-semibold mb-4 text-card-foreground">Contact</h4>
-              <div className="flex flex-col gap-2 text-sm text-muted-foreground">
-                <p>Phone: +1 (212) 255-5511</p>
-                <p>Response within 24-48 hours</p>
-                <p className="mt-2">Languages: English, German, Romanian</p>
-              </div>
-            </div>
+            <p className="text-muted-foreground">
+              {t.HomePage.footer.description}
+            </p>
           </div>
 
-          <div className="mt-8 pt-8 border-t border-border text-center text-sm text-muted-foreground">
-            <p>&copy; 2025 Raluca Diana Tocoian. All rights reserved.</p>
+          <div>
+            <h3 className="text-lg font-serif font-semibold mb-4 text-card-foreground">
+              {t.HomePage.footer.quickLinks}
+            </h3>
+            <ul className="space-y-2">
+              <li>
+                <Link href={`/${locale}`} className="text-muted-foreground hover:text-foreground transition-colors">
+                  {t.Navigation.home}
+                </Link>
+              </li>
+              <li>
+                <Link href={`/${locale}/disorders`} className="text-muted-foreground hover:text-foreground transition-colors">
+                  {t.Navigation.disorders}
+                </Link>
+              </li>
+              <li>
+                <Link href={`/${locale}/therapies`} className="text-muted-foreground hover:text-foreground transition-colors">
+                  {t.Navigation.therapies}
+                </Link>
+              </li>
+              <li>
+                <Link href={`/${locale}/group-programs`} className="text-muted-foreground hover:text-foreground transition-colors">
+                  {t.Navigation.groupPrograms}
+                </Link>
+              </li>
+              <li>
+                <Link href={`/${locale}/contact`} className="text-muted-foreground hover:text-foreground transition-colors">
+                  {t.Navigation.contact}
+                </Link>
+              </li>
+            </ul>
           </div>
+
+          <div>
+            <h3 className="text-lg font-serif font-semibold mb-4 text-card-foreground">
+              {t.HomePage.footer.contact}
+            </h3>
+            <ul className="space-y-2 text-muted-foreground">
+              <li>{t.HomePage.footer.phone}</li>
+              <li>{t.HomePage.footer.responseTime}</li>
+              <li>{t.HomePage.footer.languages}</li>
+            </ul>
+          </div>
+        </div>
+
+        <div className="max-w-6xl mx-auto mt-8 pt-8 border-t border-border text-center text-sm text-muted-foreground">
+          {t.HomePage.footer.copyright}
         </div>
       </footer>
     </div>
